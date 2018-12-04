@@ -1,7 +1,6 @@
 ---
 title: "Animation Example"
 output: html_document
-        keep_md: false
 ---
 
 
@@ -10,10 +9,11 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
 First, we read in an example play
+
 ```{r}
 library(tidyverse)
 file.tracking <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/Tracking/tracking_gameId_2017090700.csv?token=ArYlPx05ztvrEtIKTgB9umBui6HviSJMks5cDo3WwA%3D%3D"
-tracking.example <- read_csv(file.url)
+tracking.example <- read_csv(file.tracking)
 
 file.game <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/games.csv?token=ArYlP3sUZTHRrsP5-qNkvDdobliwSSJAks5cDo5xwA%3D%3D"
 games.sum <- read_csv(file.game) 
