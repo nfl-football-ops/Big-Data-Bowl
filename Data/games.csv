@@ -1,0 +1,92 @@
+season,week,gameDate,gameId,gameTimeEastern,HomeScore,VisitorScore,homeTeamAbbr,visitorTeamAbbr,homeDisplayName,visitorDisplayName,Stadium,Location,StadiumType,Turf,GameLength,GameWeather,Temperature,Humidity,WindSpeed,WindDirection
+2017,1,09/10/2017,2017091004,13:00:00,35,23,DET,ARI,Detroit Lions,Arizona Cardinals,Ford Field,"Detroit, MI",Indoors,Field Turf,03:26:00,Controlled Climate,68,70,NA,NA
+2017,1,09/07/2017,2017090700,20:30:00,27,42,NE,KC,New England Patriots,Kansas City Chiefs,Gillette Stadium,"Foxborough, MA",Outdoor,Field Turf,03:37:00,Clear and warm,63,77,8,SW
+2017,1,09/10/2017,2017091003,13:00:00,18,21,CLE,PIT,Cleveland Browns,Pittsburgh Steelers,FirstEnergy,"Cleveland, Ohio",Outdoor,Grass,02:59:00,Sunny,63,53,11,East
+2017,1,09/10/2017,2017091002,13:00:00,0,20,CIN,BAL,Cincinnati Bengals,Baltimore Ravens,Paul Brown Stadium,"Cincinnati, Ohio",Outdoor,UBU Sports Speed S5-M,02:57:00,Sunny,68,43,9,SE
+2017,1,09/10/2017,2017091000,13:00:00,21,12,BUF,NYJ,Buffalo Bills,New York Jets,New Era Field,Orchard Park NY,Outdoors,A-Turf Titan,02:54:00,Sun & clouds,65,53,6,NNE
+2017,1,09/10/2017,2017091001,13:00:00,17,23,CHI,ATL,Chicago Bears,Atlanta Falcons,Soldier Field,Chicago. IL,Outdoor,Grass,02:54:00,Sunny,64,57,10,SE
+2017,1,09/10/2017,2017091007,13:00:00,16,26,TEN,OAK,Tennessee Titans,Oakland Raiders,Nissan Stadium,"Nashville, TN",Outdoors,Grass,02:59:00,Sunny,72,50,7,NE
+2017,1,09/10/2017,2017091008,13:00:00,17,30,WAS,PHI,Washington Redskins,Philadelphia Eagles,FedExField,"Landover, MD",Outdoors,Grass,03:06:00,Sunny,67,54,5,North
+2017,1,09/10/2017,2017091005,13:00:00,7,29,HOU,JAX,Houston Texans,Jacksonville Jaguars,NRG Stadium,"Houston, Texas",Retractable Roof,Artificial,03:06:00,Sunny,80,49,10,NNE
+2017,1,09/10/2017,2017091010,16:25:00,17,9,GB,SEA,Green Bay Packers,Seattle Seahawks,Lambeau Field,"Green Bay, WI",Outdoor,DD GrassMaster,03:09:00,Mostly Sunny,71,49,11,S
+2017,1,09/10/2017,2017091009,16:05:00,46,9,LA,IND,Los Angeles Rams,Indianapolis Colts,Los Angeles Memorial Coliseum,"Los Angeles, Calif.",Outdoor,Grass,02:59:00,Sunny,90,38,2,SW
+2017,1,09/10/2017,2017091011,16:25:00,3,23,SF,CAR,San Francisco 49ers,Carolina Panthers,Levis Stadium,"Santa Clara, CA",Outdoor,Natural Grass,02:55:00,Clear,87,43,8,Northwest
+2017,1,09/10/2017,2017091012,20:30:00,19,3,DAL,NYG,Dallas Cowboys,New York Giants,AT&T Stadium,"Arlington, Texas",Indoor,Artificial,02:48:00,NA,NULL,NA,NA,NA
+2017,1,09/11/2017,2017091100,19:10:00,29,19,MIN,NO,Minnesota Vikings,New Orleans Saints,U.S. Bank Stadium,"Minneapolis, MN",Indoors,Field Turf,02:55:00,Indoor,70,0,NA,NA
+2017,2,09/17/2017,2017091701,13:00:00,9,3,CAR,BUF,Carolina Panthers,Buffalo Bills,Bank of America Stadium,"Charlotte, North Carolina",Outdoors,Natural Grass,02:49:00,Sunny,83,60,5,North
+2017,2,09/17/2017,2017091704,13:00:00,27,20,KC,PHI,Kansas City Chiefs,Philadelphia Eagles,Arrowhead Stadium,"Kansas City, MO",Outdoor,Natural Grass,03:07:00,Cloudy,68,95,7,Northeast
+2017,2,09/17/2017,2017091705,13:00:00,20,36,NO,NE,New Orleans Saints,New England Patriots,Mercedes-Benz Superdome,"New Orleans, LA",Indoors,UBU Speed Series-S5-M,03:06:00,Mostly Cloudy,85,75,7,NNE
+2017,2,09/17/2017,2017091702,13:00:00,13,16,IND,ARI,Indianapolis Colts,Arizona Cardinals,Lucas Oil Stadium,"Indianapolis, Ind.",Retr. Roof-Closed,Artificial,03:16:00,Partly sunny,78,66,6,SSW
+2017,3,09/24/2017,2017092408,13:00:00,20,6,NYJ,MIA,New York Jets,Miami Dolphins,MetLife Stadium,"East Rutherford, NJ",Outdoor,FieldTurf,02:58:00,Sunny,88,41,5,NE
+2017,2,09/17/2017,2017091703,13:00:00,16,37,JAX,TEN,Jacksonville Jaguars,Tennessee Titans,Everbank Field,"Jacksonville, FL",Open,Grass,03:02:00,Partly Cloudy,84,59,10,NW
+2017,2,09/17/2017,2017091707,13:00:00,29,7,TB,CHI,Tampa Bay Buccaneers,Chicago Bears,Raymond James Stadium,"Tampa, FL",Outdoor,Natural Grass,02:55:00,Clear,88,62,7,NE
+2017,2,09/17/2017,2017091708,16:05:00,17,19,LAC,MIA,Los Angeles Chargers,Miami Dolphins,StubHub Center,"Carson, CA",NA,Grass,02:54:00,Cloudy,71,68,7,W
+2017,2,09/17/2017,2017091700,13:00:00,24,10,BAL,CLE,Baltimore Ravens,Cleveland Browns,M&T Bank Stadium,"Baltimore, Md.",Outdoor,Natural Grass,03:17:00,Mostly Cloudy,80,69,2,ESE
+2017,1,09/11/2017,2017091101,22:20:00,24,21,DEN,LAC,Denver Broncos,Los Angeles Chargers,Sports Authority Field at Mile High,"Denver, CO",Outdoor,Grass,02:54:00,Mostly Cloudy,73,39,12,SouthWest
+2017,2,09/17/2017,2017091711,16:25:00,20,27,LA,WAS,Los Angeles Rams,Washington Redskins,Los Angeles Memorial Coliseum,"Los Angeles, Calif.",Outdoor,Grass,03:10:00,Cloudy,76,59,3,SW
+2017,2,09/17/2017,2017091713,20:30:00,34,23,ATL,GB,Atlanta Falcons,Green Bay Packers,Mercedes-Benz Dome,"Atlanta, GA","Indoor, Open Roof",FieldTurf 360,03:10:00,Clear,78,72,4,NW
+2017,3,09/24/2017,2017092407,13:00:00,36,33,NE,HOU,New England Patriots,Houston Texans,Gillette Stadium,"Foxborough, MA",Outdoor,Field Turf,03:19:00,Sunny,84,53,4,NE
+2017,2,09/17/2017,2017091709,16:05:00,45,20,OAK,NYJ,Oakland Raiders,New York Jets,Oakland-Alameda County Coliseum,"Oakland, CA",Outdoor,Natural Grass,03:00:00,Sunny,70,57,6,South
+2017,3,09/24/2017,2017092400,09:30:00,44,7,JAX,BAL,Jacksonville Jaguars,Baltimore Ravens,Wembley Stadium,"London, England",Outdoors,Grass,02:49:00,NA,70,51,10,SE
+2017,2,09/17/2017,2017091712,16:25:00,12,9,SEA,SF,Seattle Seahawks,San Francisco 49ers,CenturyLink Field,"Seattle, WA",Outdoor,FieldTurf,03:00:00,Mostly Cloudy,65,60,12,S
+2017,2,09/14/2017,2017091400,20:25:00,9,13,CIN,HOU,Cincinnati Bengals,Houston Texans,Paul Brown Stadium,"Cincinnati, Ohio",Outdoor,UBU Sports Speed S5-M,03:04:00,Mostly Coudy,69,78,2,ENE
+2017,2,09/17/2017,2017091706,13:00:00,26,9,PIT,MIN,Pittsburgh Steelers,Minnesota Vikings,Heinz Field,Pittsburgh,Outdoors,Grass,03:11:00,Sunny,78,64,1,From S
+2017,2,09/17/2017,2017091710,16:25:00,42,17,DEN,DAL,Denver Broncos,Dallas Cowboys,Sports Authority Field at Mile High,"Denver, CO",Outdoor,Grass,04:15:00,Partly Cloudy,72,41,5,SouthWest
+2017,2,09/18/2017,2017091800,20:30:00,10,24,NYG,DET,New York Giants,Detroit Lions,MetLife Stadium,"East Rutherford, NJ",NA,UBU Speed Series-S5-M,02:56:00,Cloudy,72,80,5,ENE
+2017,3,09/21/2017,2017092100,20:25:00,39,41,SF,LA,San Francisco 49ers,Los Angeles Rams,Levis Stadium,"Santa Clara, CA",Outdoor,Natural grass,03:24:00,Mostly Sunny,68,42,13,West-Southwest
+2017,3,09/24/2017,2017092404,13:00:00,26,30,DET,ATL,Detroit Lions,Atlanta Falcons,Ford Field,Detroit,Indoors,Field Turf,03:22:00,Controlled Climate,68,70,NA,NA
+2017,3,09/24/2017,2017092401,13:00:00,26,16,BUF,DEN,Buffalo Bills,Denver Broncos,New Era Field,Orchard Park NY,Outdoors,A-Turf Titan,03:03:00,Sunny,83,56,5,W
+2017,3,09/24/2017,2017092412,16:25:00,10,24,LAC,KC,Los Angeles Chargers,Kansas City Chiefs,StubHub Center,"Carson, CA",NA,Grass,03:08:00,Sunny,84,25,5,W
+2017,4,10/01/2017,2017100104,13:00:00,30,35,DAL,LA,Dallas Cowboys,Los Angeles Rams,AT&T Stadium,"Arlington, Texas",Indoor,Artificial,03:21:00,NA,NULL,0,NA,NA
+2017,3,09/24/2017,2017092413,20:30:00,27,10,WAS,OAK,Washington Redskins,Oakland Raiders,FedExField,"Landover, MD",Outdoor,Grass,03:00:00,Clear,76,75,0,NA
+2017,4,10/01/2017,2017100102,13:00:00,9,26,BAL,PIT,Baltimore Ravens,Pittsburgh Steelers,M&T Stadium,"Baltimore, Md.",Outdoor,Natural Grass,03:16:00,Sunny,64,52,6,North
+2017,4,10/01/2017,2017100106,13:00:00,7,14,MIN,DET,Minnesota Vikings,Detroit Lions,U.S. Bank Stadium,"Minneapolis, MN",Indoor,Field Turf,03:05:00,Indoor,NULL,0,NA,NA
+2017,3,09/24/2017,2017092402,13:00:00,13,34,CAR,NO,Carolina Panthers,New Orleans Saints,Bank of America Stadium,"Charlotte, North Carolina",Outdoors,Natural Grass,02:52:00,Sunny,82,59,6,NNE
+2017,3,09/24/2017,2017092406,13:00:00,34,17,MIN,TB,Minnesota Vikings,Tampa Bay Buccaneers,U.S. Bank Stadium,"Minneapolis, MN",Indoor,Field Turf,03:01:00,Indoor,NULL,0,NA,NA
+2017,3,09/24/2017,2017092410,16:05:00,33,27,TEN,SEA,Tennessee Titans,Seattle Seahawks,Nissan Stadium,"Nashville, TN",Outddors,Grass,03:19:00,Sunny,88,97,4,E
+2017,4,10/01/2017,2017100107,13:00:00,30,33,NE,CAR,New England Patriots,Carolina Panthers,Gillette Stadium,"Foxborough, Ma",Outdoor,Field Turf,03:00:00,Sunny,61,43,6,N
+2017,3,09/24/2017,2017092403,13:00:00,23,17,CHI,PIT,Chicago Bears,Pittsburgh Steelers,Soldier Field,"Chicago, IL",Outdoor,Grass,03:21:00,"Sunny, highs to upper 80s",89,48,5,S
+2017,3,09/24/2017,2017092409,13:00:00,27,24,PHI,NYG,Philadelphia Eagles,New York Giants,Lincoln Financial Field,"Philadelphia, Pa.",Outdoor,Natural Grass,03:24:00,Sunny,89,48,6,NNE
+2017,3,09/24/2017,2017092405,13:00:00,31,28,IND,CLE,Indianapolis Colts,Cleveland Browns,Lucas Oil Stadium,"Indianapolis, Ind.",Retr. Roof - Closed,Artificial,03:18:00,Sunny,83,45,5,ENE
+2017,4,10/01/2017,2017100100,09:30:00,0,20,MIA,NO,Miami Dolphins,New Orleans Saints,Wembley Stadium,"London, England",Outdoor,Grass,03:04:00,NA,63,64,SSW,13
+2017,3,09/24/2017,2017092411,16:25:00,27,24,GB,CIN,Green Bay Packers,Cincinnati Bengals,Lambeau Field,"Green Bay, WI",Outdoor,DD GrassMaster,03:18:00,Sunny,89,44,8,S
+2017,4,09/28/2017,2017092800,20:25:00,35,14,GB,CHI,Green Bay Packers,Chicago Bears,Lambeau Field,"Green Bay, WI",Outdoor,DD GrassMaster,03:52:00,Cloudy,65,62,5,SW
+2017,4,10/01/2017,2017100101,13:00:00,17,23,ATL,BUF,Atlanta Falcons,Buffalo Bills,Mercedes-Benz Stadium,"Atlanta, GA","Domed, closed",FieldTurf 360,02:59:00,NA,NULL,0,NA,NA
+2017,3,09/25/2017,2017092500,20:30:00,17,28,ARI,DAL,Arizona Cardinals,Dallas Cowboys,University of Phoenix Stadium,"Glendale, AZ",Dome,Grass,03:16:00,Indoor,NULL,0,NA,NA
+2017,4,10/01/2017,2017100108,13:00:00,23,20,NYJ,JAX,New York Jets,Jacksonville Jaguars,MetLife,"E. Rutherford, NJ",Outdoor,FieldTurf,03:33:00,Sunny,64,44,5,NNE
+2017,4,10/01/2017,2017100105,13:00:00,57,14,HOU,TEN,Houston Texans,Tennessee Titans,NRG,"Houston, Texas",Retractable Roof,Artificial,02:56:00,Sunny,87,53,3,N
+2017,4,10/01/2017,2017100109,16:05:00,18,15,ARI,SF,Arizona Cardinals,San Francisco 49ers,University of Phoenix Stadium,"Glendale, AZ",Dome,Grass,03:40:00,Indoors,NULL,0,NA,NA
+2017,4,10/01/2017,2017100111,16:05:00,25,23,TB,NYG,Tampa Bay Buccaneers,New York Giants,Raymond James Stadium,"Tampa, FL",Outdoor,Natural Grass,03:07:00,Cloudy,91,51,8,E
+2017,5,10/08/2017,2017100802,13:00:00,24,27,DET,CAR,Detroit Lions,Carolina Panthers,Ford Field,Detroit,Indoors,Field Turf,03:09:00,Controlled Climate,68,70,NA,NA
+2017,5,10/08/2017,2017100803,13:00:00,26,23,IND,SF,Indianapolis Colts,San Francisco 49ers,Lucas Oil Stadium,"Indianapolis, Ind.",Retr. Roof-Closed,Artificial,03:32:00,Cloudy,68,60,12,ESE
+2017,5,10/08/2017,2017100801,13:00:00,14,17,CLE,NYJ,Cleveland Browns,New York Jets,FirstEnergy Stadium,"Cleveland, Ohio",Outdoor,grass,02:57:00,Cloudy,67,71,8,West
+2017,5,10/08/2017,2017100809,16:05:00,17,30,OAK,BAL,Oakland Raiders,Baltimore Ravens,Oakland-Alameda County Coliseum,"Oakland, CA",Outdoor,Natural Grass,02:51:00,Sunny,72,42,8,WNW
+2017,4,10/01/2017,2017100112,16:25:00,16,10,DEN,OAK,Denver Broncos,Oakland Raiders,Sports Authority Field at Mile High,"Denver, CO",Outdoor,Grass,02:58:00,Mostly Cloudy,72,26,7,E
+2017,5,10/08/2017,2017100805,13:00:00,22,27,NYG,LAC,New York Giants,Los Angeles Chargers,MetLife Stadium,"East Rutherford, NJ",NA,UBU Speed Series-S5-M,03:26:00,Cloudy,76,90,7,WSW
+2017,5,10/08/2017,2017100807,13:00:00,9,30,PIT,JAX,Pittsburgh Steelers,Jacksonville Jaguars,Heinz Field,Pittsburgh,Outdoors,Grass,03:01:00,Cloudy,73,80,9,From SW
+2017,5,10/08/2017,2017100811,20:30:00,34,42,HOU,KC,Houston Texans,Kansas City Chiefs,NRG Stadium,"Houston, TX",Retractable Roof,Artificial,03:24:00,Partly Cloudy,89,59,9,NW
+2017,4,10/01/2017,2017100103,13:00:00,7,31,CLE,CIN,Cleveland Browns,Cincinnati Bengals,First Energy Stadium,"Cleveland, OH",Outdoor,Grass,02:56:00,Sunny,63,37,6,SE
+2017,5,10/05/2017,2017100500,20:25:00,14,19,TB,NE,Tampa Bay Buccaneers,New England Patriots,Raymond James Stadium,"Tampa, FL",Outdoor,Natural Grass,03:13:00,Clear,76,94,9,E
+2017,5,10/08/2017,2017100806,13:00:00,34,7,PHI,ARI,Philadelphia Eagles,Arizona Cardinals,Lincoln Financial Field,"Philadelphia, Pa.",Outdoor,Grass,02:57:00,Showers,77,91,10,SSW
+2017,5,10/08/2017,2017100810,16:25:00,31,35,DAL,GB,Dallas Cowboys,Green Bay Packers,AT&T Stadium,"Arlington, Texas",Indoor,Artificial,03:07:00,NA,NULL,0,NA,NA
+2017,4,10/01/2017,2017100113,20:30:00,46,18,SEA,IND,Seattle Seahawks,Indianapolis Colts,CenturyLink,"Seattle, WA",Outdoor,FieldTurf,03:14:00,Clear,61,54,8,NNW
+2017,4,10/01/2017,2017100110,16:05:00,24,26,LAC,PHI,Los Angeles Chargers,Philadelphia Eagles,StubHub Center,"Carson, CA",NA,Grass,02:46:00,Sunny,72,70,6,S
+2017,5,10/08/2017,2017100800,13:00:00,20,16,CIN,BUF,Cincinnati Bengals,Buffalo Bills,Paul Brown Stadium,"Cincinnati, Ohio",Outdoor,UBU Sports Speed S5-M,03:00:00,Light Rain,63,90,10,SSE
+2017,5,10/08/2017,2017100804,13:00:00,16,10,MIA,TEN,Miami Dolphins,Tennessee Titans,Hard Rock Stadium,"Miami Gardens, Fla.",Outdoor,Natural Grass,03:13:00,Partly Cloudy,89,67,9,ESE
+2017,5,10/08/2017,2017100808,16:05:00,10,16,LA,SEA,Los Angeles Rams,Seattle Seahawks,Los Angeles Memorial Coliseum,"Los Angeles, Calif.",Outdoor,Grass,03:08:00,Sunny,78,50,0,NA
+2017,4,10/02/2017,2017100200,20:30:00,29,20,KC,WAS,Kansas City Chiefs,Washington Redskins,Arrowhead Stadium,"Kansas City, MO",Outdoor,Natural Grass,03:17:00,Clear,82,55,14,South Southeast
+2017,6,10/15/2017,2017101511,20:30:00,10,23,DEN,NYG,Denver Broncos,New York Giants,Sports Authority Field at Mile High,"Denver, CO",Outdoor,Grass,03:05:00,Clear,61,17,4,NorthEast
+2017,6,10/15/2017,2017101509,16:25:00,13,19,KC,PIT,Kansas City Chiefs,Pittsburgh Steelers,Arrowhead Stadium,"Kansas City, MO",Outdoor,Natural Grass,02:54:00,Sunny,60,56,14,Northwest
+2017,6,10/15/2017,2017101506,13:00:00,26,24,WAS,SF,Washington Redskins,San Francisco 49ers,FedExField,"Landover, MD",Outdoor,Grass,03:28:00,Cloudy,68,85,4,South
+2017,6,10/15/2017,2017101500,13:00:00,17,20,ATL,MIA,Atlanta Falcons,Miami Dolphins,Mercedes-Benz Stadium,"Atlanta, GA","Indoor, Roof Closed",FieldTurf 360,02:52:00,Indoors,NULL,0,NA,NA
+2017,6,10/15/2017,2017101508,16:05:00,17,27,JAX,LA,Jacksonville Jaguars,Los Angeles Rams,EverBank Field,"Jacksonville, FL",Open,Grass,03:06:00,30% Chance of Rain,88,68,10,NE
+2017,5,10/09/2017,2017100900,20:30:00,17,20,CHI,MIN,Chicago Bears,Minnesota Vikings,Soldier Field,"Chicago, IL",Outdoor,Grass,03:10:00,Partly cloudy,70,69,10,NE
+2017,6,10/15/2017,2017101504,13:00:00,52,38,NO,DET,New Orleans Saints,Detroit Lions,Mercedes-Benz Superdome,"New Orleans, LA",Indoors,UBU Speed Series-S5-M,03:47:00,Cloudy,84,80,2,SE
+2017,6,10/15/2017,2017101507,16:05:00,38,33,ARI,TB,Arizona Cardinals,Tampa Bay Buccaneers,University of Phoenix Stadium,"Glendale, AZ",Dome,Grass,03:12:00,N/A,NULL,0,NA,NA
+2017,6,10/15/2017,2017101502,13:00:00,33,17,HOU,CLE,Houston Texans,Cleveland Browns,NRG Stadium,"Houston, TX",Retractable Roof,Artificial,02:59:00,Partly Cloudy,85,62,7,N
+2017,6,10/15/2017,2017101505,13:00:00,17,24,NYJ,NE,New York Jets,New England Patriots,MetLife,"East Rutherford, NJ",Outdoor,FieldTurf,03:10:00,Cloudy,73,70,13,WNW
+2017,6,10/15/2017,2017101503,13:00:00,23,10,MIN,GB,Minnesota Vikings,Green Bay Packers,U.S. Bank Stadium,"Minneapolis, MN",Indoor,Field Turf,03:16:00,Indoor,NULL,0,NA,NA
+2017,6,10/15/2017,2017101510,16:25:00,16,17,OAK,LAC,Oakland Raiders,Los Angeles Chargers,Oakland-Alameda County Coliseum,"Oakland, CA",Outdoor,Natural Grass,02:50:00,Sunny,76,25,9,NNE
+2017,6,10/12/2017,2017101200,20:25:00,23,28,CAR,PHI,Carolina Panthers,Philadelphia Eagles,Bank of America Stadium,"Charlotte, North Carolina",Outdoors,Natural Grass,03:20:00,Cloudy,72,88,6,ENE
+2017,6,10/16/2017,2017101600,20:30:00,36,22,TEN,IND,Tennessee Titans,Indianapolis Colts,Nissan Stadium,"Nashville, TN",Outdoors,Grass,03:12:00,Clear,57,55,7,NE
+2017,6,10/15/2017,2017101501,13:00:00,24,27,BAL,CHI,Baltimore Ravens,Chicago Bears,M&T Stadium,"Baltimore, Md.",Outdoor,Natural,03:26:00,Partly Sunny,69,87,7,s

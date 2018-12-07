@@ -1,0 +1,1714 @@
+nflId,FirstName,LastName,PositionAbbr,EntryYear,DraftRound,DraftNumber,Height,Weight,College
+79860,John,Stafford,QB,2009,1,1,"6'03""",220,Georgia
+71465,Andre,Smith,T,2009,1,6,"6'04""",325,Alabama
+80427,Darrius,Heyward-Bey,WR,2009,1,7,"6'02""",210,Maryland
+71269,Michael,Crabtree,WR,2009,1,10,"6'01""",214,Texas Tech
+71423,Brian,Orakpo,OLB,2009,1,13,"6'04""",257,Texas
+79848,Malcolm,Jenkins,SS,2009,1,14,"6'00""",204,Ohio State
+80421,Brian,Cushing,ILB,2009,1,15,"6'03""",255,Southern California
+71193,Robert,Ayers,DE,2009,1,18,"6'03""",275,Tennessee
+80429,Jeremy,Maclin,WR,2009,1,19,"6'00""",198,Missouri
+71375,Alex,Mack,C,2009,1,21,"6'04""",311,California
+79901,Vontae,Davis,CB,2009,1,25,"5'11""",207,Illinois
+80431,William,Matthews,OLB,2009,1,26,"6'03""",255,Southern California
+71523,Eric,Wood,C,2009,1,28,"6'04""",310,Louisville
+71217,Kenneth,Britt,WR,2009,1,30,"6'03""",223,Rutgers
+2507780,Evander,Hood,NT,2009,1,32,"6'03""",305,Missouri
+71251,Patrick,Chung,SS,2009,2,34,"5'11""",215,Oregon
+79852,Rey,Maualuga,MLB,2009,2,38,"6'02""",258,Southern California
+79897,Darius,Butler,FS,2009,2,41,"5'10""",192,Connecticut
+79899,Jairus,Byrd,FS,2009,2,42,"5'10""",203,Oregon
+71197,Connor,Barwin,OLB,2009,2,46,"6'04""",255,Cincinnati
+238227,Michael,Mitchell,FS,2009,2,47,"6'01""",221,Ohio
+71493,Max,Unger,C,2009,2,49,"6'05""",305,Oregon
+71363,Andrew,Levitre,G,2009,2,51,"6'02""",303,Oregon State
+79607,LeSean,McCoy,RB,2009,2,53,"5'11""",210,Pittsburgh
+2507783,Sean,Smith,CB,2009,2,61,"6'03""",218,Utah
+2507784,Michael,Johnson,DE,2009,3,70,"6'07""",272,Georgia Tech
+79611,Roy,Miller,NT,2009,3,81,"6'02""",318,Texas
+81306,Brandon,Tate,WR,2009,3,83,"6'01""",195,North Carolina
+2507763,Mike,Wallace,WR,2009,3,84,"6'00""",200,Mississippi
+2503471,Adam,Vinatieri,K,1996,NULL,NULL,"6'00""",212,South Dakota State
+2500351,Philip,Dawson,K,1998,NULL,NULL,"5'11""",200,Texas
+2505076,Joshua,McCown,QB,2002,3,81,"6'04""",218,Sam Houston State
+2504797,Steven,Bryant,K,2002,NULL,NULL,"5'09""",203,Baylor
+2505010,Julius,Peppers,DE,2002,1,2,"6'07""",295,North Carolina
+2504844,James,Harrison,OLB,2002,NULL,NULL,"6'00""",242,Kent State
+2505245,Carson,Palmer,QB,2003,1,1,"6'05""",235,Southern California
+2505552,Terence,Newman,CB,2003,1,5,"5'10""",197,Kansas State
+2505660,Terrell,Suggs,OLB,2003,1,10,"6'03""",265,Arizona State
+2505629,Christopher,Witten,TE,2003,3,69,"6'06""",263,Tennessee
+2505299,Antonio,Gates,TE,2003,NULL,NULL,"6'04""",255,Kent State
+2505996,Elisha,Manning,QB,2004,1,1,"6'04""",218,Mississippi
+2506106,Larry,Fitzgerald,WR,2004,1,3,"6'03""",218,Pittsburgh
+2506121,Philip,Rivers,QB,2004,1,4,"6'05""",228,North Carolina State
+2506109,Ben,Roethlisberger,QB,2004,1,11,"6'05""",240,"Miami, O."
+2506122,Benjamin,Watson,TE,2004,1,32,"6'03""",251,Georgia
+2506112,Karlos,Dansby,ILB,2004,2,33,"6'04""",250,Auburn
+2505801,Don,Muhlbach,LS,2004,NULL,NULL,"6'04""",258,Texas A&M
+2505827,Jason,Peters,T,2004,NULL,NULL,"6'04""",328,Arkansas
+2506340,Alexander,Smith,QB,2005,1,1,"6'04""",217,Utah
+2506345,Adam,Jones,CB,2005,1,6,"5'10""",180,West Virginia
+2506352,Thomas,Davis,OLB,2005,1,14,"6'01""",235,Georgia
+2506353,Derrick,Johnson,ILB,2005,1,15,"6'03""",242,Texas
+2506363,Aaron,Rodgers,QB,2005,1,24,"6'02""",225,California
+2506220,John,Denney,LS,2005,NULL,NULL,"6'05""",242,Brigham Young
+2506223,Jon,Condo,LS,2005,NULL,NULL,"6'03""",240,Maryland
+2506264,Robbie,Gould,K,2005,NULL,NULL,"6'00""",190,Penn State
+2506268,Lorenzo,Alexander,OLB,2005,NULL,NULL,"6'01""",245,California
+2506282,Louis-Philippe,Ladouceur,LS,2005,NULL,NULL,"6'05""",256,California
+2506969,Sam,Koch,P,2006,6,203,"6'01""",222,Nebraska
+2495807,Antoine,Bethea,SS,2006,6,207,"5'11""",206,Howard
+2506974,Zachary,Strief,T,2006,7,210,"6'07""",320,Northwestern
+2506706,Donald,Penn,T,2006,NULL,NULL,"6'04""",340,Utah State
+2506779,Tom,Johnson,DT,2006,NULL,NULL,"6'03""",288,Southern Mississippi
+2506677,Matt,Prater,K,2006,NULL,NULL,"5'10""",201,Central Florida
+2506789,Tramon,Williams,CB,2006,NULL,NULL,"6'00""",192,Louisiana Tech
+2506861,Brent,Grimes,CB,2006,NULL,NULL,"5'10""",185,Shippensburg
+2507010,Ahmad,Brooks,OLB,2006,3,86,"6'03""",259,Virginia
+2507162,Joe,Thomas,T,2007,1,3,"6'06""",312,Wisconsin
+2507164,Adrian,Peterson,RB,2007,1,7,"6'01""",220,Oklahoma
+2507166,Ted,Ginn,WR,2007,1,9,"5'11""",180,Ohio State
+2495663,Marshawn,Lynch,RB,2007,1,12,"5'11""",215,California
+2495762,Lawrence,Timmons,OLB,2007,1,15,"6'01""",242,Florida State
+2507167,Reggie,Nelson,FS,2007,1,21,"5'11""",210,Florida
+2495746,Joe,Staley,T,2007,1,28,"6'05""",315,Central Michigan
+2495700,Gregory,Olsen,TE,2007,1,31,"6'05""",255,Miami
+2495561,Alan,Branch,DT,2007,2,33,"6'06""",350,Michigan
+2495712,Paul,Posluszny,MLB,2007,2,34,"6'02""",232,Penn State
+2495775,Eric,Weddle,FS,2007,2,37,"5'11""",200,Utah
+2495621,David,Harris,OLB,2007,2,47,"6'02""",250,Michigan
+2495597,Justin,Durant,OLB,2007,2,48,"6'01""",230,Hampton
+2495655,Ryan,Kalil,C,2007,2,59,"6'02""",300,Southern California
+2507187,Charles,Johnson,DE,2007,3,83,"6'02""",278,Georgia
+2495677,Brandon,Mebane,NT,2007,3,85,"6'01""",311,California
+2507188,Marshal,Yanda,G,2007,3,86,"6'03""",305,Iowa
+2507029,Eric,Weems,WR,2007,NULL,NULL,"5'09""",195,Bethune-Cookman
+4485,Josh,Sitton,G,2008,4,135,"6'03""",320,Central Florida
+4365,Brandon,Carr,CB,2008,5,140,"6'00""",210,Grand Valley State
+2307,Orlando,Scandrick,CB,2008,5,143,"5'10""",196,Boise State
+2507374,Stephen,Hauschka,K,2008,NULL,NULL,"6'04""",210,North Carolina State
+2507463,Connor,Barth,K,2008,NULL,NULL,"5'11""",204,North Carolina
+2495723,Brian,Robison,DE,2007,4,102,"6'03""",259,Texas
+2507200,Zak,DeOssie,LS,2007,4,116,"6'04""",249,Brown
+2495542,Allen,Barbre,G,2007,4,119,"6'04""",310,Missouri Southern
+2507203,Jermon,Bushrod,G,2007,4,125,"6'05""",318,Towson
+2507218,Brent,Celek,TE,2007,5,162,"6'04""",255,Cincinnati
+2495613,Corey,Graham,FS,2007,5,168,"6'00""",196,New Hampshire
+2507220,William,Gay,CB,2007,5,170,"5'10""",187,Louisville
+2507225,Nick,Folk,K,2007,6,178,"6'01""",222,Arizona
+2507232,Mason,Crosby,K,2007,6,193,"6'01""",207,Colorado
+2495620,Clark,Harris,LS,2007,7,243,"6'05""",250,Rutgers
+2507262,Brett,Goode,LS,2007,NULL,NULL,"6'01""",255,Arkansas
+4327,Danny,Woodhead,RB,2008,NULL,NULL,"5'08""",200,Chadron State
+2507412,Jeffrey,Jansen,LS,2008,NULL,NULL,"6'02""",235,Notre Dame
+2649,Daniel,Amendola,WR,2008,NULL,NULL,"5'11""",190,Texas Tech
+2507428,William,Tolbert,FB,2008,NULL,NULL,"5'09""",250,Coastal Carolina
+81879,Lardarius,Webb,FS,2009,3,88,"5'10""",185,Nicholls State
+71265,Jared,Cook,TE,2009,3,89,"6'05""",254,South Carolina
+89746,Thomas,Lang,G,2009,4,109,"6'04""",315,Eastern Michigan
+71441,Glover,Quin,FS,2009,4,112,"6'00""",207,New Mexico
+71333,Kevin,Huber,P,2009,5,142,"6'01""",211,Cincinnati
+71407,Thomas,Morstead,P,2009,5,164,"6'04""",235,Southern Methodist
+2507793,Don,Carey,FS,2009,6,177,"5'11""",202,Norfolk State
+238457,Zachary,Miller,TE,2009,6,180,"6'05""",245,Nebraska-Omaha
+238466,Brice,McCain,CB,2009,6,188,"5'09""",190,Utah
+81871,Matthew,Slauson,G,2009,6,193,"6'05""",315,Nebraska
+89756,Jason,McCourty,CB,2009,6,203,"5'11""",195,Rutgers
+80668,Captain,Munnerlyn,CB,2009,7,216,"5'09""",195,South Carolina
+71461,Allan,Shipley,C,2009,7,226,"6'01""",307,Penn State
+79583,Ricky,Jean Francois,DT,2009,7,244,"6'03""",313,Louisiana State
+89758,Clinton,McDonald,DT,2009,7,249,"6'02""",297,Memphis
+89802,Ryan,Succop,K,2009,7,256,"6'02""",218,South Carolina
+2507557,Christopher,Baker,DT,2009,NULL,NULL,"6'02""",320,Hampton
+71259,Britton,Colquitt,P,2009,NULL,NULL,"6'03""",210,Tennessee
+81821,Ramon,Foster,G,2009,NULL,NULL,"6'05""",328,Tennessee
+2507590,Stephen,McLendon,NT,2009,NULL,NULL,"6'03""",310,Troy
+2507597,Colt,Anderson,FS,2009,NULL,NULL,"5'10""",195,Montana
+2507617,Michael,Bennett,DE,2009,NULL,NULL,"6'04""",274,Texas A&M
+81294,Brian,Hoyer,QB,2009,NULL,NULL,"6'02""",215,Michigan State
+2507644,Ramon,Humber,OLB,2009,NULL,NULL,"5'11""",232,North Dakota State
+2507668,Nicholas,Sundberg,LS,2009,NULL,NULL,"6'00""",256,California
+71211,Alexander,Boone,G,2009,NULL,NULL,"6'08""",310,Ohio State
+2507701,Evan,Smith,G,2009,NULL,NULL,"6'02""",308,Idaho State
+2507716,Demar,Dotson,T,2009,NULL,NULL,"6'09""",315,Southern Mississippi
+71249,Jonathan,Casillas,OLB,2009,NULL,NULL,"6'01""",227,Wisconsin
+2507831,Jonathan,Weeks,LS,2010,NULL,NULL,"5'10""",250,Baylor
+2507837,Alexander,Love,DT,2010,NULL,NULL,"6'01""",310,Mississippi State
+2507843,Vincent,Rey,OLB,2010,NULL,NULL,"6'00""",250,Duke
+2507845,Michael,Windt,LS,2010,NULL,NULL,"6'01""",237,Cincinnati
+494307,Darian,Stewart,FS,2010,NULL,NULL,"5'11""",214,South Carolina
+2507865,Ben,Garland,G,2010,NULL,NULL,"6'05""",308,Air Force
+2507871,Austin,Howard,T,2010,NULL,NULL,"6'07""",330,Northern Iowa
+497149,LeGarrette,Blount,RB,2010,NULL,NULL,"6'00""",250,Oregon
+2507917,Tramaine,Brock,CB,2010,NULL,NULL,"5'10""",197,Belhaven
+2530660,Kamar,Aiken,WR,2011,NULL,NULL,"6'02""",216,Central Florida
+2530763,Patrick,DiMarco,FB,2011,NULL,NULL,"6'01""",234,South Carolina
+2495425,Scott,Tolzien,QB,2011,NULL,NULL,"6'02""",215,Wisconsin
+2495259,Dan,Bailey,K,2011,NULL,NULL,"6'00""",195,Oklahoma State
+2539987,Christopher,Jones,P,2011,NULL,NULL,"6'00""",205,Carson-Newman
+2531080,Benjamin,Jacobs,OLB,2011,NULL,NULL,"6'04""",240,Fresno State
+2531049,Chris,Matthews,WR,2011,NULL,NULL,"6'05""",228,Kentucky
+2531030,Byron,Bell,T,2011,NULL,NULL,"6'05""",340,New Mexico
+2495150,Kai,Forbath,K,2011,NULL,NULL,"5'11""",197,UCLA
+2531177,Sterling,Moore,CB,2011,NULL,NULL,"5'10""",202,Southern Methodist
+2531332,Terrelle,Pryor,WR,2011,3,82,"6'04""",228,Ohio State
+2532431,Craig,Robertson,OLB,2011,NULL,NULL,"6'01""",234,North Texas
+2533131,Matthew,Kalil,T,2012,1,4,"6'07""",315,Southern California
+2533059,Morris,Claiborne,CB,2012,1,6,"5'11""",192,Louisiana State
+2532789,Mark,Barron,ILB,2012,1,7,"6'02""",225,Alabama
+2533056,Luke,Kuechly,MLB,2012,1,9,"6'03""",238,Boston College
+2533062,Stephon,Gilmore,CB,2012,1,10,"6'01""",190,South Carolina
+2533435,Dontari,Poe,DT,2012,1,11,"6'03""",346,Memphis
+2533051,Fletcher,Cox,DT,2012,1,12,"6'04""",310,Mississippi State
+2532841,Michael,Floyd,WR,2012,1,13,"6'02""",220,Notre Dame
+2533050,Michael,Brockers,DT,2012,1,14,"6'05""",302,Louisiana State
+2535718,Damon,Harrison,DT,2012,NULL,NULL,"6'04""",350,William Penn
+2535696,Joseph,Banyard,RB,2012,NULL,NULL,"5'10""",221,Texas-El Paso
+2534761,Ryan,Davis,DE,2012,NULL,NULL,"6'02""",260,Bethune-Cookman
+2535867,Julian,Stanford,ILB,2012,NULL,NULL,"6'01""",230,Wagner
+2535693,Johnson,Bademosi,CB,2012,NULL,NULL,"6'00""",206,Stanford
+2534871,Derrick,Coleman,FB,2012,NULL,NULL,"6'00""",233,UCLA
+2535837,Austin,Pasztor,G,2012,NULL,NULL,"6'07""",305,Virginia
+2532878,Leonard,Johnson,CB,2012,NULL,NULL,"5'10""",194,Iowa State
+2535866,Bradley,Sowell,T,2012,NULL,NULL,"6'07""",312,Mississippi
+2532989,Derrick,Shelby,DE,2012,NULL,NULL,"6'02""",280,Utah
+2533005,Jacquies,Smith,DE,2012,NULL,NULL,"6'02""",260,Missouri
+2534241,Derek,Carrier,TE,2012,NULL,NULL,"6'04""",244,Beloit
+2534819,Marquette,King,P,2012,NULL,NULL,"6'00""",192,Fort Valley State
+2535701,Beau,Brinkley,LS,2012,NULL,NULL,"6'04""",260,Missouri
+2532887,Jermaine,Kearse,WR,2012,NULL,NULL,"6'01""",209,Washington
+2535607,Mike,Remmers,T,2012,NULL,NULL,"6'05""",310,Oregon State
+2535890,Travaris,Cadet,RB,2012,NULL,NULL,"6'01""",210,Appalachian State
+2535892,Tyrunn,Walker,DT,2012,NULL,NULL,"6'03""",305,Tulsa
+2532797,Brandon,Bolden,RB,2012,NULL,NULL,"5'11""",220,Mississippi
+2535964,Josh,Bellamy,WR,2012,NULL,NULL,"6'00""",208,Louisville
+2539640,Ryan,Allen,P,2013,NULL,NULL,"6'02""",220,Louisiana Tech
+2541142,Joshua,Kline,G,2013,NULL,NULL,"6'03""",300,Kent State
+2541760,Joseph,Vellano,DT,2013,NULL,NULL,"6'02""",300,Maryland
+2540247,Jordan,Devey,G,2013,NULL,NULL,"6'06""",320,Memphis
+2541756,Brynden,Trawick,FS,2013,NULL,NULL,"6'02""",225,Troy
+2541777,Terence,Garvin,OLB,2013,NULL,NULL,"6'03""",235,West Virginia
+2541785,Adam,Thielen,WR,2013,NULL,NULL,"6'02""",200,Minn. State-Mankato
+2540197,Nickell,Robey,CB,2013,NULL,NULL,"5'08""",178,Southern California
+2552714,Brett,Jones,C,2013,NULL,NULL,"6'02""",318,"Regina, Can."
+2541792,Aravious,Armstrong,OLB,2013,NULL,NULL,"6'03""",220,Miami
+2541903,Tress,Way,P,2013,NULL,NULL,"6'01""",216,Oklahoma
+2540208,Bradley,Wing,P,2013,NULL,NULL,"6'03""",192,Louisiana State
+2541944,Russell,Shepard,WR,2013,NULL,NULL,"6'01""",195,Louisiana State
+2540003,Damion,Square,NT,2013,NULL,NULL,"6'02""",293,Alabama
+2541946,Matthew,Tobin,T,2013,NULL,NULL,"6'06""",303,Iowa
+2541187,Demetrius,Harris,TE,2013,NULL,NULL,"6'07""",230,Wisconsin-Milwaukee
+2541864,Joshua,Martin,OLB,2013,NULL,NULL,"6'03""",245,Columbia
+2539243,Bradley,McDougald,FS,2013,NULL,NULL,"6'01""",209,Kansas
+2540287,Rontez,Miles,FS,2013,NULL,NULL,"6'00""",203,"California, Pa."
+2540232,John,Doyle,TE,2013,NULL,NULL,"6'06""",262,Western Kentucky
+2541832,Jeffrey,Heath,SS,2013,NULL,NULL,"6'01""",212,Saginaw Valley State
+2541848,Deon,Lacey,OLB,2013,NULL,NULL,"6'03""",235,West Alabama
+2541834,Josh,Hill,TE,2013,NULL,NULL,"6'05""",250,Idaho State
+2541851,Timothy,Lelito,G,2013,NULL,NULL,"6'04""",315,Grand Valley State
+2541162,Arlandus,Bouye,CB,2013,NULL,NULL,"6'00""",191,Central Florida
+2539306,Wes,Horton,DE,2013,NULL,NULL,"6'05""",265,Southern California
+2543431,Jeremy,Vujnovich,G,2013,NULL,NULL,"6'05""",300,Louisiana College
+2555569,Dexter,McCoil,FS,2016,NULL,NULL,"6'04""",220,Tulsa
+2553112,Jason,Myers,K,2015,NULL,NULL,"5'10""",190,Marist
+2550150,Luke,Bowanko,C,2014,6,205,"6'06""",300,Virginia
+2550155,Matthew,Paradis,C,2014,6,207,"6'03""",300,Boise State
+2543695,Jay,Prosch,FB,2014,6,211,"6'01""",255,Auburn
+2549896,Marquis,Flowers,OLB,2014,6,212,"6'03""",250,Arizona
+2550154,Daniel,McCullers,DT,2014,6,215,"6'07""",352,Tennessee
+2543874,Andre,Hal,FS,2014,7,216,"5'10""",195,Vanderbilt
+2550163,Michael,Campanaro,WR,2014,7,218,"5'09""",191,Wake Forest
+2550164,Travis,Carrie,CB,2014,7,219,"6'00""",204,Ohio
+2543706,Shamar,Stephen,NT,2014,7,220,"6'05""",310,Connecticut
+2543884,Beau,Allen,DT,2014,7,224,"6'03""",327,Wisconsin
+2550353,Allen,Hurns,WR,2014,NULL,NULL,"6'03""",201,Miami
+2550398,Christian,Shatley,C,2014,NULL,NULL,"6'03""",310,Clemson
+2550416,Joshua,Wells,T,2014,NULL,NULL,"6'06""",306,James Madison
+2550565,Adarius,Taylor,MLB,2014,NULL,NULL,"6'01""",230,Florida Atlantic
+2550589,Andrew,Norwell,G,2014,NULL,NULL,"6'06""",325,Ohio State
+2550559,Brandon,Dunn,NT,2014,NULL,NULL,"6'02""",310,Louisville
+2550569,Ryan,Groy,G,2014,NULL,NULL,"6'05""",320,Wisconsin
+2550572,Christian,Jones,ILB,2014,NULL,NULL,"6'03""",245,Florida State
+2550545,Chris,Boswell,K,2014,NULL,NULL,"6'02""",185,Rice
+2552487,Amari,Cooper,WR,2015,1,4,"6'01""",211,Alabama
+2552032,Brandon,Scherff,G,2015,1,5,"6'05""",319,Iowa
+2552486,Leonard,Williams,DT,2015,1,6,"6'05""",302,Southern California
+2553432,Kevin,White,WR,2015,1,7,"6'03""",216,West Virginia
+2552301,Victor,Beasley,OLB,2015,1,8,"6'03""",246,Clemson
+2552452,Ereck,Flowers,T,2015,1,9,"6'06""",329,Miami
+2552475,Todd,Gurley,RB,2015,1,10,"6'01""",227,Georgia
+2552448,Trae,Waynes,CB,2015,1,11,"6'00""",190,Michigan State
+2552325,Danny,Shelton,DT,2015,1,12,"6'02""",335,Washington
+2552455,Andrus,Peat,T,2015,1,13,"6'07""",316,Stanford
+2552409,DeVante,Parker,WR,2015,1,14,"6'03""",212,Louisville
+2552469,Melvin,Gordon,RB,2015,1,15,"6'01""",215,Wisconsin
+2552261,Kevin,Johnson,CB,2015,1,16,"6'00""",185,Wake Forest
+2552493,Arik,Armstead,DE,2015,1,17,"6'07""",292,Oregon
+2552488,Marcus,Peters,CB,2015,1,18,"6'00""",197,Washington
+2552240,Cameron,Erving,T,2015,1,19,"6'05""",313,Florida State
+2552600,Nelson,Agholor,WR,2015,1,20,"6'00""",198,Southern California
+2552355,Cedric,Ogbuehi,T,2015,1,21,"6'05""",310,Texas A&M
+2552289,Alvin,Dupree,OLB,2015,1,22,"6'04""",269,Kentucky
+2552626,DeMarcus,Humphries,T,2015,1,24,"6'05""",307,Florida
+2552447,Sha'Quille,Thompson,OLB,2015,1,25,"6'00""",230,Washington
+2552597,Breshad,Perriman,WR,2015,1,26,"6'02""",215,Central Florida
+2552568,Byron,Jones,FS,2015,1,27,"6'00""",199,Connecticut
+2552345,Laken,Tomlinson,G,2015,1,28,"6'03""",312,Duke
+2552424,Phillip,Dorsett,WR,2015,1,29,"5'10""",185,Miami
+2552266,Anthony,Chickillo,OLB,2015,6,212,"6'03""",255,Miami
+2552602,Christian,Covington,DE,2015,6,216,"6'02""",305,Rice
+2552674,Rakeem,Nunez-Roches,DT,2015,6,217,"6'02""",307,Southern Mississippi
+2552313,Hayes,Pullard,MLB,2015,7,219,"6'00""",240,Southern California
+2553451,Neal,Sterling,WR,2015,7,220,"6'03""",257,"Monmouth, N.J."
+2553452,Austin,Reiter,C,2015,7,222,"6'02""",300,South Florida
+2552307,Bryce,Hager,ILB,2015,7,224,"6'01""",237,Baylor
+2552335,Bobby,Hart,T,2015,7,226,"6'05""",334,Florida State
+2552396,Benjamin,Koyack,TE,2015,7,229,"6'05""",258,Notre Dame
+2552441,Edmond,Robinson,OLB,2015,7,232,"6'03""",245,Newberry
+2552684,Mark,Nzeocha,MLB,2015,7,236,"6'03""",239,Wyoming
+2552268,Brian,Mihalik,T,2015,7,237,"6'09""",315,Boston College
+2550166,Ulrick,John,T,2014,7,232,"6'05""",307,Georgia State
+2550160,Terrence,Fede,DE,2014,7,234,"6'04""",267,Marist
+2549926,Shelby,Harris,DE,2014,7,235,"6'02""",290,Illinois State
+2543750,Jeff,Janis,WR,2014,7,236,"6'03""",219,Saginaw Valley State
+2550167,Corey,Nelson,ILB,2014,7,242,"6'01""",226,Oklahoma
+2550169,Charles,Leno,T,2014,7,246,"6'03""",305,Boise State
+2543637,Terrance,Mitchell,CB,2014,7,254,"5'11""",190,Oregon
+2550205,Jonotthan,Harrison,C,2014,NULL,NULL,"6'04""",300,Florida
+2550228,Dewey,McDonald,OLB,2014,NULL,NULL,"6'00""",229,"California, Pa."
+2550189,Isaiah,Crowell,RB,2014,NULL,NULL,"5'11""",225,Alabama State
+2550256,Willie,Snead,WR,2014,NULL,NULL,"5'11""",195,Ball State
+2550257,Daniel,Sorensen,SS,2014,NULL,NULL,"6'02""",208,Brigham Young
+2550268,Charcandrick,West,RB,2014,NULL,NULL,"5'10""",205,Abilene Christian
+2550272,Albert,Wilson,WR,2014,NULL,NULL,"5'09""",200,Georgia State
+2550198,Bennie,Fowler,WR,2014,NULL,NULL,"6'01""",212,Michigan State
+2550210,James,Hurst,G,2014,NULL,NULL,"6'05""",317,North Carolina
+2550230,Jamie,Meder,DT,2014,NULL,NULL,"6'03""",308,Ashland
+2550236,Ayodeji,Olatoye,CB,2014,NULL,NULL,"6'01""",205,North Carolina A&T
+2550284,Lawrence,Burton,TE,2014,NULL,NULL,"6'03""",235,Florida
+2550289,David,Fluellen,RB,2014,NULL,NULL,"5'11""",224,Toledo
+2550235,Roosevelt,Nix,FB,2014,NULL,NULL,"5'11""",248,Kent State
+2550246,Bernard,Reedy,WR,2014,NULL,NULL,"5'09""",175,Toledo
+2550196,Jayrone,Elliott,OLB,2014,NULL,NULL,"6'03""",240,Toledo
+2550242,Michael,Pennel,NT,2014,NULL,NULL,"6'04""",332,Colorado State-Pueblo
+2550262,Joe,Thomas,ILB,2014,NULL,NULL,"6'01""",227,South Carolina State
+2550285,Brockway,Coyle,MLB,2014,NULL,NULL,"6'01""",245,Montana
+2550312,Kerry,Wynn,DE,2014,NULL,NULL,"6'05""",264,Richmond
+2550206,Ryan,Hewitt,TE,2014,NULL,NULL,"6'04""",255,Stanford
+2550208,Trey,Hopkins,G,2014,NULL,NULL,"6'03""",310,Texas
+2550495,Justin,McCray,G,2014,NULL,NULL,"6'03""",317,Central Florida
+2550328,Brandon,Coleman,WR,2014,NULL,NULL,"6'06""",225,Rutgers
+2550380,Andrew,Parkey,K,2014,NULL,NULL,"6'00""",190,Auburn
+2550481,Orleans,Darkwa,RB,2014,NULL,NULL,"6'00""",215,Tulane
+2550493,Tyler,Larsen,G,2014,NULL,NULL,"6'04""",325,Utah State
+2550503,Garrison,Smith,DT,2014,NULL,NULL,"6'01""",295,Georgia
+2550512,Damien,Williams,RB,2014,NULL,NULL,"5'11""",224,Oklahoma
+2550437,Josh,Mauro,DT,2014,NULL,NULL,"6'06""",282,Stanford
+2550404,Anthony,Steen,G,2014,NULL,NULL,"6'04""",320,Alabama
+2550325,Chandler,Catanzaro,K,2014,NULL,NULL,"6'03""",200,Clemson
+2550468,Garry,Gilliam,T,2014,NULL,NULL,"6'05""",315,Penn State
+2550460,Tenny,Palepoi,DT,2014,NULL,NULL,"6'01""",298,Utah
+2550462,Jeremiah,Sirles,G,2014,NULL,NULL,"6'06""",315,Nebraska
+2550361,Zachary,Kerin,G,2014,NULL,NULL,"6'04""",305,Toledo
+2550364,Casey,Kreiter,LS,2014,NULL,NULL,"6'01""",250,Iowa
+2550400,Alton,Smith,FB,2014,NULL,NULL,"6'00""",232,San Jose State
+2550449,Ethan,Westbrooks,DE,2014,NULL,NULL,"6'04""",283,West Texas A&M
+2550532,Robert,Thomas,DT,2014,NULL,NULL,"6'01""",331,Arkansas
+2550528,Brent,Qvale,T,2014,NULL,NULL,"6'07""",315,Nebraska
+2550521,Xavier,Grimble,TE,2014,NULL,NULL,"6'04""",261,Southern California
+2550541,Shaquil,Barrett,OLB,2014,NULL,NULL,"6'02""",250,Colorado State
+2550575,Zachariah,Kerr,DE,2014,NULL,NULL,"6'02""",334,Delaware
+2552389,Damarious,Randall,CB,2015,1,30,"5'11""",196,Arizona State
+2552321,Stephone,Anthony,MLB,2015,1,31,"6'03""",245,Clemson
+2552483,Malcom,Brown,DT,2015,1,32,"6'02""",320,Texas
+2552454,Landon,Collins,SS,2015,2,33,"6'00""",225,Alabama
+2552460,Donovan,Smith,T,2015,2,34,"6'06""",338,Penn State
+2553433,Mario,Edwards,DE,2015,2,35,"6'03""",280,Florida State
+2552276,Preston,Smith,OLB,2015,2,38,"6'05""",265,Mississippi State
+2552489,Eddie,Goldman,NT,2015,2,39,"6'04""",320,Florida State
+2552458,Devin,Funchess,WR,2015,2,41,"6'04""",225,Michigan
+2552490,Benardrick,McKinney,ILB,2015,2,43,"6'04""",260,Mississippi State
+2552292,Hau'oli,Kikaha,DE,2015,2,44,"6'03""",246,Washington
+2552312,Eric-Nathan,Kendricks,MLB,2015,2,45,"6'00""",232,UCLA
+2552391,Jaquiski,Tartt,SS,2015,2,46,"6'01""",221,Samford
+2552255,Nelson,Rowe,CB,2015,2,47,"6'01""",205,Utah
+2552668,Mitchell,Morse,C,2015,2,49,"6'06""",305,Missouri
+2552689,Ronald,Darby,CB,2015,2,50,"5'11""",193,Florida State
+2552299,Nathaniel,Orchard,DE,2015,2,51,"6'04""",255,Utah
+2552492,Jordan,Phillips,DT,2015,2,52,"6'06""",333,Oklahoma
+2552360,Jake,Fisher,T,2015,2,53,"6'06""",305,Oregon
+2552374,Ameer,Abdullah,RB,2015,2,54,"5'09""",203,Nebraska
+2552468,Maxx,Williams,TE,2015,2,55,"6'04""",257,Minnesota
+2552363,Robert,Havenstein,T,2015,2,57,"6'08""",328,Wisconsin
+2552273,Markus,Golden,OLB,2015,2,58,"6'03""",260,Missouri
+2552366,Tyler,Sambrailo,T,2015,2,59,"6'05""",315,Colorado State
+2552332,Alexander,Marpet,C,2015,2,61,"6'04""",307,Hobart
+2552263,Quinten,Rollins,CB,2015,2,62,"5'11""",195,"Miami, O."
+2552629,Frank,Clark,DE,2015,2,63,"6'03""",260,Michigan
+2552392,Jordan,Richards,SS,2015,2,64,"5'11""",210,Stanford
+2552330,Aaron,Cann,G,2015,3,67,"6'03""",315,South Carolina
+2552397,Clive,Walford,TE,2015,3,68,"6'04""",258,Miami
+2552430,Tyler,Lockett,WR,2015,3,69,"5'10""",182,Kansas State
+2552463,Jaelen,Strong,WR,2015,3,70,"6'02""",205,Arizona State
+2552245,Hroniss,Grasu,C,2015,3,71,"6'03""",301,Oregon
+2552340,Jamon,Brown,G,2015,3,72,"6'04""",330,Louisville
+2552453,Tevin,Coleman,RB,2015,3,73,"6'01""",210,Indiana
+2552652,Christian,Conley,WR,2015,3,76,"6'03""",205,Georgia
+2552461,Randy,Johnson,RB,2015,3,77,"5'09""",210,Miami
+2552484,Kenneth,Williams,CB,2015,3,78,"6'00""",196,Florida State
+2552494,Medgar,Harold,OLB,2015,3,79,"6'03""",265,Virginia
+2553436,John,Miller,G,2015,3,81,"6'03""",315,Louisville
+2552315,Jordan,Hicks,MLB,2015,3,84,"6'01""",236,Texas
+2552586,Tyler,Kroft,TE,2015,3,85,"6'06""",250,Rutgers
+2553435,David,Johnson,RB,2015,3,86,"6'01""",224,Northern Iowa
+2552470,Sammie,Coates,WR,2015,3,87,"6'01""",212,Auburn
+2552603,Danielle,Hunter,DE,2015,3,88,"6'05""",252,Louisiana State
+2552576,Sean,Mannion,QB,2015,3,89,"6'06""",231,Oregon State
+2552280,Carl,Davis,NT,2015,3,90,"6'05""",327,Iowa
+2552666,Charles,Green,G,2015,3,91,"6'05""",300,Florida
+2552399,Jeff,Heuerman,TE,2015,3,92,"6'05""",255,Ohio State
+2552272,Henry,Anderson,DE,2015,3,93,"6'06""",301,Stanford
+2552429,Ty,Montgomery,RB,2015,3,94,"6'00""",216,Stanford
+2552635,Matt,Jones,RB,2015,3,95,"6'02""",239,Florida
+2552611,Xavier,Cooper,DT,2015,3,96,"6'04""",300,Washington State
+2552271,Geneo,Grissom,OLB,2015,3,97,"6'04""",265,Oklahoma
+2552278,Trey,Flowers,DE,2015,4,101,"6'02""",265,Arkansas
+2552357,Daryl,Williams,T,2015,4,102,"6'06""",330,Oklahoma
+2552415,Jamison,Crowder,WR,2015,4,105,"5'09""",177,Duke
+2552418,Justin,Hardy,WR,2015,4,107,"5'10""",192,East Carolina
+2552464,Jalston,Fowler,FB,2015,4,108,"5'11""",254,Alabama
+2552365,Trevor,Clemmings,T,2015,4,110,"6'05""",309,Pittsburgh
+2552605,Ibraheim,Campbell,FS,2015,4,115,"5'11""",208,Northwestern
+2553437,Rodney,Gunter,DT,2015,4,116,"6'05""",305,Delaware State
+2552478,Blake,Bell,TE,2015,4,117,"6'06""",252,Oklahoma
+2552320,Ramik,Wilson,ILB,2015,4,118,"6'02""",237,Georgia
+2552259,Joshua,Shaw,CB,2015,4,120,"6'01""",200,Southern California
+2552279,Za'Darius,Smith,OLB,2015,4,122,"6'04""",275,Kentucky
+2552431,Vincent,Mayle,TE,2015,4,123,"6'02""",228,Washington State
+2552592,Shanderious,Alexander,MLB,2015,4,124,"6'01""",227,Louisiana State
+2552631,Javorius,Allen,RB,2015,4,125,"6'00""",222,Southern California
+2552686,Damien,Wilson,OLB,2015,4,127,"6'01""",243,Minnesota
+2552343,Jonathan,Feliciano,G,2015,4,128,"6'04""",323,Miami
+2552314,Jake,Ryan,ILB,2015,4,129,"6'02""",240,Michigan
+2552563,Shaquille,Mason,G,2015,4,131,"6'01""",310,Georgia Tech
+2552583,Max,Garcia,G,2015,4,133,"6'04""",309,Florida
+2552467,Mark,Glowinski,G,2015,4,134,"6'04""",310,West Virginia
+2552327,Grady,Jarrett,DT,2015,5,137,"6'00""",305,Clemson
+2552316,Martrell,Spaight,ILB,2015,5,141,"6'00""",243,Arkansas
+2552385,Adrian,Amos,FS,2015,5,142,"6'00""",214,Penn State
+2552434,Bobby,McCain,CB,2015,5,145,"5'11""",192,Memphis
+2552608,Stefon,Diggs,WR,2015,5,146,"6'00""",191,Maryland
+2552588,Brett,Hundley,QB,2015,5,147,"6'03""",226,UCLA
+2552582,Jay,Ajayi,RB,2015,5,149,"6'00""",223,Boise State
+2552438,David,Parry,DT,2015,5,151,"6'02""",317,Stanford
+2552296,Kyle,Emanuel,OLB,2015,5,153,"6'03""",250,North Dakota State
+2552329,Tyeler,Davison,DT,2015,5,154,"6'02""",309,Fresno State
+2552559,Christopher,Uzomah,TE,2015,5,157,"6'06""",265,Auburn
+2552656,Jamarcus,Nelson,WR,2015,5,159,"5'10""",160,Alabama-Birmingham
+2552633,Jesse,James,TE,2015,5,160,"6'07""",261,Penn State
+2552277,Ryan,Russell,DE,2015,5,163,"6'05""",275,Purdue
+2552599,Lorenzo,Doss,CB,2015,5,164,"5'11""",187,Tulane
+2552711,Bradley,Pinion,P,2015,5,165,"6'05""",229,Clemson
+2552701,Joe,Cardona,LS,2015,5,166,"6'03""",245,Navy
+2552636,Michael,Burton,FB,2015,5,168,"6'00""",240,Rutgers
+2553441,David,Mayo,MLB,2015,5,169,"6'02""",245,Texas State
+2552449,Tye,Smith,CB,2015,5,170,"6'00""",195,Towson
+2552402,Nicholas,Boyle,TE,2015,5,171,"6'04""",270,Delaware
+2553442,Donell,Alexander,OLB,2015,5,172,"6'02""",233,Oregon State
+2553318,James,O'Shaughnessy,TE,2015,5,173,"6'04""",245,Illinois State
+2552375,Cameron,Artis-Payne,RB,2015,5,174,"5'10""",215,Auburn
+2552733,Benjamin,Bennett,DT,2015,6,180,"6'02""",287,Ohio State
+2552651,Kaelin,Clay,WR,2015,6,184,"5'10""",195,Utah
+2552654,Geremy,Davis,WR,2015,6,186,"6'03""",217,Connecticut
+2552676,Darius,Philon,DT,2015,6,192,"6'01""",300,Arkansas
+2552403,Nicklaus,O'Leary,TE,2015,6,194,"6'03""",252,Florida State
+2552390,Derron,Smith,SS,2015,6,197,"5'10""",200,Fresno State
+2552660,Randall,Telfer,TE,2015,6,198,"6'04""",250,Southern California
+2552444,Leterrius,Walton,DE,2015,6,199,"6'05""",305,Central Michigan
+2552262,Quandre,Diggs,CB,2015,6,200,"5'09""",200,Texas
+2552580,Alexander,Derby,TE,2015,6,202,"6'05""",255,Arkansas
+2552477,Aaron,Ripkowski,FB,2015,6,206,"6'01""",246,Oklahoma
+2504319,Edward,Lechler,P,2000,5,142,"6'02""",230,Texas A&M
+2504211,Tom,Brady,QB,2000,6,199,6'04'',225,Michigan
+2504775,Drew,Brees,QB,2001,2,32,"6'00""",209,Purdue
+2506017,Andy,Lee,P,2004,6,188,"6'01""",185,Pittsburgh
+2505889,Donald,Jones,P,2004,7,224,"6'02""",221,Louisiana State
+2505708,Michael,Adams,SS,2004,NULL,NULL,"5'11""",205,Delaware
+2506404,Frank,Gore,RB,2005,3,65,"5'09""",212,Miami
+2506420,Richie,Incognito,G,2005,3,81,"6'04""",322,Nebraska
+2506438,Dustin,Colquitt,P,2005,3,99,"6'03""",210,Tennessee
+2506467,Darren,Sproles,RB,2005,4,130,"5'06""",190,Kansas State
+2506540,Joseph,Berger,G,2005,6,207,"6'05""",305,Michigan Tech
+2506546,Derek,Anderson,QB,2005,6,213,"6'06""",235,Oregon State
+2506562,Matt,Cassel,QB,2005,7,230,"6'04""",228,Southern California
+2506581,Ryan,Fitzpatrick,QB,2005,7,250,"6'02""",223,Harvard
+2506147,John,Kuhn,FB,2005,NULL,NULL,"6'00""",250,"Shippensburg, Pa."
+2506314,Derek,Wake,DE,2005,NULL,NULL,"6'03""",263,Penn State
+2506194,Nick,Novak,K,2005,NULL,NULL,"6'00""",198,Maryland
+2506613,Jon,Ryan,P,2006,NULL,NULL,"6'00""",217,"Regina, Can."
+2495826,Vernon,Davis,TE,2006,1,6,"6'03""",244,Maryland
+2495824,Jay,Cutler,QB,2006,1,11,"6'03""",231,Vanderbilt
+2506879,Etuini,Ngata,DT,2006,1,12,"6'04""",340,Oregon
+2495872,Johnathan,Joseph,CB,2006,1,24,"5'11""",185,South Carolina
+2495888,Marcedes,Lewis,TE,2006,1,28,"6'06""",280,UCLA
+2495835,Anthony,Fasano,TE,2006,2,53,"6'04""",258,Notre Dame
+2495977,Andrew,Whitworth,T,2006,2,55,"6'07""",333,Louisiana State
+2506908,Frostee,Rucker,DT,2006,3,91,"6'03""",280,Southern California
+2506919,Jahri,Evans,G,2006,4,108,"6'04""",318,Bloomsburg
+2506922,Stephen,Gostkowski,K,2006,4,118,"6'01""",215,Memphis
+2495893,Brandon,Marshall,WR,2006,4,119,"6'05""",232,Central Florida
+2506925,Domata,Peko,NT,2006,4,123,"6'03""",325,Michigan State
+2495832,Elvis,Dumervil,DE,2006,4,126,"5'11""",250,Louisville
+2506931,Kyle,Williams,DT,2006,5,134,"6'01""",303,Louisiana State
+2495966,Delanie,Walker,TE,2006,6,175,"6'02""",248,Central Missouri
+276,Christopher,Long,DE,2008,1,2,"6'03""",270,Virginia
+310,Matthew,Ryan,QB,2008,1,3,"6'04""",217,Boston College
+949,Jonathan,Stewart,RB,2008,1,13,"5'10""",240,Oregon
+306,Dominique,Rodgers-Cromartie,CB,2008,1,16,"6'02""",205,Tennessee State
+382,Joseph,Flacco,QB,2008,1,18,"6'06""",245,Delaware
+1302,Aqib,Talib,CB,2008,1,20,"6'01""",205,Kansas
+262,Chris,Johnson,RB,2008,1,24,"5'11""",203,East Carolina
+1032,Jordy,Nelson,WR,2008,2,36,"6'03""",217,Kansas State
+234,Matthew,Forte,RB,2008,2,44,"6'02""",218,Tulane
+1581,DeSean,Jackson,WR,2008,2,49,"5'10""",175,California
+744,Calais,Campbell,DE,2008,2,50,"6'08""",300,Miami
+252,Chad,Henne,QB,2008,2,57,"6'03""",222,Michigan
+1062,Martellus,Bennett,TE,2008,2,61,"6'06""",275,Texas A&M
+925,Jamaal,Charles,RB,2008,3,73,"5'11""",199,Texas
+786,Patrick,Sims,DT,2008,3,77,"6'02""",330,Auburn
+1330,Clifford,Avril,DE,2008,3,92,"6'03""",260,Purdue
+1681,Tyvon,Branch,SS,2008,4,100,"6'00""",210,Connecticut
+4483,William,Hayes,DE,2008,4,103,"6'03""",278,Winston-Salem
+1974,Quintin,Demps,SS,2008,4,117,"5'11""",216,Texas-El Paso
+758,Breno,Giacomini,T,2008,5,150,"6'07""",318,Louisville
+4487,Matthew,Slater,WR,2008,5,153,"6'00""",205,UCLA
+2507488,Erik,Walden,OLB,2008,6,167,"6'02""",250,Middle Tennessee
+2507491,John,Sullivan,C,2008,6,187,"6'04""",310,Notre Dame
+1344,Ahtyba,Rubin,DT,2008,6,190,"6'02""",325,Iowa State
+2346,Pierre,Garcon,WR,2008,6,205,"6'00""",211,Mount Union
+4263,Brett,Kern,P,2008,NULL,NULL,"6'02""",214,Toledo
+2354,Wesley,Woodyard,ILB,2008,NULL,NULL,"6'00""",233,Kentucky
+2507358,Christopher,Clark,T,2008,NULL,NULL,"6'05""",305,Southern Mississippi
+2514414,Jerrell,Freeman,ILB,2008,NULL,NULL,"6'00""",235,Mary Hardin-Baylor
+2507728,Jermey,Parnell,T,2009,NULL,NULL,"6'06""",326,Mississippi
+2507731,Garrison,Sanborn,LS,2009,NULL,NULL,"6'01""",240,Florida State
+71309,Graham,Gano,K,2009,NULL,NULL,"6'02""",202,Florida State
+2522602,Matthew,Overton,LS,2010,NULL,NULL,"6'01""",243,Western Washington
+497095,Samuel,Bradford,QB,2010,1,1,"6'04""",224,Oklahoma
+496861,Ndamukong,Suh,DT,2010,1,2,"6'04""",305,Nebraska
+496816,Gerald,McCoy,DT,2010,1,3,"6'04""",300,Oklahoma
+497073,Trent,Williams,T,2010,1,4,"6'05""",320,Oklahoma
+496723,James,Berry,SS,2010,1,5,"6'00""",212,Tennessee
+497032,Russell,Okung,T,2010,1,6,"6'05""",310,Oklahoma State
+496733,Joseph,Haden,CB,2010,1,7,"5'11""",195,Florida
+496760,Tyson,Alualu,DE,2010,1,10,"6'03""",304,California
+496788,Brandon,Graham,DE,2010,1,13,"6'02""",265,Michigan
+2508080,Earl,Thomas,FS,2010,1,14,"5'10""",202,Texas
+496843,Jason,Pierre-Paul,DE,2010,1,15,"6'05""",278,South Florida
+496828,Derrick,Morgan,OLB,2010,1,16,"6'04""",261,Georgia Tech
+497016,Mike,Iupati,G,2010,1,17,"6'05""",331,Idaho
+497042,LaShawn,Pouncey,C,2010,1,18,"6'04""",304,Florida
+496735,Kareem,Jackson,CB,2010,1,20,"5'10""",185,Alabama
+497238,Jermaine,Gresham,TE,2010,1,21,"6'05""",260,Oklahoma
+497328,Demaryius,Thomas,WR,2010,1,22,"6'03""",229,Georgia Tech
+496988,Bryan,Bulaga,T,2010,1,23,"6'05""",314,Iowa
+497278,Dez,Bryant,WR,2010,1,24,"6'02""",220,Oklahoma State
+494287,Devin,McCourty,FS,2010,1,27,"5'10""",195,Rutgers
+496796,Jerry,Hughes,DE,2010,1,31,"6'02""",254,Texas Christian
+2508084,Patrick,Robinson,CB,2010,1,32,"5'11""",191,Florida State
+497048,Rodger,Saffold,G,2010,2,33,"6'05""",325,Indiana
+2508043,Nathaniel,Allen,FS,2010,2,37,"6'01""",214,South Florida
+494323,Terrell,Ward,FS,2010,2,38,"5'10""",200,Oregon
+497270,Arrelious,Benn,WR,2010,2,39,"6'02""",228,Illinois
+497240,Robert,Gronkowski,TE,2010,2,42,"6'06""",265,Arizona
+496794,Lamarr,Houston,OLB,2010,2,44,"6'03""",270,Texas
+496980,Zane,Beadles,G,2010,2,45,"6'04""",305,Utah
+496802,Linval,Joseph,NT,2010,2,46,"6'04""",329,East Carolina
+496780,Carlos,Dunlap,DE,2010,2,54,"6'06""",280,Florida
+496937,Sean,Lee,OLB,2010,2,55,"6'02""",245,Penn State
+497326,Golden,Tate,WR,2010,2,60,"5'10""",197,Notre Dame
+2508044,Vladimir,Ducasse,G,2010,2,61,"6'05""",329,Massachusetts
+497061,Edwin,Veldheer,T,2010,3,69,"6'08""",321,Hillsdale
+497224,Edward,Dickson,TE,2010,3,70,"6'04""",255,Oregon
+496727,Morgan,Burnett,SS,2010,3,71,"6'01""",209,Georgia Tech
+497018,John,Jerry,G,2010,3,73,"6'05""",340,Mississippi
+497302,Brandon,LaFell,WR,2010,3,78,"6'03""",210,Louisiana State
+496822,Earl,Mitchell,DT,2010,3,81,"6'03""",310,Arizona
+497322,Emmanuel,Sanders,WR,2010,3,82,"5'11""",180,Southern Methodist
+496841,Corey,Peters,DT,2010,3,83,"6'03""",305,Kentucky
+497284,Eric,Decker,WR,2010,3,87,"6'03""",214,Minnesota
+497320,Andre,Roberts,WR,2010,3,88,"5'11""",192,Citadel
+2508088,Navorro,Bowman,MLB,2010,3,91,"6'00""",242,Penn State
+497028,Shawn,Lauvao,G,2010,3,92,"6'03""",308,Arizona State
+497236,Jimmy,Graham,TE,2010,3,95,"6'07""",265,Miami
+496790,Everson,Griffen,DE,2010,4,100,"6'03""",273,Southern California
+494317,Alterraun,Verner,CB,2010,4,104,"5'10""",187,UCLA
+496762,Gene,Atkins,DT,2010,4,120,"6'01""",300,Georgia
+496881,Al,Woods,NT,2010,4,123,"6'04""",330,Louisiana State
+497246,Michael,Hoomanawanui,TE,2010,5,132,"6'04""",265,Illinois
+494257,Kameron,Chancellor,SS,2010,5,133,"6'03""",225,Virginia Tech
+494289,Sherrick,McManis,CB,2010,5,144,"6'01""",193,Northwestern
+494254,Nolan,Carroll,CB,2010,5,145,"6'01""",205,Maryland
+496739,Reshad,Jones,SS,2010,5,163,"6'01""",223,Georgia
+497030,Marshall,Newhouse,T,2010,5,169,"6'04""",328,Texas Christian
+496825,Arthur,Moats,OLB,2010,6,178,"6'00""",246,James Madison
+2508061,Antonio,Brown,WR,2010,6,195,"5'10""",181,Central Michigan
+1037347,Joseph,Webb,QB,2010,6,199,"6'04""",230,Alabama-Birmingham
+2508063,Willie,Young,OLB,2010,7,213,"6'04""",259,North Carolina State
+496961,Gregory,Watson,OLB,2010,7,217,"6'02""",245,Florida State
+497226,Jim,Dray,TE,2010,7,233,"6'05""",255,Stanford
+494261,Kurtis,Coleman,FS,2010,7,244,"5'11""",208,Ohio State
+1037913,Robert,McClain,CB,2010,7,249,"5'09""",195,Connecticut
+2507817,Rafael,Bush,SS,2010,NULL,NULL,"5'11""",205,South Carolina State
+2513195,Justin,Drescher,LS,2010,NULL,NULL,"6'01""",235,Colorado
+2507828,Logan,Paulsen,TE,2010,NULL,NULL,"6'05""",268,UCLA
+2507918,Christopher,Maragos,SS,2010,NULL,NULL,"5'10""",200,Wisconsin
+494259,Barry,Church,SS,2010,NULL,NULL,"6'02""",218,Toledo
+2507948,Frank,Zombo,OLB,2010,NULL,NULL,"6'03""",254,Central Michigan
+2517637,George,Johnson,DE,2010,NULL,NULL,"6'04""",265,Rutgers
+2507999,Christopher,Ivory,RB,2010,NULL,NULL,"6'00""",223,Tiffin
+2508004,Anthony,Levine,SS,2010,NULL,NULL,"5'11""",200,Tennessee State
+2508007,Marcus,Sherels,CB,2010,NULL,NULL,"5'10""",175,Minnesota
+496782,Junior,Galette,OLB,2010,NULL,NULL,"6'02""",254,Stillman
+2508008,Charles,Cox,LS,2010,NULL,NULL,"6'04""",233,Tennessee
+2508016,Mitchell,Unrein,DE,2010,NULL,NULL,"6'04""",301,Wyoming
+2508101,James,Develin,FB,2010,NULL,NULL,"6'03""",255,Brown
+2525323,Andrew,Sendejo,SS,2010,NULL,NULL,"6'01""",210,Rice
+2538176,Attauyo,Nsekhe,T,2012,NULL,NULL,"6'08""",338,Texas State
+2495455,Cameron,Newton,QB,2011,1,1,"6'05""",245,Auburn
+2495202,Von,Miller,OLB,2011,1,2,"6'03""",250,Texas A&M
+2495478,Marcell,Dareus,DT,2011,1,3,"6'03""",331,Alabama
+2495450,Adriel,Green,WR,2011,1,4,"6'04""",210,Georgia
+2495504,Patrick,Peterson,CB,2011,1,5,"6'01""",203,Louisiana State
+2495454,Quintorris,Jones,WR,2011,1,6,"6'03""",220,Alabama
+2495435,Tyron,Smith,T,2011,1,9,"6'05""",320,Southern California
+2495488,Justin,Watt,DE,2011,1,11,"6'05""",295,Wisconsin
+2495485,Robert,Quinn,OLB,2011,1,14,"6'04""",264,North Carolina
+2495216,James,Pouncey,C,2011,1,15,"6'05""",298,Florida
+2495190,Patrick,Kerrigan,OLB,2011,1,16,"6'04""",259,Purdue
+2495232,Nathaniel,Solder,T,2011,1,17,"6'08""",325,Colorado
+2495483,Corey,Liuget,DT,2011,1,18,"6'02""",300,Illinois
+2495108,Prince,Amukamara,CB,2011,1,19,"6'00""",204,Nebraska
+2495140,Adrian,Clayborn,DE,2011,1,20,"6'03""",280,Iowa
+2495137,Anthony,Castonzo,T,2011,1,22,"6'07""",311,Boston College
+2495184,Cameron,Jordan,DE,2011,1,24,"6'04""",287,California
+2495134,James,Carpenter,G,2011,1,25,"6'05""",321,Alabama
+2508107,James,Smith,CB,2011,1,27,"6'02""",210,Colorado
+2495466,Mark,Ingram,RB,2011,1,28,"5'09""",215,Alabama
+2495490,Muhammad,Wilkerson,DE,2011,1,30,"6'04""",315,Temple
+2508109,Cameron,Heyward,DT,2011,1,31,"6'05""",295,Ohio State
+2495143,Andrew,Dalton,QB,2011,2,35,"6'02""",220,Texas Christian
+2495228,Jabaal,Sheard,DE,2011,2,37,"6'03""",265,Pittsburgh
+2495136,Bruce,Carter,ILB,2011,2,40,"6'02""",240,North Carolina
+2495178,Jarvis,Jenkins,DE,2011,2,41,"6'04""",300,Clemson
+2495218,Brooks,Reed,DE,2011,2,42,"6'03""",254,Arizona
+2495438,Kyle,Rudolph,TE,2011,2,43,"6'06""",265,Notre Dame
+2495187,Lance,Kendricks,TE,2011,2,47,"6'03""",250,Wisconsin
+2495250,Stefen,Wisniewski,G,2011,2,48,"6'03""",305,Penn State
+2495174,Benjamin,Ijalana,T,2011,2,49,"6'04""",322,Villanova
+2495153,Marcus,Gilchrist,FS,2011,2,50,"5'10""",200,Clemson
+2495210,Stephen,Paea,DT,2011,2,53,"6'01""",300,Oregon State
+2495171,Rodney,Hudson,C,2011,2,55,"6'02""",300,Florida State
+2495473,Shane,Vereen,RB,2011,2,56,"5'10""",205,California
+2495459,James,Smith,WR,2011,2,58,"6'00""",205,Maryland
+2508111,Marcus,Gilbert,T,2011,2,63,"6'06""",330,Florida
+2495448,Randall,Cobb,WR,2011,2,64,"5'10""",192,Kentucky
+2495311,Terrell,McClain,DE,2011,3,65,"6'02""",302,South Florida
+2495493,Justin,Houston,OLB,2011,3,70,"6'03""",258,Georgia
+2495207,DeMarco,Murray,RB,2011,3,71,"6'01""",220,Oklahoma
+2495443,Ryan,Mallett,QB,2011,3,74,"6'06""",250,Arkansas
+2495476,Jurrell,Casey,DT,2011,3,77,"6'01""",305,Southern California
+2495281,Mason,Foster,ILB,2011,3,84,"6'01""",250,Washington
+2495116,Allen,Bailey,DE,2011,3,86,"6'03""",288,Miami
+2495251,Shareece,Wright,CB,2011,3,89,"5'11""",184,Southern California
+2508117,Joseph,Barksdale,T,2011,3,92,"6'05""",326,Louisiana State
+2495272,Christopher,Conte,SS,2011,3,93,"6'02""",203,California
+2495252,Kenneth,Wright,OLB,2011,4,99,"6'04""",246,Mississippi State
+2495339,Da'Norris,Searcy,SS,2011,4,100,"5'11""",207,North Carolina
+2495123,Clint,Boling,G,2011,4,101,"6'05""",305,Georgia
+2495101,Samuel,Acho,OLB,2011,4,103,"6'03""",259,Texas
+2495234,Lucas,Stocker,TE,2011,4,104,"6'06""",253,Tennessee
+2495157,Christian,Hairston,T,2011,4,122,"6'06""",330,Clemson
+2495467,Taiwan,Jones,RB,2011,4,125,"6'00""",195,Eastern Washington
+2495328,Bilal,Powell,RB,2011,4,126,"5'10""",204,Louisville
+2495353,Julius,Thomas,TE,2011,4,129,"6'05""",262,Portland State
+2495170,Davon,House,CB,2011,4,131,"6'00""",195,New Mexico State
+2495340,Anthony,Sherman,FB,2011,5,136,"5'10""",242,Connecticut
+2495343,Darryl,Skrine,CB,2011,5,137,"5'09""",185,Chattanooga
+2495131,Marcus,Cannon,T,2011,5,138,"6'06""",335,Texas Christian
+2495300,Karl,Klug,DT,2011,5,142,"6'03""",278,Iowa
+2495471,Jacquizz,Rodgers,RB,2011,5,145,"5'07""",190,Oregon State
+2495469,Dion,Lewis,RB,2011,5,149,"5'08""",195,Pittsburgh
+2495189,Jeremy,Kerley,WR,2011,5,153,"5'09""",188,Texas Christian
+2495507,Richard,Sherman,CB,2011,5,154,"6'03""",195,Stanford
+2495211,Niles,Paul,TE,2011,5,155,"6'01""",242,Nebraska
+2495347,Joseph,Smith,TE,2011,5,159,"6'06""",265,Marshall
+2508126,Christopher,Carter,OLB,2011,5,162,"6'01""",240,Fresno State
+2495299,Daniel,Kilgore,C,2011,5,163,"6'03""",308,Appalachian State
+2495201,Pernell,McPhee,OLB,2011,5,165,"6'03""",269,Mississippi State
+2495283,Brandon,Fusco,G,2011,6,172,"6'04""",306,Slippery Rock
+2495310,Byron,Maxwell,CB,2011,6,173,"6'01""",198,Clemson
+2495139,Charles,Clay,TE,2011,6,174,"6'03""",255,Tulsa
+2495159,Dwayne,Harris,WR,2011,6,176,"5'10""",202,East Carolina
+2495331,Aldrick,Robinson,WR,2011,6,178,"5'10""",187,Southern Methodist
+2495240,Tyrod,Taylor,QB,2011,6,180,"6'01""",215,Virginia Tech
+2495472,Jordan,Todman,RB,2011,6,183,"5'10""",200,Connecticut
+2499257,Colin,Jones,FS,2011,6,190,"6'00""",205,Texas Christian
+2495298,Jason,Kelce,C,2011,6,191,"6'03""",295,Cincinnati
+2495124,Matt,Bosher,P,2011,6,192,"6'00""",208,Miami
+2508132,James,Thomas,OLB,2011,6,195,"6'01""",236,West Virginia
+2495288,Virgil,Green,TE,2011,7,204,"6'05""",255,Nevada
+2495481,Lawrence,Guy,DE,2011,7,233,"6'04""",305,Arizona State
+2508140,Michael,Person,C,2011,7,239,"6'04""",299,Montana State
+2558295,Adam,Bighill,LB,2016,NULL,NULL,"5'10""",230,Central Washington
+2532331,Michael,Wilhoite,MLB,2011,NULL,NULL,"6'00""",245,Washburn
+2530722,Kyle,Nelson,LS,2011,NULL,NULL,"6'02""",240,New Mexico State
+2530510,Christopher,Harris,CB,2011,NULL,NULL,"5'10""",199,Kansas
+2530515,Chris,Hogan,WR,2011,NULL,NULL,"6'01""",210,"Monmouth, N.J."
+2530556,Kenneth,Wiggins,G,2011,NULL,NULL,"6'06""",314,Fresno State
+2495486,Sealver,Siliga,DT,2011,NULL,NULL,"6'02""",345,Utah
+2495453,Andre,Holmes,WR,2011,NULL,NULL,"6'04""",210,Hillsdale
+2530491,Joshua,Bynes,ILB,2011,NULL,NULL,"6'01""",235,Auburn
+2495262,Nick,Bellore,ILB,2011,NULL,NULL,"6'01""",250,Central Michigan
+2530474,Mario,Addison,DE,2011,NULL,NULL,"6'03""",260,Troy
+2530852,Jacob,McQuaide,LS,2011,NULL,NULL,"6'02""",225,Ohio State
+2530700,Dontrelle,Inman,WR,2011,NULL,NULL,"6'03""",205,Virginia
+2495356,Cedric,Thornton,DT,2011,NULL,NULL,"6'04""",295,Southern Arkansas
+2530747,Doug,Baldwin,WR,2011,NULL,NULL,"5'10""",192,Stanford
+2530794,Ronald,Parker,FS,2011,NULL,NULL,"6'00""",206,Newberry
+2530765,Jonathan,Freeny,OLB,2011,NULL,NULL,"6'02""",254,Rutgers
+2532871,Bruce,Irvin,OLB,2012,1,15,"6'03""",260,West Virginia
+2533060,D'Andre,Kirkpatrick,CB,2012,1,17,"6'02""",185,Alabama
+2532870,Melvin,Ingram,DE,2012,1,18,"6'02""",247,South Carolina
+2532977,Kendall,Wright,WR,2012,1,20,"5'10""",185,Baylor
+2533538,Chandler,Jones,OLB,2012,1,21,"6'05""",265,Syracuse
+2533042,Riley,Reiff,T,2012,1,23,"6'06""",305,Iowa
+2533043,David,DeCastro,G,2012,1,24,"6'05""",316,Stanford
+2533057,Qualin,Hightower,MLB,2012,1,25,"6'03""",265,Alabama
+2533049,Whitney,Mercilus,OLB,2012,1,26,"6'04""",265,Illinois
+2532980,Kevin,Zeitler,G,2012,1,27,"6'04""",315,Wisconsin
+2533048,Nicholas,Perry,OLB,2012,1,28,"6'03""",265,Southern California
+2532948,Harrison,Smith,FS,2012,1,29,"6'02""",214,Notre Dame
+2532899,Douglas,Martin,RB,2012,1,31,"5'09""",223,Boise State
+2532933,Brian,Quick,WR,2012,2,33,"6'03""",218,Appalachian State
+2532838,Jacoby,Fleener,TE,2012,2,34,"6'06""",251,Stanford
+2532964,Courtney,Upshaw,DE,2012,2,35,"6'02""",272,Alabama
+2533026,Derek,Wolfe,DE,2012,2,36,"6'05""",285,Cincinnati
+2532945,Mitchell,Schwartz,T,2012,2,37,"6'05""",320,California
+2532801,Orlandus,Branch,DE,2012,2,38,"6'05""",263,Clemson
+2532875,Janoris,Jenkins,CB,2012,2,39,"5'10""",198,North Alabama
+2532947,Aminiasi,Silatolu,G,2012,2,40,"6'04""",305,Midwestern State
+2532849,Cordy,Glenn,T,2012,2,41,"6'06""",345,Georgia
+2532787,Jeffery,Allen,G,2012,2,44,"6'04""",306,Illinois
+2533039,Alshon,Jeffery,WR,2012,2,45,"6'03""",218,South Carolina
+2532890,Marvin,Kendricks,OLB,2012,2,46,"6'00""",240,California
+2532966,Bobby,Wagner,MLB,2012,2,47,"6'00""",245,Utah State
+2534830,Tavon,Wilson,SS,2012,2,48,"6'00""",212,Illinois
+2533052,Jerel,Worthy,DT,2012,2,51,"6'02""",300,Michigan State
+2532804,Zach,Brown,ILB,2012,2,52,"6'01""",251,North Carolina
+2533436,Brock,Osweiler,QB,2012,2,57,"6'07""",240,Arizona State
+2532828,Lavonte,David,OLB,2012,2,58,"6'01""",233,Nebraska
+2532825,Vincent,Curry,DE,2012,2,59,"6'03""",279,Marshall
+2532922,Kelechi,Osemele,G,2012,2,60,"6'05""",330,Iowa State
+2532861,Casey,Hayward,CB,2012,2,62,"5'11""",192,Vanderbilt
+2533046,Dwayne,Allen,TE,2012,3,64,"6'03""",265,Clemson
+2532877,Trumaine,Johnson,CB,2012,3,65,"6'02""",213,Montana
+2533542,Joshua,Robinson,FS,2012,3,66,"5'10""",199,Central Florida
+2533000,Bryan,Anger,P,2012,3,70,"6'03""",205,California
+2532891,Josh,LeRibeus,C,2012,3,71,"6'02""",310,Southern Methodist
+2533534,Olivier,Vernon,DE,2012,3,72,"6'02""",262,Miami
+2532993,Donald,Stephenson,T,2012,3,74,"6'06""",312,Oklahoma
+2532975,Russell,Wilson,QB,2012,3,75,"5'11""",215,Wisconsin
+2534434,Brandon,Brooks,G,2012,3,76,"6'05""",335,"Miami, O."
+2533008,Demario,Davis,ILB,2012,3,77,"6'02""",248,Arkansas State
+2532821,Tyrone,Crawford,DE,2012,3,81,"6'04""",295,Boise State
+2533040,Mohamed,Sanu,WR,2012,3,83,"6'02""",210,Rutgers
+2532952,Sean,Spence,ILB,2012,3,86,"5'11""",231,Miami
+2533433,Akiem,Hicks,DE,2012,3,89,"6'05""",332,"Regina, Can."
+2532865,Eugene,Hilton,WR,2012,3,92,"5'09""",178,Florida International
+2533010,Anthony,Bergstrom,G,2012,3,95,"6'05""",315,Utah
+2533034,Lamar,Miller,RB,2012,4,97,"5'10""",220,Miami
+2532883,Benjamin,Jones,C,2012,4,99,"6'03""",308,Georgia
+2532790,Travis,Benjamin,WR,2012,4,100,"5'10""",175,Miami
+2532820,Kirk,Cousins,QB,2012,4,102,"6'03""",202,Michigan State
+2532800,Nigel,Bradham,OLB,2012,4,105,"6'02""",241,Florida State
+2533460,Robert,Turbin,RB,2012,4,106,"5'10""",216,Utah State
+2533543,Bobby,Massie,T,2012,4,112,"6'06""",317,Mississippi
+2532974,Kyle,Wilber,OLB,2012,4,113,"6'04""",245,Wake Forest
+2532946,Coty,Sensabaugh,CB,2012,4,115,"5'11""",187,Clemson
+2532896,Joseph,Looney,C,2012,4,117,"6'03""",315,Wake Forest
+2532978,Jarius,Wright,WR,2012,4,118,"5'10""",191,Arkansas
+2532940,Keenan,Robinson,OLB,2012,4,119,"6'03""",238,Texas
+2532835,Rhett,Ellison,TE,2012,4,128,"6'05""",250,Southern California
+2532826,Michael,Daniels,DT,2012,4,132,"6'00""",310,Iowa
+2532873,Malik,Jackson,DT,2012,5,137,"6'05""",290,Tennessee
+2532986,Tahir,Whitehead,OLB,2012,5,138,"6'02""",241,Temple
+2532794,Robert,Blanton,FS,2012,5,139,"6'01""",200,Notre Dame
+2533016,Najee,Goode,ILB,2012,5,140,"6'00""",244,West Virginia
+2532898,Brandon,Marshall,ILB,2012,5,142,"6'01""",250,Nevada
+2532920,Joshua,Norman,CB,2012,5,143,"6'00""",200,Coastal Carolina
+2532889,Senio,Kelemete,G,2012,5,151,"6'03""",300,Washington
+2535131,Dennis,Kelly,T,2012,5,153,"6'08""",321,Purdue
+2534567,Korey,Toomer,MLB,2012,5,154,"6'02""",235,Idaho
+2532992,Jack,Crawford,DT,2012,5,158,"6'05""",288,Penn State
+2533444,Randol,Bullock,K,2012,5,161,"5'09""",206,Texas A&M
+2532884,Marvin,Jones,WR,2012,5,166,"6'02""",198,California
+2532869,George,Iloka,FS,2012,5,167,"6'04""",225,Boise State
+2532872,Asa,Jackson,CB,2012,5,169,"5'10""",183,Cal Poly
+2534797,Greg,Zuerlein,K,2012,6,171,"6'00""",191,Missouri Western
+2534834,Jeremy,Lane,CB,2012,6,172,"6'00""",190,"Northwestern State, La."
+2533457,Alfred,Morris,RB,2012,6,173,"5'10""",224,Florida Atlantic
+2534741,Keith,Tandy,FS,2012,6,174,"5'10""",205,West Virginia
+2532968,Blair,Walsh,K,2012,6,175,"5'10""",175,Georgia
+2532792,Justin,Bethel,CB,2012,6,177,"6'00""",200,Presbyterian
+2533028,James,Hanna,TE,2012,6,186,"6'04""",260,Oklahoma
+2532961,Danny,Trevathan,ILB,2012,6,188,"6'01""",239,Kentucky
+2532816,Thomas,Compton,T,2012,6,193,"6'05""",313,South Dakota
+2532921,Bradley,Nortman,P,2012,6,207,"6'02""",214,Wisconsin
+2535132,Nate,Ebner,SS,2012,6,197,"6'00""",220,Ohio State
+2533342,Justin,Sweezy,G,2012,7,225,"6'05""",298,North Carolina State
+2532903,Rishard,Matthews,WR,2012,7,227,"6'00""",217,Nevada
+2533459,Stephen,Stupar,OLB,2012,7,230,"6'02""",240,Penn State
+2533442,Kelvin,Beachum,T,2012,7,248,"6'03""",308,Southern Methodist
+2533554,Josh,Harris,LS,2012,NULL,NULL,"6'01""",224,Auburn
+2535582,Peyton,Thompson,FS,2012,NULL,NULL,"5'10""",184,San Jose State
+2532859,Bryce,Harris,T,2012,NULL,NULL,"6'06""",300,Fresno State
+2535663,John,Hekker,P,2012,NULL,NULL,"6'05""",241,Oregon State
+2534832,Rodney,McLeod,FS,2012,NULL,NULL,"5'10""",195,Virginia
+2534820,Garrett,Celek,TE,2012,NULL,NULL,"6'05""",252,Michigan State
+2535686,Giorgio,Tavecchio,K,2012,NULL,NULL,"5'10""",182,California
+2535687,Michael,Thomas,SS,2012,NULL,NULL,"5'11""",195,Stanford
+2533058,Vontaze,Burfict,OLB,2012,NULL,NULL,"6'01""",255,Arizona State
+2532848,Tashaun,Gipson,FS,2012,NULL,NULL,"5'11""",212,Wyoming
+2535613,Larry,Fort,ILB,2012,NULL,NULL,"6'00""",232,Northern Iowa
+2535514,Steven,Johnson,ILB,2012,NULL,NULL,"6'01""",237,Kansas
+2535529,Aaron,Brewer,LS,2012,NULL,NULL,"6'05""",232,San Diego State
+2534822,Robert,Golden,SS,2012,NULL,NULL,"5'11""",202,Arizona
+2532888,Casey,Keenum,QB,2012,NULL,NULL,"6'01""",205,Houston
+2535535,Phillip,Supernaw,TE,2012,NULL,NULL,"6'05""",248,Ouachita Baptist
+2535698,Cole,Beasley,WR,2012,NULL,NULL,"5'08""",180,Southern Methodist
+2535722,Robert,Hughlett,LS,2012,NULL,NULL,"6'04""",248,Central Florida
+2533454,Ronald,Leary,G,2012,NULL,NULL,"6'03""",320,Memphis
+2534846,Neiko,Thorpe,CB,2012,NULL,NULL,"6'02""",210,Auburn
+2535988,Brittan,Golden,WR,2012,NULL,NULL,"5'11""",186,West Texas A&M
+2534571,Bobby,Rainey,RB,2012,NULL,NULL,"5'08""",212,Western Kentucky
+2534436,Deonte,Thompson,WR,2012,NULL,NULL,"6'00""",204,Florida
+2535943,Sean,McGrath,TE,2012,NULL,NULL,"6'05""",259,Henderson State
+2536032,Emmanuel,Lamur,OLB,2012,NULL,NULL,"6'04""",245,Kansas State
+2536044,Jamize,Olawale,FB,2012,NULL,NULL,"6'01""",240,North Texas
+2536049,Ryan,Quigley,P,2012,NULL,NULL,"6'03""",188,Boston College
+2532928,Edward,Pleasant,SS,2012,NULL,NULL,"5'10""",200,Oregon
+2536340,Justin,Tucker,K,2012,NULL,NULL,"6'01""",183,Texas
+2552730,Brian,Peters,ILB,2014,NULL,NULL,"6'04""",240,Northwestern
+2538145,Gregory,Van Roten,C,2012,NULL,NULL,"6'03""",305,Pennsylvania
+2538247,Andrew,DePaola,LS,2012,NULL,NULL,"6'02""",230,Rutgers
+2540037,Foswhitt,Whittaker,RB,2012,NULL,NULL,"5'10""",205,Texas
+2540928,Darren,Fells,TE,2013,NULL,NULL,"6'07""",270,California-Irvine
+2555568,Erik,Harris,SS,2016,NULL,NULL,"6'03""",225,"California, Pa."
+2541096,Ifeanyi,Momah,TE,2013,NULL,NULL,"6'07""",255,Boston College
+2541192,Ayorunmi,Banjo,SS,2013,NULL,NULL,"5'10""",207,Southern Methodist
+2539213,Eric,Fisher,T,2013,1,1,"6'07""",315,Central Michigan
+2540139,Luke,Joeckel,G,2013,1,2,"6'06""",312,Texas A&M
+2539286,Lane,Johnson,T,2013,1,4,"6'06""",317,Oklahoma
+2539931,Ezekiel,Ansah,DE,2013,1,5,"6'05""",275,Brigham Young
+2540140,Barkevious,Mingo,OLB,2013,1,6,"6'04""",239,Louisiana State
+2539272,Jonathan,Cooper,G,2013,1,7,"6'02""",302,North Carolina
+2539336,Tavon,Austin,WR,2013,1,8,"5'08""",179,West Virginia
+2539194,Chance,Warmack,G,2013,1,10,"6'02""",323,Alabama
+2540166,Danny,Fluker,G,2013,1,11,"6'05""",339,Alabama
+2539237,Derek,Hayden,CB,2013,1,12,"5'11""",190,Houston
+2540142,Sheldon,Richardson,DT,2013,1,13,"6'03""",294,Missouri
+2539329,Starlite,Lotulelei,DT,2013,1,14,"6'02""",315,Utah
+2539320,Kenny,Vaccaro,SS,2013,1,15,"6'00""",214,Texas
+2539228,Erik,Manuel,QB,2013,1,16,"6'04""",237,Florida State
+2540152,Eric,Reid,SS,2013,1,18,"6'01""",213,Louisiana State
+2540195,Justin,Pugh,G,2013,1,19,"6'04""",301,Syracuse
+2539933,Kyle,Long,G,2013,1,20,"6'06""",315,Oregon
+2540148,Tyler,Eifert,TE,2013,1,21,"6'06""",255,Notre Dame
+2539334,Desmond,Trufant,CB,2013,1,22,"6'00""",190,Washington
+2540155,Xavier,Rhodes,CB,2013,1,25,"6'01""",218,Florida State
+2540165,DeAndre,Hopkins,WR,2013,1,27,"6'01""",215,Clemson
+2539270,Sylvester,Williams,NT,2013,1,28,"6'02""",313,North Carolina
+2540145,Cordarrelle,Patterson,WR,2013,1,29,"6'02""",220,Tennessee
+2540143,Alec,Ogletree,ILB,2013,1,30,"6'02""",235,Georgia
+2540161,Travis,Frederick,C,2013,1,31,"6'04""",320,Wisconsin
+2539223,Johnathan,Cyprien,SS,2013,2,33,"6'00""",223,Florida International
+2540151,Justin,Hunter,WR,2013,2,34,"6'04""",203,Tennessee
+2540158,Zachary,Ertz,TE,2013,2,35,"6'05""",250,Stanford
+2540288,Darius,Slay,CB,2013,2,36,"6'00""",190,Mississippi State
+2540156,Giovani,Bernard,RB,2013,2,37,"5'09""",205,North Carolina
+2539277,Manti,Te'o,MLB,2013,2,38,"6'01""",241,Notre Dame
+2539224,Cornellius,Carradine,DE,2013,2,40,"6'04""",270,Florida State
+2540169,Robert,Woods,WR,2013,2,41,"6'00""",193,Southern California
+2540206,Menelik,Watson,T,2013,2,42,"6'05""",315,Florida State
+2539262,Johnthan,Banks,CB,2013,2,43,"6'02""",185,Mississippi State
+2539296,Kawann,Short,DT,2013,2,44,"6'03""",315,Purdue
+2540159,Kevin,Minter,MLB,2013,2,45,"6'00""",246,Louisiana State
+2539935,Kristian,Alonso,OLB,2013,2,46,"6'03""",233,Oregon
+2540175,Le'Veon,Bell,RB,2013,2,48,"6'01""",225,Michigan State
+2540147,Johnathan,Hankins,DT,2013,2,49,"6'02""",325,Ohio State
+2539978,Jon,Bostic,ILB,2013,2,50,"6'01""",245,Florida
+2540170,David,Amerson,CB,2013,2,51,"6'01""",205,North Carolina State
+2539311,Jamie,Collins,OLB,2013,2,52,"6'03""",250,Southern Mississippi
+2539310,Margus,Hunt,DT,2013,2,53,"6'08""",298,Southern Methodist
+2539932,Jamar,Taylor,CB,2013,2,54,"5'11""",192,Boise State
+2540215,Vance,McDonald,TE,2013,2,55,"6'04""",267,Rice
+2539943,Dayario,Swearinger,FS,2013,2,57,"5'10""",205,South Carolina
+2539653,Robert,Alford,CB,2013,2,60,"5'10""",186,Southeastern Louisiana
+2540168,Eddie,Lacy,RB,2013,2,61,"5'11""",250,Alabama
+2540258,Travis,Kelce,TE,2013,3,63,"6'05""",260,Cincinnati
+2539248,Lawrence,Warford,G,2013,3,65,"6'03""",317,Kentucky
+2540163,Bennie,Logan,DT,2013,3,67,"6'02""",315,Louisiana State
+2540180,Tyrann,Mathieu,FS,2013,3,69,"5'09""",186,Louisiana State
+2539219,Blidi,Wreh-Wilson,CB,2013,3,70,"6'01""",190,Connecticut
+2539247,Brian,Winters,G,2013,3,72,"6'04""",320,Kent State
+2539275,Michael,Glennon,QB,2013,3,73,"6'06""",229,North Carolina State
+2539205,Terrance,Williams,WR,2013,3,74,"6'02""",210,Baylor
+2540228,Terron,Armstead,T,2013,3,75,"6'05""",304,Arkansas-Pine Bluff
+2540154,Keenan,Allen,WR,2013,3,76,"6'02""",211,California
+2539964,Marquise,Goodwin,WR,2013,3,78,"5'09""",179,Texas
+2539291,Markus,Wheaton,WR,2013,3,79,"5'11""",185,Oregon State
+2540219,James,Wilcox,FS,2013,3,80,"6'00""",212,Georgia Southern
+2540138,Damontre,Moore,DE,2013,3,81,"6'05""",250,Texas A&M
+2540162,Logan,Ryan,CB,2013,3,83,"5'11""",195,Rutgers
+2539233,Shawn,Williams,SS,2013,3,84,"6'00""",210,Georgia
+2540160,Jordan,Reed,TE,2013,3,85,"6'02""",246,Florida
+2540291,Kayvon,Webster,CB,2013,3,90,"5'11""",192,South Florida
+2541243,Duron,Harmon,FS,2013,3,91,"6'01""",205,Rutgers
+2541302,Brandon,Williams,DT,2013,3,94,"6'01""",340,Missouri Southern
+2540201,Akeem,Spence,DT,2013,4,100,"6'01""",307,Illinois
+2539319,Alex,Okafor,DE,2013,4,103,"6'04""",260,Texas
+2540200,Dion,Sims,TE,2013,4,106,"6'04""",268,Michigan State
+2540216,Brian,Schwenke,C,2013,4,107,"6'03""",318,California
+2540183,David,Bakhtiari,T,2013,4,109,"6'04""",310,Colorado
+2539937,Shamarko,Thomas,SS,2013,4,111,"5'09""",217,Syracuse
+2539242,Earl,Watford,G,2013,4,116,"6'04""",295,James Madison
+2540292,Joseph,Tretter,C,2013,4,122,"6'03""",307,Cornell
+2540176,William,Gholston,DE,2013,4,126,"6'06""",281,Michigan State
+2539280,John,Simon,DE,2013,4,129,"6'01""",250,Ohio State
+2540230,Kyle,Juszczyk,FB,2013,4,130,"6'01""",240,Harvard
+2540203,Levine,Toilolo,TE,2013,4,133,"6'08""",265,Stanford
+2539331,Oday,Aboushi,G,2013,5,141,"6'05""",315,Virginia
+2540202,Kenneth,Stills,WR,2013,5,144,"6'01""",196,Oklahoma
+2541310,Steven,Means,DE,2013,5,147,"6'03""",263,Buffalo
+2539982,Aaron,Klein,OLB,2013,5,148,"6'01""",240,Iowa State
+2540011,Christopher,Thompson,RB,2013,5,154,"5'08""",191,Florida State
+2540237,Jeff,Locke,P,2013,5,155,"6'00""",195,UCLA
+2539960,Quinton,Dial,NT,2013,5,157,"6'05""",318,Alabama
+2541199,Luke,Willson,TE,2013,5,158,"6'05""",254,Rice
+2539240,Micah,Hyde,SS,2013,5,159,"6'00""",197,Iowa
+2539235,Tavarres,King,WR,2013,5,161,"6'01""",200,Georgia
+2540229,Jordan,Mills,T,2013,5,163,"6'05""",316,Louisiana Tech
+2539663,Mike,Gillislee,RB,2013,5,164,"5'11""",219,Florida
+2539637,Caleb,Sturgis,K,2013,5,166,"5'09""",192,Florida
+2539340,Richard,Wagner,T,2013,5,168,"6'06""",315,Wisconsin
+2540255,Vinston,Painter,T,2013,6,173,"6'04""",310,Virginia Tech
+2539227,Dustin,Hopkins,K,2013,6,177,"6'02""",203,Florida State
+2541161,Latavius,Murray,RB,2013,6,181,"6'03""",230,Central Florida
+2539289,Kenjon,Barner,RB,2013,6,182,"5'09""",185,Oregon
+2539217,Andre,Ellington,RB,2013,6,187,"5'09""",199,Clemson
+2539232,Cornelius,Washington,DE,2013,6,188,"6'04""",280,Georgia
+2539265,Michael,Burkhead,RB,2013,6,190,"5'10""",210,Nebraska
+2541315,Nathan,Palmer,ILB,2013,6,193,"6'02""",248,Illinois State
+2540020,Theo,Riddick,RB,2013,6,199,"5'09""",201,Notre Dame
+2541316,Ryan,Griffin,TE,2013,6,201,"6'06""",255,Connecticut
+2541159,Ryan,Jensen,C,2013,6,203,"6'04""",319,Colorado State-Pueblo
+2539285,Stacy,McGee,DE,2013,6,205,"6'03""",341,Oklahoma
+2540221,Vince,Williams,ILB,2013,6,206,"6'01""",233,Florida State
+2541388,Brice,Butler,WR,2013,7,209,"6'03""",220,San Diego State
+2540286,Demetrius,McCray,CB,2013,7,210,"6'02""",200,Appalachian State
+2540225,Thomas,Bohanon,FB,2013,7,215,"6'01""",246,Wake Forest
+2539290,Jordan,Poyer,FS,2013,7,218,"6'00""",191,Oregon State
+2539980,Kerwynn,Williams,RB,2013,7,230,"5'08""",198,Utah State
+2540277,David,Bass,OLB,2013,7,233,"6'04""",267,Missouri Western
+2540008,David,King,DE,2013,7,239,"6'04""",281,Oklahoma
+2541431,Kemal,Ishmael,FS,2013,7,243,"6'00""",206,Central Florida
+2540251,Anthony,Johnson,C,2013,7,251,"6'04""",300,South Carolina
+2541202,Marcus,Cooper,CB,2013,7,252,"6'02""",197,Rutgers
+2539207,John,Wetzel,T,2013,NULL,NULL,"6'07""",328,Boston College
+2541135,Cody,Davis,FS,2013,NULL,NULL,"6'01""",203,Texas Tech
+2541521,Ryan,Schraeder,T,2013,NULL,NULL,"6'07""",300,Valdosta State
+2541535,Paul,Worrilow,OLB,2013,NULL,NULL,"6'00""",230,Delaware
+2539645,Brandon,Williams,TE,2013,NULL,NULL,"6'03""",260,Oregon
+2541539,Daren,Bates,ILB,2013,NULL,NULL,"5'11""",225,Auburn
+2541544,Benny,Cunningham,RB,2013,NULL,NULL,"5'10""",218,Middle Tennessee
+2539662,Lerentee,McCray,OLB,2013,NULL,NULL,"6'03""",249,Florida
+2539974,Emmett,Cleary,T,2013,NULL,NULL,"6'07""",324,Boston College
+2541556,Brandon,McManus,K,2013,NULL,NULL,"6'03""",201,Temple
+2540279,Nick,Williams,WR,2013,NULL,NULL,"5'10""",184,Connecticut
+2540269,Cortrelle,Anderson,RB,2013,NULL,NULL,"5'08""",224,California
+2540013,William,Compton,ILB,2013,NULL,NULL,"6'01""",235,Nebraska
+2540259,MarQueis,Gray,TE,2013,NULL,NULL,"6'04""",263,Minnesota
+2541627,Kevin,McDermott,LS,2013,NULL,NULL,"6'05""",240,UCLA
+2539324,LaAdrian,Waddle,T,2013,NULL,NULL,"6'06""",315,Texas Tech
+2539259,Patrick,Omameh,G,2013,NULL,NULL,"6'04""",327,Michigan
+2541200,Rashaan,Melvin,CB,2013,NULL,NULL,"6'02""",196,Northern Illinois
+2539303,Zachary,Line,FB,2013,NULL,NULL,"6'01""",233,Southern Methodist
+2541688,Marcus,Burley,CB,2013,NULL,NULL,"5'10""",190,Delaware
+2539230,Abry,Jones,DT,2013,NULL,NULL,"6'04""",318,Georgia
+2541754,Steven,Terrell,FS,2013,NULL,NULL,"5'10""",197,Texas A&M
+2541716,Christopher,Hubbard,T,2013,NULL,NULL,"6'04""",295,Alabama-Birmingham
+2541898,Lane,Taylor,G,2013,NULL,NULL,"6'03""",324,Oklahoma State
+2540164,Tony,Jefferson,SS,2013,NULL,NULL,"5'11""",212,Oklahoma
+2541966,Jaron,Brown,WR,2013,NULL,NULL,"6'02""",205,Clemson
+2541958,Jahleel,Addae,SS,2013,NULL,NULL,"5'10""",195,Central Michigan
+2541141,Marcus,Cromartie,FS,2013,NULL,NULL,"6'00""",195,Wisconsin
+2542009,Benson,Mayowa,DE,2013,NULL,NULL,"6'03""",240,Idaho
+2542053,Freddie,Bishop,OLB,2013,NULL,NULL,"6'03""",255,Western Michigan
+2542246,Colton,Schmidt,P,2013,NULL,NULL,"5'11""",224,California-Davis
+2542357,James,Winchester,LS,2013,NULL,NULL,"6'03""",240,Oklahoma
+2543533,Patrick,Murray,K,2013,NULL,NULL,"5'07""",182,Fordham
+2550130,Alejandro,Villanueva,T,2014,NULL,NULL,"6'09""",320,Army
+2543456,Jadeveon,Clowney,OLB,2014,1,1,"6'05""",270,South Carolina
+2543458,Gregory,Robinson,T,2014,1,2,"6'05""",332,Auburn
+2543477,Robby,Bortles,QB,2014,1,3,"6'05""",236,Central Florida
+2543457,Samuel,Watkins,WR,2014,1,4,"6'01""",211,Clemson
+2543463,Khalil,Mack,DE,2014,1,5,"6'03""",252,Buffalo
+2543758,Jacob,Matthews,T,2014,1,6,"6'05""",305,Texas A&M
+2543468,Mike,Evans,WR,2014,1,7,"6'05""",231,Texas A&M
+2543459,Anthony,Barr,OLB,2014,1,9,"6'05""",255,UCLA
+2543466,Eric,Ebron,TE,2014,1,10,"6'04""",253,North Carolina
+2550132,Taylor,Lewan,T,2014,1,11,"6'07""",309,Michigan
+2543496,Odell,Beckham,WR,2014,1,12,"5'11""",198,Louisiana State
+2543485,Aaron,Donald,DT,2014,1,13,"6'01""",280,Pittsburgh
+2543681,Kyle,Fuller,CB,2014,1,14,"6'00""",190,Virginia Tech
+2543486,Ryan,Shazier,ILB,2014,1,15,"6'01""",230,Ohio State
+2543480,Zachary,Martin,G,2014,1,16,"6'04""",310,Notre Dame
+2543464,Clinton,Mosley,ILB,2014,1,17,"6'02""",250,Alabama
+2543755,Ja'Wuan,James,T,2014,1,19,"6'06""",307,Tennessee
+2543498,Brandin,Cooks,WR,2014,1,20,"5'10""",189,Oregon State
+2543470,Ha'Sean,Clinton-Dix,FS,2014,1,21,"6'01""",208,Alabama
+2543494,Donald,Ford,OLB,2014,1,23,"6'02""",252,Auburn
+2543474,Darqueze,Dennard,CB,2014,1,24,"5'11""",198,Michigan State
+2543493,Jason,Verrett,CB,2014,1,25,"5'10""",188,Texas Christian
+2543725,Marcus,Smith,DE,2014,1,26,"6'03""",258,Louisville
+2543769,Deone,Bucannon,ILB,2014,1,27,"6'01""",211,Washington State
+2543471,Kelvin,Benjamin,WR,2014,1,28,"6'05""",245,Florida State
+2543741,Jimmie,Ward,FS,2014,1,30,"5'11""",193,Northern Illinois
+2543505,Bradley,Roby,CB,2014,1,31,"5'11""",194,Ohio State
+2543666,Xavier,Su'a-Filo,G,2014,2,33,"6'04""",320,UCLA
+2543490,Demarcus,Lawrence,DE,2014,2,34,"6'03""",265,Boise State
+2543737,Joel,Bitonio,G,2014,2,35,"6'04""",305,Nevada
+2543499,Derek,Carr,QB,2014,2,36,"6'03""",214,Fresno State
+2543683,Austin,Seferian-Jenkins,TE,2014,2,38,"6'05""",262,Washington
+2543475,Marqise,Lee,WR,2014,2,39,"6'00""",196,Southern California
+2543699,Kyle,Van Noy,OLB,2014,2,40,"6'03""",243,Brigham Young
+2543492,Lamarcus,Joyner,FS,2014,2,41,"5'08""",190,Florida State
+2543500,Jordan,Matthews,WR,2014,2,42,"6'03""",212,Vanderbilt
+2543705,Weston,Richburg,C,2014,2,43,"6'03""",298,Colorado State
+2543491,Paul,Richardson,WR,2014,2,45,"6'00""",183,Colorado
+2543483,Stephon,Tuitt,DE,2014,2,46,"6'06""",303,Notre Dame
+2543461,Timothy,Jernigan,DT,2014,2,48,"6'02""",295,Florida State
+2543628,Troy,Niklas,TE,2014,2,52,"6'06""",270,Notre Dame
+2543495,Davante,Adams,WR,2014,2,53,"6'01""",215,Fresno State
+2543603,Jeremy,Hill,RB,2014,2,55,"6'01""",235,Louisiana State
+2543590,Cody,Latimer,WR,2014,2,56,"6'02""",215,Indiana
+2543743,Carlos,Hyde,RB,2014,2,57,"6'00""",235,Ohio State
+2543744,Jack,Mewhort,G,2014,2,59,"6'06""",305,Ohio State
+2543484,Kony,Ealy,DE,2014,2,60,"6'04""",275,Missouri
+2543509,Allen,Robinson,WR,2014,2,61,"6'03""",210,Penn State
+2543488,Jarvis,Landry,WR,2014,2,63,"5'11""",208,Louisiana State
+2550135,Justin,Britt,C,2014,2,64,"6'06""",325,Missouri
+2543721,Colton,Fiedorowicz,TE,2014,3,65,"6'05""",265,Iowa
+2543489,Morgan,Moses,T,2014,3,66,"6'06""",335,Virginia
+2543740,William,Turner,G,2014,3,67,"6'05""",310,North Dakota State
+2543775,Dezmen,Southward,CB,2014,3,68,"6'02""",208,Wisconsin
+2543770,Charles,Sims,RB,2014,3,69,"6'00""",211,West Virginia
+2543720,Christian,Kirksey,OLB,2014,3,71,"6'02""",235,Iowa
+2543814,Preston,Brown,MLB,2014,3,73,"6'01""",251,Louisville
+2543860,Jason,Bromley,DT,2014,3,74,"6'03""",306,Syracuse
+2543506,Travis,Swanson,C,2014,3,76,"6'05""",304,Arkansas
+2550140,Spencer,Long,C,2014,3,78,"6'05""",318,Nebraska
+2543712,Terrence,Brooks,SS,2014,3,79,"5'11""",200,Florida State
+2543608,Dexter,McDougle,CB,2014,3,80,"5'10""",195,Maryland
+2543733,Gabriel,Jackson,G,2014,3,81,"6'03""",336,Mississippi State
+2543738,Kareem,Martin,OLB,2014,3,84,"6'06""",272,North Carolina
+2543851,Phillip,Gaines,CB,2014,3,87,"6'00""",193,Rice
+2543881,William,Clarke,DE,2014,3,88,"6'06""",275,West Virginia
+2543614,Donte,Moncrief,WR,2014,3,90,"6'02""",216,Mississippi
+2543847,John,Brown,WR,2014,3,91,"5'11""",179,Pittsburg State
+2543606,Trai,Turner,G,2014,3,92,"6'03""",315,Louisiana State
+2543729,Brandon,Linder,C,2014,3,93,"6'06""",315,Miami
+2543664,Terrance,West,RB,2014,3,94,"5'10""",225,Towson
+2543732,Michael,Schofield,G,2014,3,95,"6'06""",301,Michigan
+2543715,Jerick,McKinnon,RB,2014,3,96,"5'09""",205,Georgia Southern
+2550313,Richard,Rodgers,TE,2014,3,98,"6'04""",257,California
+2543707,Jaylen,Watkins,SS,2014,4,101,"5'11""",194,Florida
+2543571,Bashaud,Breeland,CB,2014,4,102,"5'11""",195,Clemson
+2543583,Devonta,Freeman,RB,2014,4,103,"5'08""",206,Florida State
+2543646,Bruce,Ellington,WR,2014,4,106,"5'09""",200,South Carolina
+2543812,Justin,Ellis,NT,2014,4,107,"6'02""",334,Louisiana Tech
+2543868,Cassius,Marsh,DE,2014,4,108,"6'04""",245,UCLA
+2543799,Ross,Cockrell,CB,2014,4,109,"6'00""",191,Duke
+2550145,Maurice,Alexander,SS,2014,4,110,"6'01""",222,Utah State
+2543622,Russell,Bodine,C,2014,4,111,"6'03""",308,North Carolina
+2543504,DaQuan,Jones,DE,2014,4,112,"6'04""",322,Penn State
+2543565,Andre,Williams,RB,2014,4,113,"6'00""",220,Boston College
+2543501,Aaron,Colvin,CB,2014,4,114,"6'00""",193,Oklahoma
+2543762,Keith,McGill,FS,2014,4,116,"6'03""",211,Utah
+2543572,Martavis,Bryant,WR,2014,4,118,"6'04""",211,Clemson
+2543592,Anthony,Hitchens,MLB,2014,4,119,"6'00""",235,Iowa
+2543767,Logan,Thomas,TE,2014,4,120,"6'06""",250,Virginia Tech
+2543638,De'Anthony,Thomas,WR,2014,4,124,"5'08""",176,Oregon
+2543724,Walter,Aikens,CB,2014,4,125,"6'01""",212,Liberty
+2543811,Pierre,Desir,CB,2014,4,127,"6'02""",198,Lindenwood
+2543830,Jayestin,Boston,FS,2014,4,128,"6'01""",205,North Carolina
+2543739,Dontae,Johnson,CB,2014,4,129,"6'02""",200,North Carolina State
+2543773,James,White,RB,2014,4,130,"5'10""",205,Wisconsin
+2543563,Kevin,Pierre-Louis,ILB,2014,4,132,"6'00""",230,Boston College
+2543872,Nevin,Lawson,CB,2014,4,133,"5'09""",192,Utah State
+2543765,Brent,Urban,DE,2014,4,134,"6'07""",300,Virginia
+2543640,Thomas,Savage,QB,2014,4,135,"6'04""",230,Pittsburgh
+2543805,Dakota,Dozier,G,2014,4,137,"6'04""",313,Furman
+2543654,Cameron,Fleming,T,2014,4,140,"6'06""",320,Stanford
+2543759,Ryan,Grant,WR,2014,5,142,"6'00""",204,Tulane
+2543711,Telvin,Smith,OLB,2014,5,144,"6'03""",215,Florida State
+2543850,Ricardo,Allen,SS,2014,5,147,"5'09""",186,Purdue
+2543855,Bene',Benwikere,CB,2014,5,148,"6'00""",195,San Jose State
+2549971,Kevin,Pamphile,G,2014,5,149,"6'05""",315,Purdue
+2543650,Aaron,Lynch,DE,2014,5,150,"6'06""",270,South Florida
+2543597,Avery,Williamson,ILB,2014,5,151,"6'01""",246,Kentucky
+2543643,Natneal,Berhe,SS,2014,5,152,"6'00""",194,San Diego State
+2543594,Jeremiah,George,ILB,2014,5,154,"5'11""",234,Iowa State
+2543748,Caraun,Reid,DT,2014,5,158,"6'02""",298,Princeton
+2543692,Chris,Smith,DE,2014,5,159,"6'01""",266,Arkansas
+2543688,Edward,Stinson,DT,2014,5,160,"6'03""",287,Alabama
+2543631,Corey,Linsley,C,2014,5,161,"6'03""",301,Ohio State
+2543497,Raymond,McCarron,QB,2014,5,164,"6'03""",220,Alabama
+2543582,Keith,Reaser,CB,2014,5,170,"6'00""",190,Florida Atlantic
+2550147,Jordan,Tripp,MLB,2014,5,171,"6'03""",234,Montana
+2543763,Wesley,Johnson,C,2014,5,173,"6'05""",297,Vanderbilt
+2543869,Devon,Kennard,OLB,2014,5,174,"6'03""",251,Southern California
+2543774,Jared,Abbrederis,WR,2014,5,176,"6'01""",195,Wisconsin
+2549981,Kenneth,Acker,CB,2014,6,180,"6'00""",195,Southern Methodist
+2543600,Alfred,Blue,RB,2014,6,181,"6'02""",225,Louisiana State
+2543823,Edwin,Gaines,CB,2014,6,188,"5'10""",185,Missouri
+2543836,Tailer,Jones,WR,2014,6,189,"6'00""",190,Notre Dame
+2543792,Charles,Hazel,WR,2014,6,190,"6'01""",195,Coastal Carolina
+2543611,Patrick,O'Donnell,P,2014,6,191,"6'04""",217,Miami
+2543862,Zachery,Fulton,G,2014,6,193,"6'05""",316,Tennessee
+2543816,Laurent,Duvernay-Tardif,G,2014,6,200,"6'05""",321,McGill
+2550561,Matt,Feiler,G,2014,NULL,NULL,"6'06""",330,Bloomsburg
+2550605,Marcus,Williams,CB,2014,NULL,NULL,"5'11""",196,North Dakota State
+2550606,Bryan,Witzmann,G,2014,NULL,NULL,"6'07""",320,South Dakota State
+2550590,Tyler,Ott,LS,2014,NULL,NULL,"6'03""",253,Harvard
+2550597,Seth,Roberts,WR,2014,NULL,NULL,"6'02""",195,West Alabama
+2550636,Cairo,Santos,K,2014,NULL,NULL,"5'08""",160,Tulane
+2550628,Christian,McCain,DE,2014,NULL,NULL,"6'05""",236,California
+2550633,Senorise,Perry,RB,2014,NULL,NULL,"6'00""",210,Louisville
+2550613,Malcolm,Butler,CB,2014,NULL,NULL,"5'11""",190,West Alabama
+2550617,Taylor,Gabriel,WR,2014,NULL,NULL,"5'08""",167,Abilene Christian
+2550654,K'Waun,Williams,CB,2014,NULL,NULL,"5'09""",183,Pittsburgh
+2550646,Denico,Autry,DT,2014,NULL,NULL,"6'05""",273,Mississippi State
+2550647,Kasim,Edebali,OLB,2014,NULL,NULL,"6'02""",253,Boston College
+2550656,Cameron,Brate,TE,2014,NULL,NULL,"6'05""",235,Harvard
+2550659,Andrew,Patmon,CB,2014,NULL,NULL,"5'10""",188,Oklahoma State
+2550658,Branden,Oliver,RB,2014,NULL,NULL,"5'08""",208,Buffalo
+2550767,Charaun,Goodwin,CB,2014,NULL,NULL,"6'03""",190,"California, Pa."
+2550770,Michael,Palardy,P,2014,NULL,NULL,"5'11""",200,Tennessee
+2550842,Adrian,Phillips,SS,2014,NULL,NULL,"5'11""",210,Texas
+2550848,Kasey,Redfern,P,2014,NULL,NULL,"6'01""",205,Wofford
+2550930,Todd,Davis,ILB,2014,NULL,NULL,"6'01""",230,Sacramento State
+2552622,Chris,Manhertz,TE,2015,NULL,NULL,"6'06""",255,Canisius
+2553348,Jordan,Berry,P,2015,NULL,NULL,"6'05""",195,Eastern Kentucky
+2552033,Jameis,Winston,QB,2015,1,1,"6'04""",231,Florida State
+2552466,Marcus,Mariota,QB,2015,1,2,"6'04""",222,Oregon
+2553431,Dante,Fowler,DE,2015,1,3,"6'03""",255,Florida
+2553234,Dexter,McDonald,CB,2015,7,242,"6'01""",200,Kansas
+2552350,Trenton,Brown,T,2015,7,244,"6'08""",355,Florida
+2552428,Douglas,McBride,WR,2015,7,245,"6'00""",210,William & Mary
+2553454,Geoffrey,Swaim,TE,2015,7,246,"6'04""",260,Texas
+2553353,Darryl,Roberts,CB,2015,7,247,"6'00""",182,Marshall
+2553457,Trevor,Siemian,QB,2015,7,250,"6'03""",220,Northwestern
+2553460,Denzelle,Good,T,2015,7,255,"6'05""",345,Mars Hill
+2553467,Jaquan,Bray,WR,2015,NULL,NULL,"5'10""",183,Auburn
+2553505,La'el,Collins,T,2015,NULL,NULL,"6'04""",315,Louisiana State
+2553531,Justin,Hamilton,DT,2015,NULL,NULL,"6'02""",315,Louisiana-Lafayette
+2553631,Zachary,Zenner,RB,2015,NULL,NULL,"5'11""",221,South Dakota State
+2553762,Terron,Ward,RB,2015,NULL,NULL,"5'07""",201,Oregon State
+2553728,Dominique,Mostert,RB,2015,NULL,NULL,"5'10""",197,Purdue
+2553744,Eric,Tomlinson,TE,2015,NULL,NULL,"6'06""",263,Texas-El Paso
+2553489,Zaire,Anderson,ILB,2015,NULL,NULL,"5'11""",220,Nebraska
+2553606,Jordan,Taylor,WR,2015,NULL,NULL,"6'05""",210,Rice
+2553764,Xavier,Williams,DT,2015,NULL,NULL,"6'02""",309,Northern Iowa
+2552317,Michael,Hull,MLB,2015,NULL,NULL,"6'00""",232,Penn State
+2553650,William,Grant,RB,2015,NULL,NULL,"5'11""",203,Auburn
+2553679,Christopher,Reed,G,2015,NULL,NULL,"6'05""",310,Minn. State-Mankato
+2553660,Akeem,Hunt,RB,2015,NULL,NULL,"5'10""",185,Purdue
+2553667,Matthew,LaCosse,TE,2015,NULL,NULL,"6'05""",261,Illinois
+2553520,Nicholas,Easton,G,2015,NULL,NULL,"6'03""",303,Harvard
+2553711,Benjamin,Finney,C,2015,NULL,NULL,"6'04""",318,Kansas State
+2553737,Eli,Rogers,WR,2015,NULL,NULL,"5'10""",187,Louisville
+2553536,Troy,Hill,CB,2015,NULL,NULL,"5'11""",184,Oregon
+2553895,Adam,Humphries,WR,2015,NULL,NULL,"5'11""",195,Clemson
+2553822,Curtis,Riley,FS,2015,NULL,NULL,"6'00""",190,Fresno State
+2553824,Quinton,Spain,G,2015,NULL,NULL,"6'04""",330,West Virginia
+2553867,Mack,Brown,RB,2015,NULL,NULL,"5'11""",213,Florida
+2553817,Corey,Moore,SS,2015,NULL,NULL,"6'02""",200,Georgia
+2553877,Nick,Dzubnar,ILB,2015,NULL,NULL,"6'01""",240,Cal Poly
+2553885,Curtis,Grant,OLB,2015,NULL,NULL,"6'02""",240,Ohio State
+2553898,Tyrell,Adams,LB,2015,NULL,NULL,"6'02""",228,West Georgia
+2553900,Daniel,Brown,TE,2015,NULL,NULL,"6'05""",247,James Madison
+2553913,Tyrell,Williams,WR,2015,NULL,NULL,"6'04""",205,Western Oregon
+2553911,Torrone,McGill,NT,2015,NULL,NULL,"6'00""",299,North Carolina State
+2553932,Daniel,Munyer,C,2015,NULL,NULL,"6'01""",305,Colorado
+2554138,Kasen,Williams,WR,2015,NULL,NULL,"6'01""",219,Washington
+2554630,Ross,Travis,TE,2015,NULL,NULL,"6'07""",235,Penn State
+2555334,Jared,Goff,QB,2016,1,1,"6'04""",223,California
+2555259,Carson,Wentz,QB,2016,1,2,"6'05""",237,North Dakota State
+2555249,Joseph,Bosa,DE,2016,1,3,"6'05""",280,Ohio State
+2555224,Ezekiel,Elliott,RB,2016,1,4,"6'00""",225,Ohio State
+2555280,Jalen,Ramsey,CB,2016,1,5,"6'02""",208,Florida State
+2555204,Ronnie,Stanley,T,2016,1,6,"6'06""",320,Notre Dame
+2555275,DeForest,Buckner,DT,2016,1,7,"6'07""",300,Oregon
+2555279,Jack,Conklin,T,2016,1,8,"6'06""",308,Michigan State
+2555285,Leonard,Floyd,OLB,2016,1,9,"6'06""",251,Georgia
+2555277,Eli,Apple,CB,2016,1,10,"6'01""",199,Ohio State
+2555299,Vernon,Hargreaves,CB,2016,1,11,"5'11""",199,Florida
+2555242,Sheldon,Rankins,DT,2016,1,12,"6'02""",305,Louisville
+2555201,Laremy,Tunsil,T,2016,1,13,"6'05""",318,Mississippi
+2555342,Karl,Joseph,SS,2016,1,14,"5'10""",205,West Virginia
+2555333,Corey,Coleman,WR,2016,1,15,"5'11""",185,Baylor
+2555543,Keanu,Neal,FS,2016,1,17,"6'00""",211,Florida
+2555191,Ryan,Kelly,C,2016,1,18,"6'04""",309,Alabama
+2555252,Shaq,Lawson,DE,2016,1,19,"6'03""",267,Clemson
+2555322,Darron,Lee,ILB,2016,1,20,"6'01""",232,Ohio State
+2555346,William,Fuller,WR,2016,1,21,"6'00""",180,Notre Dame
+2555343,Joshua,Doctson,WR,2016,1,22,"6'02""",206,Texas Christian
+2555214,Laquon,Treadwell,WR,2016,1,23,"6'02""",215,Mississippi
+2556367,William,Jackson,CB,2016,1,24,"6'00""",187,Houston
+2555344,Artie,Burns,CB,2016,1,25,"6'00""",197,Miami
+2555282,Kenneth,Clark,NT,2016,1,27,"6'03""",314,UCLA
+2555336,Robert,Nkemdiche,DT,2016,1,29,"6'04""",296,Mississippi
+2555243,Vernon,Butler,DT,2016,1,30,"6'04""",330,Louisiana Tech
+2555395,Germain,Ifedi,T,2016,1,31,"6'05""",325,Texas A&M
+2555278,Emmanuel,Ogbah,DE,2016,2,32,"6'04""",275,Oklahoma State
+2555338,Kevin,Dodd,OLB,2016,2,33,"6'05""",277,Clemson
+2555310,Jaylon,Smith,MLB,2016,2,34,"6'02""",240,Notre Dame
+2555341,Hunter,Henry,TE,2016,2,35,"6'05""",250,Arkansas
+2555329,Myles,Jack,OLB,2016,2,36,"6'01""",244,UCLA
+2556369,Christopher,Jones,DE,2016,2,37,"6'06""",308,Mississippi State
+2555539,Xavien,Howard,CB,2016,2,38,"6'02""",200,Baylor
+2555312,Noah,Spence,DE,2016,2,39,"6'02""",251,Eastern Kentucky
+2555295,Sterling,Shepard,WR,2016,2,40,"5'10""",194,Oklahoma
+2555169,Reginald,Ragland,ILB,2016,2,41,"6'02""",252,Alabama
+2555339,Kamalei,Correa,ILB,2016,2,42,"6'03""",250,Boise State
+2556368,Austin,Johnson,NT,2016,2,43,"6'04""",314,Penn State
+2555248,Jihad,Ward,DE,2016,2,44,"6'05""",296,Illinois
+2556075,Derrick,Henry,RB,2016,2,45,"6'03""",247,Alabama
+2555265,A'Shawn,Robinson,DT,2016,2,46,"6'04""",322,Alabama
+2556370,Michael,Thomas,WR,2016,2,47,"6'03""",212,Ohio State
+2555197,Jason,Spriggs,T,2016,2,48,"6'06""",301,Indiana
+2555238,Jarran,Reed,DT,2016,2,49,"6'03""",306,Alabama
+2555189,Nicolas,Martin,C,2016,2,50,"6'04""",300,Notre Dame
+2555162,Deion,Jones,MLB,2016,2,52,"6'01""",222,Louisiana State
+2555177,Mackensie,Alexander,CB,2016,2,54,"5'10""",192,Clemson
+2555466,Tyler,Boyd,WR,2016,2,55,"6'02""",197,Pittsburgh
+2555132,Cody,Whitehair,C,2016,2,56,"6'04""",305,Kansas State
+2555537,T.J.,Green,SS,2016,2,57,"6'03""",211,Clemson
+2555386,Sean,Davis,SS,2016,2,58,"6'01""",202,Maryland
+2555530,Vonn,Bell,FS,2016,2,61,"5'11""",205,Ohio State
+2555175,James,Bradberry,CB,2016,2,62,"6'01""",212,Samford
+2555502,Adam,Gotsis,DE,2016,2,63,"6'04""",287,Georgia Tech
+2555158,Kevin,Byard,FS,2016,3,64,"5'11""",212,Middle Tennessee
+2555270,Carl,Nassib,DE,2016,3,65,"6'07""",275,Penn State
+2555400,Maliek,Collins,DT,2016,3,67,"6'02""",305,Nebraska
+2555421,Yannick,Ngakoue,DE,2016,3,69,"6'02""",246,Maryland
+2555244,Bronson,Kaufusi,DE,2016,3,70,"6'06""",285,Brigham Young
+2555154,Darian,Thompson,FS,2016,3,71,"6'01""",213,Boise State
+2555335,Jonathan,Bullard,DE,2016,3,72,"6'02""",296,Florida
+2555230,Kenyan,Drake,RB,2016,3,73,"6'01""",211,Alabama
+2555547,KeiVarae,Russell,CB,2016,3,74,"5'11""",196,Notre Dame
+2555294,Shilique,Calhoun,OLB,2016,3,75,"6'04""",251,Michigan State
+2555337,Shon,Coleman,T,2016,3,76,"6'07""",310,Auburn
+2555394,Daryl,Worley,CB,2016,3,77,"6'01""",205,West Virginia
+2555281,Joseph,Thuney,G,2016,3,78,"6'05""",305,North Carolina State
+2555495,Isaac,Seumalo,G,2016,3,79,"6'04""",303,Oregon State
+2555235,Adolphus,Washington,DT,2016,3,80,"6'04""",295,Ohio State
+2555415,Austin,Hooper,TE,2016,3,81,"6'04""",248,Stanford
+2555202,Le'Raven,Clark,G,2016,3,82,"6'05""",311,Texas Tech
+2555256,Jordan,Jenkins,OLB,2016,3,83,"6'03""",259,Georgia
+2555349,Kendall,Fuller,CB,2016,3,84,"5'11""",198,Virginia Tech
+2555348,Braxton,Miller,WR,2016,3,85,"6'01""",205,Ohio State
+2555215,Leonte,Carroo,WR,2016,3,86,"6'01""",215,Rutgers
+2555528,Nicholas,Vigil,OLB,2016,3,87,"6'02""",239,Utah State
+2555340,Kyler,Fackrell,OLB,2016,3,88,"6'05""",245,Utah State
+2555239,Javon,Hargrave,NT,2016,3,89,"6'02""",305,South Carolina State
+2555417,C.J.,Prosise,RB,2016,3,90,"6'01""",225,Notre Dame
+2555261,Jacoby,Brissett,QB,2016,3,91,"6'04""",235,North Carolina State
+2556371,Brandon,Williams,CB,2016,3,92,"6'00""",200,Texas A&M
+2555289,Nicholas,Vannett,TE,2016,3,94,"6'06""",261,Ohio State
+2555182,Graham,Glasgow,G,2016,3,95,"6'06""",310,Michigan
+2555142,Rees,Odhiambo,T,2016,3,97,"6'04""",315,Boise State
+2555550,Justin,Simmons,SS,2016,3,98,"6'02""",202,Boston College
+2555166,Joseph,Schobert,MLB,2016,4,99,"6'01""",245,Wisconsin
+2555245,Charles,Tapper,DE,2016,4,101,"6'02""",270,Oklahoma
+2555241,Sheldon,Day,DT,2016,4,103,"6'01""",294,Notre Dame
+2555173,Eric,Murray,FS,2016,4,106,"5'11""",199,Minnesota
+2555209,Christopher,Moore,WR,2016,4,107,"6'01""",200,Cincinnati
+2555552,Ryan,Smith,CB,2016,4,108,"6'00""",190,North Carolina Central
+2555522,B.J.,Goodson,MLB,2016,4,109,"6'00""",242,Clemson
+2555364,Tyler,Higbee,TE,2016,4,110,"6'06""",257,Western Kentucky
+2555315,Miles,Killebrew,SS,2016,4,111,"6'02""",222,Southern Utah
+2555288,Nicholas,Kwiatkoski,ILB,2016,4,113,"6'02""",242,West Virginia
+2555473,Ricardo,Louis,WR,2016,4,114,"6'02""",215,Auburn
+2555255,De'Vondre,Campbell,OLB,2016,4,115,"6'04""",232,Minnesota
+2555514,Hassan,Ridgeway,DT,2016,4,116,"6'03""",318,Texas
+2555419,Pharoh,Cooper,WR,2016,4,117,"5'11""",207,South Carolina
+2555313,Juston,Burris,CB,2016,4,118,"6'00""",202,North Carolina State
+2555234,Tyler,Ervin,RB,2016,4,119,"5'10""",185,San Jose State
+2556274,David,Onyemata,DT,2016,4,120,"6'04""",300,"Manitoba, Can."
+2555267,Andrew,Billings,NT,2016,4,122,"6'01""",325,Baylor
+2555155,Deon,Bush,SS,2016,4,124,"6'00""",205,Miami
+2555160,Antonio,Morrison,ILB,2016,4,125,"6'01""",241,Florida
+2555478,Demarcus,Robinson,WR,2016,4,126,"6'01""",203,Florida
+2555181,Evan,Boehm,G,2016,4,128,"6'03""",310,Missouri
+2555540,Derrick,Kindred,SS,2016,4,129,"5'10""",210,Texas Christian
+2555161,Blake,Martinez,ILB,2016,4,131,"6'02""",237,Stanford
+2555414,Willie,Henry,DT,2016,4,132,"6'03""",300,Michigan
+2555546,Rashard,Robinson,CB,2016,4,133,"6'01""",177,Louisiana State
+2555260,Rayne,Prescott,QB,2016,4,135,"6'02""",238,Mississippi State
+2555223,Devontae,Booker,RB,2016,4,136,"5'11""",219,Utah
+2555274,Dean,Lowry,DE,2016,4,137,"6'06""",296,Northwestern
+2556365,Seth,DeValve,TE,2016,4,138,"6'03""",245,Princeton
+2555464,DeAndre,Washington,RB,2016,5,143,"5'08""",204,Texas Tech
+2555133,Connor,McGovern,C,2016,5,144,"6'04""",306,Missouri
+2555505,Matt,Judon,OLB,2016,5,146,"6'03""",275,Grand Valley State
+2555488,Caleb,Benenoch,T,2016,5,148,"6'05""",305,UCLA
+2555460,Paul,Perkins,RB,2016,5,149,"5'10""",208,UCLA
+2555418,Jordan,Howard,RB,2016,5,150,"6'01""",224,Indiana
+2555136,Joseph,Dahl,G,2016,5,151,"6'04""",305,Washington State
+2555240,Matthew,Ioannidis,DE,2016,5,152,"6'03""",305,Temple
+2555461,Wendell,Smallwood,RB,2016,5,153,"5'10""",208,West Virginia
+2555371,Joseph,Haeg,T,2016,5,155,"6'06""",305,North Dakota State
+2555551,LeShaun,Sims,CB,2016,5,157,"6'00""",203,Southern Utah
+2555193,Brandon,Shell,T,2016,5,158,"6'05""",324,South Carolina
+2555168,Kentrell,Brothers,MLB,2016,5,160,"6'01""",242,Missouri
+2555263,Kevin,Hogan,QB,2016,5,162,"6'03""",218,Stanford
+2555413,Trevor,Davis,WR,2016,5,163,"6'01""",188,California
+2555196,Halapoulivaati,Vaitai,T,2016,5,164,"6'06""",320,Texas Christian
+2556214,Tyreek,Hill,WR,2016,5,165,"5'10""",185,West Alabama
+2555388,David,Reader,NT,2016,5,166,"6'03""",335,Clemson
+2556277,Marqui,Christian,SS,2016,5,167,"5'11""",200,Midwestern State
+2555144,Spencer,Drango,G,2016,5,168,"6'06""",320,Baylor
+2555430,Alex,Collins,RB,2016,5,171,"5'10""",210,Arkansas
+2555468,Rashard,Higgins,WR,2016,5,172,"6'01""",198,Colorado State
+2556148,Jatavis,Brown,OLB,2016,5,175,"5'11""",221,Akron
+2555432,Andy,Janovich,FB,2016,6,176,"6'01""",238,Nebraska
+2555151,Andrew,Kaser,P,2016,6,179,"6'02""",206,Texas A&M
+2556126,Tyrone,Holmes,OLB,2016,6,181,"6'02""",253,Montana
+2555307,Devante,Bond,OLB,2016,6,183,"6'01""",236,Oklahoma
+2555311,Jerell,Adams,TE,2016,6,184,"6'05""",247,South Carolina
+2555381,DeAndre,Houston-Carson,FS,2016,6,185,"6'01""",205,William & Mary
+2556190,Jakeem,Grant,WR,2016,6,186,"5'07""",169,Texas Tech
+2555306,David,Morgan,TE,2016,6,188,"6'04""",265,Texas-San Antonio
+2555531,Anthony,Brown,CB,2016,6,189,"5'11""",196,Purdue
+2556232,Jake,Rudock,QB,2016,6,191,"6'03""",212,Michigan
+2555303,Cory,James,OLB,2016,6,194,"6'00""",229,Colorado State
+2556373,Weston,Schweitzer,G,2016,6,195,"6'05""",314,San Jose State
+2556374,Blake,Countess,SS,2016,6,196,"5'10""",185,Auburn
+2555218,Dan,Vitale,FB,2016,6,197,"6'01""",239,Northwestern
+2555220,Derek,Watt,FB,2016,6,198,"6'02""",234,Wisconsin
+2555331,Cody,Core,WR,2016,6,199,"6'03""",210,Mississippi
+2555200,Kyle,Murphy,T,2016,6,200,"6'06""",305,Stanford
+2555268,Anthony,Zettel,DE,2016,6,202,"6'04""",270,Penn State
+2555542,Jordan,Lucas,CB,2016,6,204,"6'00""",202,Penn State
+2556381,Michael,Thomas,WR,2016,6,206,"6'01""",195,Southern Mississippi
+2556363,Caelan Kamuela,Grugier-Hill,OLB,2016,6,208,"6'02""",220,Eastern Illinois
+2555536,Kavon,Frazier,SS,2016,6,212,"6'00""",215,Central Michigan
+2556119,Elandon,Roberts,MLB,2016,6,214,"6'00""",235,Houston
+2555549,Kevon,Seymour,CB,2016,6,218,"6'00""",185,Southern California
+2556278,William,Parks,FS,2016,6,219,"6'01""",194,Arizona
+2555145,Ted,Karras,C,2016,6,221,"6'04""",305,Illinois
+2555320,Aaron,Wallace,OLB,2016,7,222,"6'02""",242,UCLA
+2555529,Stephen,Weatherly,DE,2016,7,227,"6'05""",265,Vanderbilt
+2555152,Riley,Dixon,P,2016,7,228,"6'04""",221,Syracuse
+2555383,Jalen,Mills,CB,2016,7,233,"6'00""",191,Louisiana State
+2555146,Vadal,Alexander,T,2016,7,234,"6'06""",326,Louisiana State
+2555558,Lachlan,Edwards,P,2016,7,235,"6'04""",209,Sam Houston State
+2556118,Dwayne,Washington,RB,2016,7,236,"6'02""",223,Washington
+2555477,Charone,Peake,WR,2016,7,241,"6'02""",209,Clemson
+2555156,Jayron,Kearse,SS,2016,7,244,"6'04""",215,Clemson
+2555355,Clayton,Fejedelem,FS,2016,7,245,"6'00""",205,Illinois
+2555171,Tyler,Matakevich,ILB,2016,7,246,"6'01""",235,Temple
+2555180,Austin,Blythe,C,2016,7,248,"6'03""",300,Iowa
+2556382,Philip,Wright,ILB,2016,7,250,"6'00""",247,Arizona
+2556192,Joseph,Walker,MLB,2016,7,251,"6'02""",236,Oregon
+2556380,Kalan,Reed,CB,2016,7,253,"5'11""",192,Southern Mississippi
+2556391,Stefan,McClure,SS,2016,NULL,NULL,"5'11""",205,California
+2556394,Christopher,Milton,CB,2016,NULL,NULL,"5'11""",196,Georgia Tech
+2556395,Adam,Redmond,C,2016,NULL,NULL,"6'06""",300,Harvard
+2556396,Chester,Rogers,WR,2016,NULL,NULL,"6'01""",184,Grambling
+2556414,Robert,Kelley,RB,2016,NULL,NULL,"6'00""",233,Tulane
+2556646,Kyle,Peko,DT,2016,NULL,NULL,"6'01""",305,Oregon State
+2556661,Kalif,Raymond,WR,2016,NULL,NULL,"5'09""",160,Holy Cross
+2556595,Steve,Longa,OLB,2016,NULL,NULL,"6'00""",240,Rutgers
+2556603,Curtis,Madden,FB,2016,NULL,NULL,"6'00""",235,Southern California
+2556612,Tanner,McEvoy,WR,2016,NULL,NULL,"6'06""",230,Wisconsin
+2556714,Eddie,Yarbrough,DE,2016,NULL,NULL,"6'03""",259,Wyoming
+2556421,Kameron,Canaday,LS,2016,NULL,NULL,"6'04""",245,Portland State
+2556429,Matthias,Farley,FS,2016,NULL,NULL,"5'11""",209,Notre Dame
+2556526,Chandler,Ferguson,LS,2016,NULL,NULL,"6'02""",244,Louisiana State
+2556475,Briean,Boddy-Calhoun,CB,2016,NULL,NULL,"5'09""",193,Minnesota
+2556557,Rashod,Hill,T,2016,NULL,NULL,"6'06""",309,Southern Mississippi
+2556559,Michael,Hilton,CB,2016,NULL,NULL,"5'09""",184,Mississippi
+2556580,Henry,Krieger-Coble,TE,2016,NULL,NULL,"6'04""",248,Iowa
+2556711,Jarrod,Wilson,SS,2016,NULL,NULL,"6'02""",210,Michigan
+2556519,Alex,Erickson,WR,2016,NULL,NULL,"6'00""",195,Wisconsin
+2556662,Alex,Redmond,G,2016,NULL,NULL,"6'05""",310,UCLA
+2556703,Charles,Washington,FS,2016,NULL,NULL,"5'10""",192,Fresno State
+2556504,Trevon,Coley,DT,2016,NULL,NULL,"6'01""",310,Florida Atlantic
+2556601,William,Lutz,K,2016,NULL,NULL,"5'11""",184,Georgia State
+2556642,Patrick,Onwuasor,ILB,2016,NULL,NULL,"6'00""",217,Portland State
+2556650,Michael,Pierce,NT,2016,NULL,NULL,"6'00""",340,Samford
+2556683,Matthew,Skura,C,2016,NULL,NULL,"6'03""",313,Duke
+2556571,Jonathan,Jones,CB,2016,NULL,NULL,"5'10""",190,Auburn
+2556587,Cre'von,LeBlanc,CB,2016,NULL,NULL,"5'11""",190,Florida Atlantic
+2556443,Sharrod,Neasman,SS,2016,NULL,NULL,"6'00""",198,Florida Atlantic
+2556445,Brian,Poole,CB,2016,NULL,NULL,"5'10""",211,Florida
+2556440,J.D.,McKissic,WR,2016,NULL,NULL,"5'10""",195,Arkansas State
+2556652,Lafayette,Pitts,CB,2016,NULL,NULL,"5'11""",194,Pittsburgh
+2556460,Geronimo,Allison,WR,2016,NULL,NULL,"6'03""",202,Illinois
+2556489,James,Burgess,OLB,2016,NULL,NULL,"6'00""",230,Louisville
+2556480,Kentrell,Brice,FS,2016,NULL,NULL,"5'11""",200,Louisiana Tech
+2556550,Joshua,Hawkins,CB,2016,NULL,NULL,"5'10""",189,East Carolina
+2556456,Andrew,Adams,FS,2016,NULL,NULL,"5'11""",202,Connecticut
+2556512,Donte,Deayon,CB,2016,NULL,NULL,"5'09""",158,Boise State
+2556562,Michael,Hunter,CB,2016,NULL,NULL,"6'00""",186,Oklahoma State
+2556657,Brian,Price,DT,2016,NULL,NULL,"6'03""",305,Texas-San Antonio
+2556641,Romeo,Okwara,DE,2016,NULL,NULL,"6'05""",275,Notre Dame
+2556592,Roger,Lewis,WR,2016,NULL,NULL,"6'00""",196,Bowling Green
+2556665,Roy,Robertson-Harris,DE,2016,NULL,NULL,"6'07""",294,Texas-El Paso
+2556529,Morgan,Fox,DE,2016,NULL,NULL,"6'03""",275,Colorado State-Pueblo
+2556573,Michael,Jordan,CB,2016,NULL,NULL,"6'01""",200,Missouri Western
+2556593,Cory,Littleton,ILB,2016,NULL,NULL,"6'03""",225,Washington
+2556462,Robby,Anderson,WR,2016,NULL,NULL,"6'03""",190,Temple
+2556647,Claudeson,Pelon,DE,2016,NULL,NULL,"6'04""",300,Southern California
+2556479,Jacob,Brendel,C,2016,NULL,NULL,"6'04""",299,UCLA
+2556517,Lloyd,Eagan,WR,2016,NULL,NULL,"5'10""",193,"Northwestern State, La."
+2556569,Andrian,Jones,WR,2016,NULL,NULL,"6'01""",220,Jacksonville
+2556575,Deon,King,LB,2016,NULL,NULL,"6'02""",220,Norfolk State
+2556697,Bryce,Treggs,WR,2016,NULL,NULL,"6'00""",185,California
+2556463,Stephen,Anderson,TE,2016,NULL,NULL,"6'02""",230,California
+2556521,John,Fairbairn,K,2016,NULL,NULL,"6'00""",190,UCLA
+2556551,Joel,Heath,DE,2016,NULL,NULL,"6'06""",300,Michigan State
+2556574,Ufomba,Kamalu,OLB,2016,NULL,NULL,"6'06""",295,Miami
+2556673,Brennan,Scarlett,OLB,2016,NULL,NULL,"6'04""",260,Stanford
+2556695,Lawrence,Thomas,FB,2016,NULL,NULL,"6'03""",286,Michigan State
+2556466,Kenneth,Barber,RB,2016,NULL,NULL,"5'11""",225,Auburn
+2556508,William,Cross,FB,2016,NULL,NULL,"6'01""",235,Memphis
+2556567,Isaiah,Johnson,FS,2016,NULL,NULL,"6'00""",209,South Carolina
+2556664,Luke,Rhodes,LS,2016,NULL,NULL,"6'02""",238,William & Mary
+2556762,Elijhaa,Penny,RB,2016,NULL,NULL,"6'02""",234,Idaho
+2556775,Terrance,Smith,ILB,2016,NULL,NULL,"6'02""",235,Florida State
+2556764,Kevin,Peterson,CB,2016,NULL,NULL,"5'11""",180,Oklahoma State
+2556783,Taniela,Tupou,NT,2016,NULL,NULL,"6'02""",288,Washington
+2556786,Destiny,Vaeao,DT,2016,NULL,NULL,"6'04""",299,Washington State
+2556771,Aldrick,Rosas,K,2016,NULL,NULL,"6'02""",195,Southern Oregon
+2556735,Kenneth,Crawley,CB,2016,NULL,NULL,"6'01""",180,Colorado
+2556752,Tommylee,Lewis,WR,2016,NULL,NULL,"5'07""",168,Northern Illinois
+2556753,Mitchell,Loewen,DT,2016,NULL,NULL,"6'05""",275,Arkansas
+2556821,Spencer,Pulley,C,2016,NULL,NULL,"6'04""",308,Vanderbilt
+2556828,Trevor,Williams,CB,2016,NULL,NULL,"5'11""",191,Penn State
+2556803,Cortez,Ham,FB,2016,NULL,NULL,"5'11""",235,"Augustana, S.D."
+2556800,Marwin,Evans,SS,2016,NULL,NULL,"5'11""",211,Utah State
+2556797,James,Cowser,OLB,2016,NULL,NULL,"6'03""",244,Southern Utah
+2556804,Antonio,Hamilton,CB,2016,NULL,NULL,"6'00""",185,South Carolina State
+2556817,Tony,McRae,CB,2016,NULL,NULL,"5'10""",185,North Carolina A&T
+2556805,Johnny,Holton,WR,2016,NULL,NULL,"6'00""",190,Cincinnati
+2556814,Max,McCaffrey,WR,2016,NULL,NULL,"6'02""",200,Duke
+2556811,Darius,Latham,NT,2016,NULL,NULL,"6'05""",305,Indiana
+2556833,De'Vante,Harris,CB,2016,NULL,NULL,"5'11""",190,Texas A&M
+2556855,Marcus,Johnson,WR,2016,NULL,NULL,"6'01""",204,Texas
+2556843,Dominique,Alexander,OLB,2016,NULL,NULL,"6'00""",235,Oklahoma
+2556846,Jeremy,Cash,OLB,2016,NULL,NULL,"6'00""",230,Duke
+2556862,Jared,Norris,OLB,2016,NULL,NULL,"6'01""",238,Utah
+2556849,Demontrae,Elston,SS,2016,NULL,NULL,"6'00""",190,Mississippi
+2556880,Branden,Jackson,DE,2016,NULL,NULL,"6'04""",272,Texas Tech
+2556885,Jalen,Richard,RB,2016,NULL,NULL,"5'08""",207,Southern Mississippi
+2556931,Zach,Wood,LS,2016,NULL,NULL,"6'03""",282,Southern Methodist
+2556934,Javien,Elliott,CB,2016,NULL,NULL,"5'11""",176,Florida State
+2557031,Lucas,Patrick,G,2016,NULL,NULL,"6'03""",313,Duke
+2557034,Marvin,Hall,WR,2016,NULL,NULL,"5'10""",190,Washington
+2557434,Darnell,Sankey,ILB,2016,NULL,NULL,"6'02""",250,Sacramento State
+2558302,Taybor,Pepper,LS,2016,NULL,NULL,"6'04""",230,Michigan State
+2557965,Myles,Garrett,DE,2017,1,1,"6'04""",272,Texas A&M
+2558008,Mitchell,Trubisky,QB,2017,1,2,"6'03""",222,North Carolina
+2558018,Solomon,Thomas,DE,2017,1,3,"6'03""",273,Stanford
+2557973,Leonard,Fournette,RB,2017,1,4,"6'00""",228,Louisiana State
+2557848,Corey,Davis,WR,2017,1,5,"6'03""",209,Western Michigan
+2557979,Jamal,Adams,SS,2017,1,6,"6'01""",213,Louisiana State
+2558846,Michael,Williams,WR,2017,1,7,"6'04""",218,Clemson
+2557997,Christian,McCaffrey,RB,2017,1,8,"5'11""",205,Stanford
+2558010,John,Ross,WR,2017,1,9,"5'11""",188,Washington
+2558061,Marshon,Lattimore,CB,2017,1,11,"6'00""",192,Ohio State
+2558063,Derrick,Watson,QB,2017,1,12,"6'02""",221,Clemson
+2557887,Haason,Reddick,ILB,2017,1,13,"6'01""",235,Temple
+2557984,Derek,Barnett,DE,2017,1,14,"6'03""",259,Tennessee
+2558060,Malik,Hooker,FS,2017,1,15,"6'02""",212,Ohio State
+2558067,Marlon,Humphrey,CB,2017,1,16,"6'00""",197,Alabama
+2557844,Jonathan,Allen,DE,2017,1,17,"6'03""",288,Alabama
+2558065,Adoree',Jackson,CB,2017,1,18,"5'11""",185,Southern California
+2557856,O'Terrius,Howard,TE,2017,1,19,"6'06""",250,Alabama
+2558014,Garett,Bolles,T,2017,1,20,"6'05""",300,Utah
+2557855,Jarrad,Davis,MLB,2017,1,21,"6'01""",238,Florida
+2558001,Charles,Harris,DE,2017,1,22,"6'03""",250,Missouri
+2557858,Evan,Engram,TE,2017,1,23,"6'03""",236,Mississippi
+2558062,Gareon,Conley,DB,2017,1,24,"6'00""",195,Ohio State
+2557980,Jabrill,Peppers,FS,2017,1,25,"5'11""",213,Michigan
+2557872,Takkarist,McKinley,DE,2017,1,26,"6'02""",250,UCLA
+2557867,Tre'Davious,White,CB,2017,1,27,"5'11""",192,Louisiana State
+2557882,Vidauntae,Charlton,DE,2017,1,28,"6'06""",273,Michigan
+2557986,David,Njoku,TE,2017,1,29,"6'04""",246,Miami
+2558064,Trent,Watt,OLB,2017,1,30,"6'04""",252,Wisconsin
+2557837,Reuben,Foster,OLB,2017,1,31,"6'01""",228,Alabama
+2557959,Ryan,Ramczyk,T,2017,1,32,"6'06""",314,Wisconsin
+2557996,Kevin,King,CB,2017,2,33,"6'03""",200,Washington
+2558004,Cameron,Robinson,T,2017,2,34,"6'06""",320,Alabama
+2558009,Budda,Baker,FS,2017,2,36,"5'10""",195,Washington
+2557863,Isaiah,Jones,WR,2017,2,37,"6'02""",200,East Carolina
+2557995,Marcus,Maye,FS,2017,2,39,"6'00""",207,Florida
+2558066,Curtis,Samuel,WR,2017,2,40,"5'11""",195,Ohio State
+2557991,Dalvin,Cook,RB,2017,2,41,"5'11""",213,Florida State
+2558847,Marcus,Williams,FS,2017,2,42,"6'01""",195,Utah
+2557889,Gerald,Everett,TE,2017,2,44,"6'03""",245,South Alabama
+2558144,Adam,Shaheen,TE,2017,2,45,"6'06""",270,Ashland
+2557961,Quincy,Wilson,CB,2017,2,46,"6'01""",206,Florida
+2558166,Tyus,Bowser,OLB,2017,2,47,"6'03""",240,Houston
+2557976,Joe,Mixon,RB,2017,2,48,"6'01""",228,Oklahoma
+2557853,Orlando,Anderson,OLB,2017,2,49,"6'02""",253,Alabama
+2557945,Justin,Evans,SS,2017,2,50,"6'01""",195,Texas A&M
+2557894,DeMarcus,Walker,OLB,2017,2,51,"6'04""",280,Florida State
+2557983,DeShone,Kizer,QB,2017,2,52,"6'04""",233,Notre Dame
+2557955,Jalen,Tabor,CB,2017,2,53,"6'00""",201,Florida
+2557846,Dalvin,Tomlinson,DT,2017,2,55,"6'03""",312,Alabama
+2558094,Zachary,Cunningham,ILB,2017,2,57,"6'03""",234,Vanderbilt
+2557891,Ethan,Pocic,C,2017,2,58,"6'06""",309,Louisiana State
+2558185,Tanoh,Kpassagnon,OLB,2017,2,59,"6'07""",280,Villanova
+2557840,Chidobe,Awuzie,CB,2017,2,60,"6'01""",202,Colorado
+2558119,Joshua,Jones,SS,2017,2,61,"6'02""",220,North Carolina State
+2558149,John,Smith-Schuster,WR,2017,2,62,"6'01""",215,Southern California
+2557875,Dion,Dawkins,T,2017,2,63,"6'05""",320,Temple
+2557871,Taylor,Moton,T,2017,2,64,"6'05""",325,Western Michigan
+2557836,Olumide,Ogunjobi,DT,2017,3,65,"6'02""",305,North Carolina-Charlotte
+2558157,James,Witherspoon,CB,2017,3,66,"6'03""",190,Colorado
+2558019,Alvin,Kamara,RB,2017,3,67,"5'10""",215,Tennessee
+2557839,Dawuane,Smoot,DE,2017,3,68,"6'03""",264,Illinois
+2557898,Cooper,Kupp,WR,2017,3,69,"6'02""",205,Eastern Washington
+2558848,Patrick,Elflein,C,2017,3,70,"6'03""",303,Ohio State
+2557873,Daniel,Feeney,G,2017,3,71,"6'04""",305,Indiana
+2557870,Taywan,Taylor,WR,2017,3,72,"5'11""",203,Western Kentucky
+2557884,Jordan,Willis,DE,2017,3,73,"6'04""",255,Kansas State
+2557862,Christopher,Wormley,DT,2017,3,74,"6'05""",300,Michigan
+2557967,Duke,Riley,OLB,2017,3,75,"6'01""",230,Louisiana State
+2558163,Alex,Anzalone,OLB,2017,3,76,"6'03""",240,Florida
+2557842,Daeshon,Hall,DE,2017,3,77,"6'05""",265,Texas A&M
+2557841,Timothy,Williams,OLB,2017,3,78,"6'03""",260,Alabama
+2558150,ArDarius,Stewart,WR,2017,3,79,"5'11""",204,Alabama
+2558165,Tarell,Basham,DE,2017,3,80,"6'04""",266,Ohio
+2558136,Fabian,Moreau,CB,2017,3,81,"6'00""",198,UCLA
+2558105,Rod,Godwin,WR,2017,3,84,"6'01""",209,Penn State
+2557917,Kareem,Hunt,RB,2017,3,86,"5'11""",208,Toledo
+2557982,Eddie,Vanderdoes,DT,2017,3,88,"6'03""",325,UCLA
+2557994,D'Onta,Foreman,RB,2017,3,89,"6'01""",233,Texas
+2558259,Shaquill,Griffin,CB,2017,3,90,"6'00""",198,Central Florida
+2558183,John,Johnson,SS,2017,3,91,"6'01""",204,Boston College
+2557920,Jourdan,Lewis,CB,2017,3,92,"5'10""",170,Michigan
+2557876,Montravius,Adams,DT,2017,3,93,"6'04""",304,Auburn
+2558077,Delano,Hill,SS,2017,3,95,"6'01""",216,Michigan
+2558052,Kenneth,Golladay,WR,2017,3,96,"6'04""",213,Northern Illinois
+2557931,Cordrea,Tankersley,CB,2017,3,97,"6'01""",196,Clemson
+2558208,Chad,Williams,WR,2017,3,98,"6'01""",204,Grambling
+2558168,Rasul,Douglas,CB,2017,3,99,"6'02""",209,West Virginia
+2558207,Jonnu,Smith,TE,2017,3,100,"6'03""",248,Florida International
+2558186,Brendan,Langley,CB,2017,3,101,"6'00""",199,Lamar
+2557964,Nazar,Jones,DT,2017,3,102,"6'05""",304,North Carolina
+2557943,Collins,Hendrickson,DE,2017,3,103,"6'04""",270,Florida Atlantic
+2557922,Casey,Beathard,QB,2017,3,104,"6'02""",215,Iowa
+2557978,James,Conner,RB,2017,3,105,"6'01""",233,Pittsburgh
+2557905,Amara,Darboh,WR,2017,3,106,"6'02""",219,Michigan
+2557847,Kendell,Beckwith,OLB,2017,3,107,"6'03""",247,Louisiana State
+2557845,Jaleel,Johnson,DT,2017,4,109,"6'03""",316,Iowa
+2558176,Eddie,Jackson,FS,2017,4,112,"6'00""",202,Alabama
+2558182,Rayshawn,Jenkins,SS,2017,4,113,"6'01""",214,Miami
+2558138,Samaje,Perine,RB,2017,4,114,"5'11""",236,Oklahoma
+2557901,Carl,Lawson,OLB,2017,4,116,"6'02""",261,Auburn
+2558194,Joshua,Reynolds,WR,2017,4,117,"6'03""",192,Texas A&M
+2558262,Mack,Hollins,WR,2017,4,118,"6'04""",221,North Carolina
+2558250,Tarik,Cohen,RB,2017,4,119,"5'06""",181,North Carolina A&T
+2558033,Benjamin,Gedeon,OLB,2017,4,120,"6'02""",244,Michigan
+2558133,Montae,Nicholson,FS,2017,4,123,"6'02""",216,Michigan State
+2557924,Jalen,Reeves-Maybin,OLB,2017,4,124,"6'00""",230,Tennessee
+2558830,Samson,Ebukam,OLB,2017,4,125,"6'03""",240,Eastern Washington
+2558049,Michael,Roberts,TE,2017,4,127,"6'05""",265,Toledo
+2557963,Julien,Davenport,T,2017,4,130,"6'07""",318,Bucknell
+2558000,Deatrich,Wise,DE,2017,4,131,"6'05""",271,Arkansas
+2557960,Ryan,Switzer,WR,2017,4,133,"5'10""",181,North Carolina
+2558204,Jamaal,Williams,RB,2017,4,134,"6'00""",213,Brigham Young
+2557851,Ryan,Glasgow,DT,2017,4,138,"6'03""",302,Michigan
+2557866,Jehu,Chesson,WR,2017,4,139,"6'03""",203,Michigan
+2557952,Wayne,Gallman,RB,2017,4,140,"6'00""",210,Clemson
+2558069,Timothy,Hansen,WR,2017,4,141,"6'02""",202,California
+2557877,Carlos,Watkins,DE,2017,4,142,"6'03""",309,Clemson
+2558123,Marlon,Mack,RB,2017,4,143,"6'00""",210,South Florida
+2558766,Grover,Stewart,NT,2017,4,144,"6'04""",333,"Albany State, Ga."
+2558266,George,Kittle,TE,2017,5,146,"6'04""",247,Iowa
+2558241,Blair,Brown,OLB,2017,5,148,"6'00""",238,Ohio
+2558184,Damontae,Kazee,SS,2017,5,149,"5'11""",174,San Diego State
+2557927,Desmond,King,CB,2017,5,151,"5'10""",201,Iowa
+2558172,Jake,Elliott,K,2017,5,153,"5'09""",167,Memphis
+2557886,Jeremy,Sprinkle,TE,2017,5,154,"6'05""",252,Arkansas
+2558005,Jayon,Brown,ILB,2017,5,155,"6'00""",226,UCLA
+2558112,Brian,Hill,RB,2017,5,156,"6'01""",219,Wyoming
+2558084,William,Holden,G,2017,5,157,"6'07""",312,Vanderbilt
+2558108,Nathan,Hairston,CB,2017,5,158,"6'00""",195,Temple
+2558257,Jermaine,Eluemunor,G,2017,5,159,"6'04""",330,Texas A&M
+2558851,Anthony,Walker,ILB,2017,5,161,"6'01""",242,Northwestern
+2557969,Matthew,Milano,OLB,2017,5,163,"6'00""",223,Boston College
+2558821,Jamal,Agnew,CB,2017,5,165,"5'10""",190,San Diego
+2558031,Avery,Moss,DE,2017,5,167,"6'03""",265,Youngstown State
+2557972,Marquel,Lee,MLB,2017,5,168,"6'03""",240,Wake Forest
+2558100,Treston,Decoud,CB,2017,5,169,"6'02""",206,Oregon State
+2558129,Isaiah,McKenzie,WR,2017,5,172,"5'07""",173,Georgia
+2558237,Brian,Allen,CB,2017,5,173,"6'03""",215,Utah
+2558023,Eric,Saubert,TE,2017,5,174,"6'05""",253,Drake
+2558202,Trent,Taylor,WR,2017,5,177,"5'08""",181,Louisiana Tech
+2558012,Davon,Godchaux,DT,2017,5,178,"6'03""",305,Louisiana State
+2558181,Daniel,Isidora,G,2017,5,180,"6'03""",306,Miami
+2558255,Dylan,Donahue,OLB,2017,5,181,"6'03""",248,West Georgia
+2558116,Aaron,Jones,RB,2017,5,182,"5'09""",208,Texas-El Paso
+2558097,Ukeme,Eligwe,ILB,2017,5,183,"6'02""",239,Georgia Southern
+2558007,Caleb,Brantley,DT,2017,6,185,"6'02""",307,Florida
+2558248,Charles,Clark,FS,2017,6,186,"6'00""",210,Virginia Tech
+2557934,Elijah,McGuire,RB,2017,6,188,"5'10""",214,Louisiana-Lafayette
+2558199,Tanzel,Smart,DT,2017,6,189,"6'01""",290,Tulane
+2558026,Samiuela,Tevi,T,2017,6,190,"6'05""",311,Utah
+2558159,Xavier,Woods,FS,2017,6,191,"5'11""",205,Louisiana Tech
+2558833,Alex,Armah,RB,2017,6,192,"6'02""",255,West Georgia
+2558801,Jordan,Evans,OLB,2017,6,193,"6'02""",233,Oklahoma
+2558017,Vincent,Taylor,DT,2017,6,194,"6'03""",296,Oklahoma State
+2558289,Tanner,Vallejo,OLB,2017,6,195,"6'01""",228,Boise State
+2558131,Al-Quadin,Muhammad,DE,2017,6,196,"6'04""",250,Miami
+2558265,David,Jones,DT,2017,6,198,"6'00""",321,Mississippi
+2558037,Chase,Roullier,C,2017,6,199,"6'04""",317,Wyoming
+2558284,Pita,Taumoepenu,DE,2017,6,202,"6'01""",243,Utah
+2557850,De'Angelo,Henderson,RB,2017,6,203,"5'07""",208,Coastal Carolina
+2558819,Derrick,Jones,CB,2017,6,204,"6'02""",188,Mississippi
+2558124,Jeremiah,Ledbetter,DT,2017,6,205,"6'03""",295,Arkansas
+2558174,Johnathan,Ford,FS,2017,6,208,"6'00""",204,Auburn
+2557868,Conor,McDermott,T,2017,6,211,"6'08""",305,UCLA
+2557981,Elijah,Qualls,DT,2017,6,214,"6'01""",321,Washington
+2557896,Stacy,Coley,WR,2017,7,219,"6'01""",195,Miami
+2558274,Shalom,Luani,FS,2017,7,221,"6'00""",205,Washington State
+2558140,Jalen,Myrick,CB,2017,7,222,"5'11""",200,Minnesota
+2558178,Zane,Gonzalez,K,2017,7,224,"6'00""",202,Arizona State
+2557860,Isaac,Rochell,DE,2017,7,225,"6'04""",280,Notre Dame
+2558857,Adrian,Colbert,FS,2017,7,229,"6'02""",205,Miami
+2558121,Elijah,Lee,LB,2017,7,232,"6'02""",229,Kansas State
+2558245,Harrison,Butker,K,2017,7,233,"6'04""",205,Georgia Tech
+2558858,Joshua,Holsey,CB,2017,7,235,"5'11""",195,Auburn
+2558837,Devante,Mays,RB,2017,7,238,"5'10""",230,Utah State
+2558091,Noah,Brown,WR,2017,7,239,"6'02""",222,Ohio State
+2558866,Kyle,Fuller,G,2017,7,243,"6'05""",307,Baylor
+2558111,Treyvon,Hester,DT,2017,7,244,"6'03""",300,Toledo
+2558865,Christopher,Carson,RB,2017,7,249,"5'11""",218,Oklahoma State
+2557987,Matthew,Dayes,RB,2017,7,252,"5'08""",205,North Carolina State
+2559121,Chris,Odom,OLB,2017,NULL,NULL,"6'04""",262,Arkansas State
+2558868,Jermaine,Grace,MLB,2017,NULL,NULL,"6'01""",223,Miami
+2558882,Deyshawn,Bond,C,2017,NULL,NULL,"6'01""",299,Cincinnati
+2558886,Darrell,Daniels,TE,2017,NULL,NULL,"6'03""",246,Washington
+2558888,Thomas,Hennessy,LS,2017,NULL,NULL,"6'02""",246,Duke
+2558897,Reginald,Porter,CB,2017,NULL,NULL,"5'11""",185,Utah
+2558899,Rigoberto,Sanchez,P,2017,NULL,NULL,"6'00""",195,Hawaii
+2558892,Kyle,Kalis,G,2017,NULL,NULL,"6'04""",302,Michigan
+2558912,Victor,Bolden,WR,2017,NULL,NULL,"5'08""",178,Oregon State
+2558914,Kendrick,Bourne,WR,2017,NULL,NULL,"6'01""",203,Eastern Washington
+2558918,Matthew,Breida,RB,2017,NULL,NULL,"5'11""",190,Georgia Southern
+2558953,Cole,Hikutini,TE,2017,NULL,NULL,"6'04""",247,Louisville
+2558957,Lorenzo,Jerome,FS,2017,NULL,NULL,"5'10""",204,"St. Francis, Pa."
+2558932,Aviante,Collins,T,2017,NULL,NULL,"6'06""",295,Texas Christian
+2559012,Eric,Wilson,OLB,2017,NULL,NULL,"6'02""",225,Cincinnati
+2558929,Cethan,Carter,TE,2017,NULL,NULL,"6'03""",241,Nebraska
+2558934,Demetrious,Cox,SS,2017,NULL,NULL,"6'00""",200,Michigan State
+2558982,Hardy,Nickerson,MLB,2017,NULL,NULL,"6'00""",232,Illinois
+2558988,Lenzy,Pipkins,CB,2017,NULL,NULL,"6'00""",196,Oklahoma State
+2559005,Paul,Vogel,P,2017,NULL,NULL,"6'04""",219,Miami
+2558917,George,Bradley,ILB,2017,NULL,NULL,"5'11""",237,Pittsburgh
+2558990,Patrick,Ricard,NT,2017,NULL,NULL,"6'03""",300,Maine
+2558924,Adam,Butler,DT,2017,NULL,NULL,"6'05""",300,Vanderbilt
+2558928,Austin,Carr,WR,2017,NULL,NULL,"6'01""",195,Northwestern
+2558956,Jacob,Hollister,TE,2017,NULL,NULL,"6'04""",239,Wyoming
+2558963,Havea,Langi,OLB,2017,NULL,NULL,"6'02""",252,Brigham Young
+2558976,Kenny,Moore,CB,2017,NULL,NULL,"5'09""",179,Valdosta State
+2559043,Chase,Allen,OLB,2017,NULL,NULL,"6'03""",250,Southern Illinois
+2559047,Matt,Haack,P,2017,NULL,NULL,"6'00""",205,Arizona State
+2558933,Bryan,Cox,DE,2017,NULL,NULL,"6'03""",270,Florida
+2559058,Maurice,Smith,FS,2017,NULL,NULL,"6'00""",197,Georgia
+2559034,Donald,Payne,MLB,2017,NULL,NULL,"5'11""",217,Stetson University
+2559044,Antony,Auclair,TE,2017,NULL,NULL,"6'05""",256,"Laval, Can."
+2558971,Gregory,Mabin,CB,2017,NULL,NULL,"6'02""",200,Iowa
+2559054,Nicholas,Morrow,OLB,2017,NULL,NULL,"6'00""",216,Greenville
+2559042,Xavier,Woodson-Luster,MLB,2017,NULL,NULL,"6'01""",219,Arkansas State
+2558931,Xavier,Coleman,CB,2017,NULL,NULL,"5'11""",190,Portland State
+2559076,Marcus,Kemp,WR,2017,NULL,NULL,"6'04""",185,Hawaii
+2559087,Arthur,Maulet,DB,2017,NULL,NULL,"5'10""",190,Memphis
+2559132,Eli,Ankou,DT,2017,NULL,NULL,"6'03""",290,UCLA
+2559286,Krishawn,Hogan,WR,2017,NULL,NULL,"6'03""",222,"Marian, Ind."
+2559248,Roderick,Seals-Jones,TE,2017,NULL,NULL,"6'05""",243,Texas A&M
+2559176,Aaron,Gentry,WR,2017,NULL,NULL,"6'02""",209,Wyoming
+2559287,Isaiah,Irving,OLB,2017,NULL,NULL,"6'02""",254,San Jose State
+2559141,Amin,Bello,MLB,2017,NULL,NULL,"6'02""",229,Illinois State
+2559220,Kaimana,Nacua,SS,2017,NULL,NULL,"6'00""",205,Brigham Young
+2559192,Tyrique,Jarrett,DT,2017,NULL,NULL,"6'03""",335,Pittsburgh
+2559153,Keelan,Cole,WR,2017,NULL,NULL,"6'01""",194,Kentucky Wesleyan
+2559161,Sean,Culkin,TE,2017,NULL,NULL,"6'05""",255,Missouri
+2559164,Michael,Davis,CB,2017,NULL,NULL,"6'02""",196,Brigham Young
+2559169,Austin,Ekeler,RB,2017,NULL,NULL,"5'10""",195,"Western State, Colo."
+2559183,Nigel,Harris,OLB,2017,NULL,NULL,"6'02""",225,South Florida
+2559205,Younghoe,Koo,K,2017,NULL,NULL,"5'10""",195,Georgia Southern
+2559225,James,Onwualu,OLB,2017,NULL,NULL,"6'01""",232,Notre Dame
+2559217,Calvin,Munson,MLB,2017,NULL,NULL,"6'01""",245,San Diego State
+2559241,Travis,Rudolph,WR,2017,NULL,NULL,"6'00""",190,Florida State
+2559254,Shane,Smith,FB,2017,NULL,NULL,"6'02""",231,San Jose State
+2559150,Corey,Clement,RB,2017,NULL,NULL,"5'10""",220,Wisconsin
+2559280,Chad,Wheeler,T,2017,NULL,NULL,"6'06""",310,Southern California
+2559140,Alejandro,Barrett,DE,2017,NULL,NULL,"6'03""",260,San Diego State
+2559310,Jeremiah,Valoaga,DE,2017,NULL,NULL,"6'06""",275,Nevada-Las Vegas
+2559163,Justin,Davis,RB,2017,NULL,NULL,"6'01""",198,Southern California
+2559299,Luke,Baylis,TE,2017,NULL,NULL,"6'06""",245,Oregon
+2559152,Dylan,Cole,ILB,2017,NULL,NULL,"6'00""",220,Missouri State
+2559181,Justin,Hardee,DB,2017,NULL,NULL,"6'01""",200,Illinois
+2559321,Jamal,Carter,SS,2017,NULL,NULL,"6'01""",218,Miami
+2559325,Ferrell,Edmunds,RB,2017,NULL,NULL,"6'02""",223,Maryland
+2559356,Dominique,Hatfield,CB,2017,NULL,NULL,"5'10""",170,Utah
+2559368,Chris,Thompson,WR,2017,NULL,NULL,"6'00""",175,Florida
+2553617,Terrell,Watson,RB,2015,NULL,NULL,"6'01""",240,Azusa Pacific
+2553637,Justin,Coleman,CB,2015,NULL,NULL,"5'11""",190,Tennessee
+2553655,Anthony,Harris,FS,2015,NULL,NULL,"6'01""",192,Virginia
+2553668,Jordan,Leslie,WR,2015,NULL,NULL,"6'03""",215,Brigham Young
+2552382,Malcolm,Brown,RB,2015,NULL,NULL,"5'11""",227,Texas
+2553722,Matt,Longacre,DE,2015,NULL,NULL,"6'03""",255,Northwest Missouri State
+2553774,Cameron,Lynch,OLB,2015,NULL,NULL,"6'00""",229,Syracuse
+2553748,Darrell,Williams,T,2015,NULL,NULL,"6'05""",305,South Florida
+2553528,Ladarius,Gunter,CB,2015,NULL,NULL,"6'02""",201,Miami
+2553710,Deshazor,Everett,SS,2015,NULL,NULL,"6'00""",195,Texas A&M
+2553632,Jams,Andrews,C,2015,NULL,NULL,"6'03""",295,Georgia
+2553665,Brandon,King,FS,2015,NULL,NULL,"6'02""",220,Auburn
+2553499,Damiere,Byrd,WR,2015,NULL,NULL,"5'09""",180,South Carolina
+2553705,Jesse,Davis,G,2015,NULL,NULL,"6'06""",321,Idaho
+2553733,Thomas,Rawls,RB,2015,NULL,NULL,"5'09""",215,Central Michigan
+2553743,Rod,Smith,FB,2015,NULL,NULL,"6'03""",240,Ohio State
+2553488,Jonathan,Anderson,ILB,2015,NULL,NULL,"6'03""",237,Texas Christian
+2553500,Bryce,Callahan,CB,2015,NULL,NULL,"5'10""",188,Rice
+2553557,Rick,Lovato,LS,2015,NULL,NULL,"6'02""",249,Old Dominion
+2553583,Olsen,Pierre,DT,2015,NULL,NULL,"6'05""",293,Miami
+2553610,John,Timu,ILB,2015,NULL,NULL,"6'00""",246,Washington
+2553519,Kurtis,Drummond,SS,2015,NULL,NULL,"6'01""",200,Michigan State
+2553549,Kendall,Lamm,T,2015,NULL,NULL,"6'06""",310,Appalachian State
+2553560,Gregory,Mancz,G,2015,NULL,NULL,"6'04""",310,Toledo
+2553870,Nordly,Capi,DE,2015,NULL,NULL,"6'03""",249,Akron
+2553805,David,Irving,DE,2015,NULL,NULL,"6'07""",273,Iowa State
+2553815,Justin,March-Lillard,OLB,2015,NULL,NULL,"6'00""",222,Akron
+2553830,Wilhelm,Tye,TE,2015,NULL,NULL,"6'02""",256,Stony Brook
+2553796,Quinton,Dunbar,CB,2015,NULL,NULL,"6'02""",197,Florida
