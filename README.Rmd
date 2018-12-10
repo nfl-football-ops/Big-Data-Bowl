@@ -18,11 +18,11 @@ Welcome to the data homepage for the NFL's 2019 Big Data Bowl. Here, you'll find
 
 ## What is contained in this repository
 
-1. Player tracking data from a subset of games from the 2017 season. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data/Tracking](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data/Tracking) for the complete list of games. Each game is stored as a unique .csv file. 
+1. Player tracking data from a subset of games from the 2017 season. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data/Tracking). Tracking data from each game is stored as a unique .csv file: ``tracking_gameId_[gameId].csv`, where `[gameId]` is a unique, 10-digit identifier for each game. 
 
 2. Player, play, and game-level data that correspond to the tracking data. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data) for each of these .csv files.
 
-3. A Data schema, which contains information on each of the variables in the data, as well as ways to link the data sets together.
+3. A Data schema, which contains information on each of the variables in the data set, as well as the **key** variables needed to link the data sets together. 
 
 4. A list of Data FAQs. 
 
