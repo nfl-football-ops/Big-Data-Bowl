@@ -11,7 +11,7 @@ What is contained in this repository
 
 2.  Player, play, and game-level data that correspond to the tracking data. See <https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data> for each of these .csv files.
 
-3.  A Data schema, which contains information on each of the variables in the data set, as well as the **key** variables needed to link the data sets together.
+3.  A Data schema, which contains information on each of the variables in the data set, as well as the **key** variables needed to link the data sets together. See <https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/schema.md>.
 
 4.  A list of Data FAQs.
 
