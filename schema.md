@@ -102,4 +102,4 @@ Files `tracking_gameId_[gameId].csv` contains player tracking data from game `[g
 -   **`gameId`**: Game identifier, unique (numeric)
 -   **`playId`**: Play identifier, not unique across games (numeric)
 
-<img src="Extras/Fig1.jpg" />
+<img src="Extras/Fig1.jpg" align="right" />
