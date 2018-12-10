@@ -5,10 +5,19 @@ Summary of data
 
 Here, you'll find a summary of each data set in the 2019 Data Bowl, a list of *key* variables to join on, and a description of each variable.
 
+File descriptions
+-----------------
+
+Game data: The `games.csv` file contains game-level information for each game from the first 6 weeks of the 2017 season. This includes the variables (**`key`** variables in **bold**).
+
+Play data: The `plays.csv` file contains play-level information from each game from the first 6 weeks of the 2017 season. This includes the variables (**`key`** variables in **bold**).
+
+Player data: The `players.csv` file contains player-level information from players that participated in at least one play during the first six weeks of the 2017 regular season.
+
+Tracking data: Files `tracking_gameId_[gameId].csv` contain player tracking data from game `[gameId]`. Nearly all plays from `[gameId]` are included; certain plays with incomplete or missing data are dropped.
+
 Game data
 ---------
-
-The `games.csv` file contains game-level information for each game from the first 6 weeks of the 2017 season. This includes the variables (**`key`** variables in **bold**).
 
 -   `season`: Season of game (numeric)
 -   `week`: Week of game, 1 through 6 (numeric)
@@ -34,8 +43,6 @@ The `games.csv` file contains game-level information for each game from the firs
 
 Play data
 ---------
-
-The `plays.csv` file contains play-level information from each game from the first 6 weeks of the 2017 season. This includes the variables (**`key`** variables in **bold**).
 
 -   **`gameId`**: Game identifier, unique (numeric)
 -   **`playId`**: Play identifier, not unique across games (numeric)
@@ -65,8 +72,6 @@ The `plays.csv` file contains play-level information from each game from the fir
 Player data
 -----------
 
-The `players.csv` file contains player-level information from players that participated in at least one play during the first six weeks of the 2017 regular season.
-
 -   **`nflId`**: Player identification number, unique across players (numeric)
 -   `FirstName`: First name of player (text)
 -   `LastName`: Last name of player (text)
@@ -84,8 +89,8 @@ Tracking data
 Files `tracking_gameId_[gameId].csv` contains player tracking data from game `[gameId]`. Nearly all plays from `[gameId]` are included; certain plays with insufficient data are dropped.
 
 -   `time`: Time stamp of play (time, yyyy-mm-dd, hh:mm:ss)
--   `x`: Player position along the long axis of the field, 0 - 120 yards (numeric)
--   `y`: Player position along the short axis of the field, 0 - 53.3 yards (numeric)
+-   `x`: Player position along the long axis of the field, 0 - 120 yards. See Figure 1 below. (numeric)
+-   `y`: Player position along the short axis of the field, 0 - 53.3 yards. See Figure 1 below. (numeric)
 -   `s`: Speed in yards/second (numeric)
 -   `dis`: Distance traveled from prior time point, in yards (numeric)
 -   `dir`: Angle of player motion (deg), 0 - 360 degrees (numeric)
@@ -96,3 +101,5 @@ Files `tracking_gameId_[gameId].csv` contains player tracking data from game `[g
 -   `frame.id`: Frame identifier for each play, starting at 1 (numeric)
 -   **`gameId`**: Game identifier, unique (numeric)
 -   **`playId`**: Play identifier, not unique across games (numeric)
+
+<img src="Extras/Fig1.jpg" />
