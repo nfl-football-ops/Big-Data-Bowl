@@ -2,12 +2,18 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <img src="Extras/bdb.png" align="right" />
 
-Welcome to the data homepage for the NFL's 2019 Big Data Bowl. Here, you'll find links to XX weeks of player tracking data from [Next Gen Stats](https://nextgenstats.nfl.com/), a style guide with references to each data set and each variable, a list of FAQs for the 2019 contest, and a tutorial on how to visualize and animate the player tracking data using the [R Statistical Software](https://cran.r-project.org/).
+Welcome to the data homepage for the NFL's 2019 Big Data Bowl. Here, you'll find links to 6 weeks of player tracking data from [Next Gen Stats](https://nextgenstats.nfl.com/), a style guide with references to each data set and each variable, a list of FAQs for the 2019 contest, and a tutorial on how to visualize and animate the player tracking data using the [R Statistical Software](https://cran.r-project.org/).
 
 Terms of use
 ------------
 
-Participants are eligible to XXX YYY. Copy and paste final terms-of-use here.
+Full terms of use for the 2019 Data Bowl can be found [insert link here]()
+
+**Ownership and Use of Next Gen Stats (hereafter referred to as “NGS”) Data.** Data provided in this Contest (NGS Data) is solely owned by the Sponsor. Any and all rights to NGS Data granted to each Entrant are subject to the Sponsor’s ownership rights to the NGS Data. Each Entrant expressly acknowledges and agrees that it will not use, edit, modify, create derivatives, combinations or compilations of, combine, associate, re-identify, reverse engineer, reproduce, display, distribute, disclose, license, sell or otherwise process NGS Data for any purpose whatsoever other than to compete in this contest, unless expressly permitted otherwise by the Sponsor in writing. Each Entrant acknowledges that it is not authorized to archive NGS Data and may not grant to any other party any rights to access, use or process NGS Data. Under no circumstances is participation in this Contest intended to be construed as a license (expressly, by implication, estoppel, or otherwise) or the grant of any right of ownership in any of the NGS Data.
+
+**Disclaimer of Warranties.** ENTRANT ACKNOWLEDGES THAT NGS DATA IS PROVIDED ON AN “AS IS” BASIS AND THAT THE SPONSOR MAKES NO REPRESENTATION OR WARRANTY WHATSOEVER, EXPRESS OR IMPLIED, WITH RESPECT TO NGS DATA.
+
+**Confidentiality.** The NGS Data provided in this Contest is not generally available to the public. Each Entrant agrees that it shall keep NGS Data strictly confidential and not transmit, duplicate, publish, redistribute, provide or communicate the data (or any part thereof) to any other person or entity without the prior written consent of the Sponsor. Each Entrant shall destroy NGS Data in its possession following conclusion of this Contest.
 
 What is contained in this repository
 ------------------------------------
@@ -20,14 +26,14 @@ What is contained in this repository
 
 4.  A list of Data FAQs. See <https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/faqs.md>.
 
-What the player tracking data looks like
-----------------------------------------
+What player tracking data looks like
+------------------------------------
 
-A brief tutorial of using the `gganimate` [package](https://github.com/thomasp85/gganimate) in R to animate the tracking data follows.
+A brief tutorial using the `gganimate` [package](https://github.com/thomasp85/gganimate) in R to animate the tracking data follows.
 
 ### Reading in the data
 
-Here's one way to read in the data and look at a play from the 2017 season.
+First, the following code reads in a few of the different data sets and selects a play to animate (Tyreek Hill's TD reception during Week 1, video [here](https://www.youtube.com/watch?v=QJaC5jHOwDY))
 
 ``` r
 library(tidyverse)
@@ -53,18 +59,21 @@ example.play %>% select(playDescription) %>% slice(1)
 
 ### Animating the data
 
-Now that we have a play, the following code animates Tyreek Hill's TD reception during Week 1 of the 2017 season ([video here](https://www.youtube.com/watch?v=QJaC5jHOwDY)).
+The following code animates each player that was on the field for Hill's touchdown. As one note, the code is flexible so that plays at different parts of the field could feature different boundaries. As a second, the x-axis and y-axis coordinates are flipped.
 
 ``` r
 library(gganimate)
 library(cowplot)
-## Get boundaries for a given play
+
+## General field boundaries
 xmin <- 0
 xmax <- 160/3
 hash.right <- 38.35
 hash.left <- 12
 hash.width <- 3.3
 
+
+## Specific boundaries for a given play
 ymin <- max(round(min(example.play$x, na.rm = TRUE) - 10, -1), 0)
 ymax <- min(round(max(example.play$x, na.rm = TRUE) + 10, -1), 120)
 df.hash <- expand.grid(x = c(0, 23.36667, 29.96667, xmax), y = (10:110))
@@ -104,6 +113,7 @@ animate.play <- ggplot() +
   ease_aes('linear') + 
   NULL
 
+## Ensure timing of play matches 10 frames-per-second
 play.length.ex <- length(unique(example.play$frame.id))
 animate(animate.play, fps = 10, nframe = play.length.ex)
 ```
