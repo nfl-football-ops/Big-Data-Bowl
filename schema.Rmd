@@ -19,13 +19,13 @@ Here, you'll find a summary of each data set in the 2019 Data Bowl, a list of *k
 
 ## File descriptions
 
-Game data: The `games.csv` file contains game-level information for each game from the first 6 weeks of the 2017 season. Key variables in **bold**.
+Game data: The `games.csv` file contains game-level information for each game from the first 6 weeks of the 2017 season. The *key* variable is **`gameId`**.
 
-Play data: The `plays.csv` file contains play-level information from each game from the first 6 weeks of the 2017 season. Key variables in **bold**.
+Play data: The `plays.csv` file contains play-level information from each game from the first 6 weeks of the 2017 season. The *key* variables are **`gameId`** and **`playId`**. 
 
-Player data: The `players.csv` file contains player-level information from players that participated in at least one play during the first six weeks of the 2017 regular season. Key variables in **bold**.
+Player data: The `players.csv` file contains player-level information from players that participated in at least one play during the first six weeks of the 2017 regular season. The *key* variable is **`nflId`**.
 
-Tracking data: Files `tracking_gameId_[gameId].csv` contain player tracking data from game `[gameId]`. Nearly all plays from `[gameId]` are included; certain plays with incomplete or missing data are dropped. Key variables in **bold**.
+Tracking data: Files `tracking_gameId_[gameId].csv` contain player tracking data from game `[gameId]`. Nearly all plays from `[gameId]` are included; certain plays with incomplete or missing data are dropped. The *key* variables are **`gameId`**, **`playId`**, and **`nflId`**. 
 
 ## Game data
 
