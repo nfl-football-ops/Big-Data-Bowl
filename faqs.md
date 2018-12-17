@@ -31,3 +31,7 @@ Yes. As an example, we encourage participants to submit their methods and findin
 **Question 4:** Is there anything else about the data that I should know about?
 
 Player tracking data comes from chips embedded in player shoulder pads. Given this technology, as well as technological interferences that occasionally occur at NFL stadia, certain plays may feature insufficient or imperfect data.
+
+**Question 5:** Who should I contact with questions?
+
+Reach out to us at <BDBHelp@nfl.com>.
