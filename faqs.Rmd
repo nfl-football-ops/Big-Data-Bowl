@@ -39,4 +39,6 @@ The Tampa Bay/Miami game was pushed back due to Hurricane Irma, giving each team
 
 Yes. As an example, we encourage participants to submit their methods and findings to a special issue of the [Journal of Quantitative Analysis of Sports](https://www.degruyter.com/view/j/jqas) that is devoted to the analysis of football tracking data. 
 
+**Question 4:** Is there anything else about the data that I should know about?
 
+Player tracking data comes from chips embedded in player shoulder pads. Given this technology, as well as technological interferences that occasionally occur at NFL stadia, certain plays may feature insufficient or imperfect data. 
