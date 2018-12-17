@@ -16,6 +16,18 @@ knitr::opts_chunk$set(
 
 Welcome to the data homepage for the NFL's 2019 Big Data Bowl. Here, you'll find links to 6 weeks of player tracking data from [Next Gen Stats](https://nextgenstats.nfl.com/), a style guide with references to each data set and each variable, a list of FAQs for the 2019 contest, and a tutorial on how to visualize and animate the player tracking data using the [R Statistical Software](https://cran.r-project.org/). 
 
+## What is contained in this repository
+
+1. Player tracking data from a subset of games from the 2017 season. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data). Tracking data from each game is stored as a unique .csv file: ``tracking_gameId_[gameId].csv`, where `[gameId]` is a unique, 10-digit identifier for each game. 
+
+2. Player, play, and game-level data that correspond to the tracking data. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data) for each of these .csv files.
+
+3. A Data schema, which contains information on each of the variables in the data set, as well as the *key* variables needed to link the data sets together. See [https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/schema.md](https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/schema.md).
+
+4. A list of Data FAQs. See [https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/faqs.md](https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/faqs.md).
+
+
+
 ## Terms of use
 
 Full terms of use for the Big Data Bowl can be found [here](operations.nfl.com/big-data-bowl).
@@ -26,17 +38,6 @@ Full terms of use for the Big Data Bowl can be found [here](operations.nfl.com/b
 
 **Confidentiality:** The NGS Data provided in this Contest is not generally available to the public. Each Entrant agrees that it shall keep NGS Data strictly confidential and not transmit, duplicate, publish, redistribute, provide or communicate the data (or any part thereof) to any other person or entity without the prior written consent of the Sponsor. Each Entrant shall destroy NGS Data in its possession following conclusion of this Contest.
 
-
-
-## What is contained in this repository
-
-1. Player tracking data from a subset of games from the 2017 season. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data). Tracking data from each game is stored as a unique .csv file: ``tracking_gameId_[gameId].csv`, where `[gameId]` is a unique, 10-digit identifier for each game. 
-
-2. Player, play, and game-level data that correspond to the tracking data. See [https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data](https://github.com/nfl-football-ops/Big-Data-Bowl/tree/master/Data) for each of these .csv files.
-
-3. A Data schema, which contains information on each of the variables in the data set, as well as the *key* variables needed to link the data sets together. See [https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/schema.md](https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/schema.md).
-
-4. A list of Data FAQs. See [https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/faqs.md](https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/faqs.md).
 
 ## What player tracking data looks like
 
