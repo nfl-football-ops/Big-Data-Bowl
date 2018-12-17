@@ -18,7 +18,7 @@ What is contained in this repository
 Terms of use
 ------------
 
-Full terms of use for the Big Data Bowl can be found [here](https://operations.nfl.com/big-data-bowl).
+Full terms of use for the Big Data Bowl can be found [here](http://ops.nfl.com/big-data-bowl).
 
 **Ownership of Next Gen Stats:** Data provided in this Contest (NGS Data) is solely owned by the Sponsor. Any and all rights to NGS Data granted to each Entrant are subject to the Sponsor’s ownership rights to the NGS Data. Each Entrant expressly acknowledges and agrees that it will not use, edit, modify, create derivatives, combinations or compilations of, combine, associate, re-identify, reverse engineer, reproduce, display, distribute, disclose, license, sell or otherwise process NGS Data for any purpose whatsoever other than to compete in this contest, unless expressly permitted otherwise by the Sponsor in writing. Each Entrant acknowledges that it is not authorized to archive NGS Data and may not grant to any other party any rights to access, use or process NGS Data. Under no circumstances is participation in this Contest intended to be construed as a license (expressly, by implication, estoppel, or otherwise) or the grant of any right of ownership in any of the NGS Data.
 
