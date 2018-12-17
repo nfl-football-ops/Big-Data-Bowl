@@ -94,6 +94,7 @@ Files `tracking_gameId_[gameId].csv` contains player tracking data from game `[g
 -   `s`: Speed in yards/second (numeric)
 -   `dis`: Distance traveled from prior time point, in yards (numeric)
 -   `dir`: Angle of player motion (deg), 0 - 360 degrees (numeric)
+-   `event`: Tagged play details, including moment of ball snap, pass release, pass catch, tackle, etc (text)
 -   **`nflId`**: Player identification number, unique across players (numeric)
 -   `displayName`: Player name (text)
 -   `jerseyNumber`: Jersey number of player (numeric)
