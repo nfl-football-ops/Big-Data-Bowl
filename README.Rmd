@@ -51,13 +51,13 @@ First, the following code reads in a few of the different data sets and selects 
 
 ```{r, message=FALSE, cache=TRUE, warning = FALSE}
 library(tidyverse)
-file.tracking <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/tracking_gameId_2017090700.csv?token=ArYlP9Tyz03227j1NLLnn2EgDnG0hvjzks5cF8pqwA%3D%3D"
+file.tracking <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/tracking_gameId_2017090700.csv"
 tracking.example <- read_csv(file.tracking)
 
-file.game <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/games.csv?token=ArYlP2oUOGMLxhNkDnXeeW2Caqfca8FLks5cF8yZwA%3D%3D"
+file.game <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/games.csv"
 games.sum <- read_csv(file.game) 
 
-file.plays <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/plays.csv?token=ArYlP29GJb2R7m9wDe8lEDaXxH_Y9jN3ks5cF8ypwA%3D%3D"
+file.plays <- "https://raw.githubusercontent.com/nfl-football-ops/Big-Data-Bowl/master/Data/plays.csv"
 plays.sum <- read_csv(file.plays) 
 
 tracking.example.merged <- tracking.example %>% inner_join(games.sum) %>% inner_join(plays.sum) 
