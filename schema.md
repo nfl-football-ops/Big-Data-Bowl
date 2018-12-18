@@ -68,6 +68,7 @@ Play data
 -   `PassResult`: Result of pass play (text, `C`: caught, `I`: incomplete, `IN`: intercepted, `R`: run, `S`: sack)
 -   `YardsAfterCatch`: Yardage receiver gained after a pass completion (numeric)
 -   `PlayResult`: Result of play, in yards (numeric)
+-   `playDescription`: Description of play (text)
 
 Player data
 -----------
