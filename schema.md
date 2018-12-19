@@ -36,7 +36,7 @@ Game data
 -   `Turf`: Surface of stadium (text)
 -   `GameLength`: Time the game took to complete (time, HH:MM:SS)
 -   `GameWeather`: Game weather (text)
--   `Temperature`: Temperature in Farenheit, drawn roughly at the start of the game (numeric)
+-   `Temperature`: Temperature in Fahrenheit, drawn roughly at the start of the game (numeric)
 -   `Humidity`: Humidity (numeric)
 -   `WindSpeed`: Wind speed, in miles-per-hour (numeric)
 -   `WindDirection`: Direction of wind (text)
