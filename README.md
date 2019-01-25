@@ -19,6 +19,11 @@ What remains in this repository
 
 4.  A list of Data FAQs. See <https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/faqs.md>.
 
+Call for papers
+---------------
+
+Folks who have developed methods for analyzing player tracking data are encouraged to submit papers to the Journal of Quantitative Analysis in Sports, which is running a special issue. For more information, see the Call for Papers ([link](https://twitter.com/StatsbyLopez/status/1086742246161043457)).
+
 Official rules
 --------------
 
