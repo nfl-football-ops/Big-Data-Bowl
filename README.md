@@ -36,7 +36,7 @@ A brief tutorial using the `gganimate` [package](https://github.com/thomasp85/gg
 
 ### Reading in the data
 
-First, the following code reads in a few of the different data sets and selects a play to animate (Tyreek Hill's TD reception during Week 1, video [here](https://www.youtube.com/watch?v=QJaC5jHOwDY))
+First, the following code reads in a few of the different data sets and selects a play to animate (Demetrius Harris's TD reception during Week 1, video [here](https://twitter.com/Chiefs/status/905963498169032704).
 
 ``` r
 library(tidyverse)
@@ -51,18 +51,18 @@ plays.sum <- read_csv(file.plays)
 
 tracking.example.merged <- tracking.example %>% inner_join(games.sum) %>% inner_join(plays.sum) 
 
-example.play <- tracking.example.merged %>% filter(playId == 2756)
+example.play <- tracking.example.merged %>% filter(playId == 938)
 
 example.play %>% select(playDescription) %>% slice(1)
 #> # A tibble: 1 x 1
 #>   playDescription                                                          
 #>   <chr>                                                                    
-#> 1 (9:28) (Shotgun) A.Smith pass deep right to T.Hill for 75 yards, TOUCHDO~
+#> 1 (3:10) (Shotgun) A.Smith pass short right to D.Harris for 7 yards, TOUCH~
 ```
 
 ### Animating the data
 
-The following code animates each player that was on the field for Hill's touchdown. As one note, the code is flexible, such that plays at different parts of the field could feature different boundaries. As a second, the x-axis and y-axis coordinates are flipped.
+The following code animates each player that was on the field. As one note, the code is flexible, such that plays at different parts of the field could feature different boundaries. As a second, the x-axis and y-axis coordinates are flipped.
 
 ``` r
 library(gganimate)
@@ -84,13 +84,10 @@ df.hash <- df.hash %>% filter(!(floor(y %% 5) == 0))
 df.hash <- df.hash %>% filter(y < ymax, y > ymin)
 
 animate.play <- ggplot() +
-  geom_point(data = example.play, aes(x = (xmax-y), y = x, 
-                                 colour = team, group = nflId, pch = team, size = team)) + 
-  geom_text(data = example.play, aes(x = (xmax-y), y = x, label = jerseyNumber), colour = "white", 
-            vjust = 0.36, size = 3.5) + 
   scale_size_manual(values = c(6, 4, 6), guide = FALSE) + 
-  scale_shape_manual(values = c(19, 16, 19), guide = FALSE) +
-  scale_colour_manual(values = c("#e31837", "#654321", "#002244"), guide = FALSE) + 
+  scale_shape_manual(values = c(21, 16, 21), guide = FALSE) +
+  scale_fill_manual(values = c("#e31837", "#654321", "#002244"), guide = FALSE) + 
+  scale_colour_manual(values = c("black", "#654321", "#c60c30"), guide = FALSE) + 
   annotate("text", x = df.hash$x[df.hash$x < 55/2], 
            y = df.hash$y[df.hash$x < 55/2], label = "_", hjust = 0, vjust = -0.2) + 
   annotate("text", x = df.hash$x[df.hash$x > 55/2], 
@@ -109,6 +106,10 @@ animate.play <- ggplot() +
            y = c(ymin, ymax, ymax, ymin), 
            xend = c(xmin, xmax, xmax, xmin), 
            yend = c(ymax, ymax, ymin, ymin), colour = "black") + 
+  geom_point(data = example.play, aes(x = (xmax-y), y = x, shape = team,
+                                 fill = team, group = nflId, size = team, colour = team), alpha = 0.7) + 
+  geom_text(data = example.play, aes(x = (xmax-y), y = x, label = jerseyNumber), colour = "white", 
+            vjust = 0.36, size = 3.5) + 
   ylim(ymin, ymax) + 
   coord_fixed() +  
   theme_nothing() + 

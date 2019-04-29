@@ -66,7 +66,7 @@ example.play %>% select(playDescription) %>% slice(1)
 
 ### Animating the data
 
-The following code animates each player that was on the field for Hill's touchdown. As one note, the code is flexible, such that plays at different parts of the field could feature different boundaries. As a second, the x-axis and y-axis coordinates are flipped. 
+The following code animates each player that was on the field. As one note, the code is flexible, such that plays at different parts of the field could feature different boundaries. As a second, the x-axis and y-axis coordinates are flipped. 
 
 ```{r, cache=TRUE, warning = FALSE}
 library(gganimate)
